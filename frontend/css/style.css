@@ -1,0 +1,92 @@
+body {
+  background: #f5f7fb;
+  color: #1f2937;
+  font-family: Arial, sans-serif;
+}
+
+.app-navbar {
+  background: linear-gradient(135deg, #0d47a1, #1565c0);
+}
+
+.chat-header h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.chat-box {
+  background: #f8fafc;
+  min-height: 58vh;
+  max-height: 58vh;
+  overflow-y: auto;
+}
+
+.message {
+  max-width: 85%;
+  padding: 14px 16px;
+  border-radius: 18px;
+  margin-bottom: 16px;
+  line-height: 1.55;
+}
+
+.user-message {
+  background: #dbeafe;
+  margin-left: auto;
+  border-bottom-right-radius: 6px;
+}
+
+.ai-message {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  margin-right: auto;
+  border-bottom-left-radius: 6px;
+}
+
+.message-role {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #6b7280;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.reference-box {
+  margin-top: 12px;
+  background: #fff8e1;
+  border: 1px solid #ffe08a;
+  border-radius: 14px;
+  padding: 12px;
+}
+
+.reference-title {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.input-panel {
+  background: #fff;
+}
+
+.history-list .list-group-item {
+  border-radius: 10px !important;
+  margin-bottom: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.demo-box {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 14px;
+}
+
+.auth-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #eef4ff, #f7f9fc);
+}
+
+@media (max-width: 991.98px) {
+  .chat-box {
+    min-height: 50vh;
+    max-height: 50vh;
+  }
+}
