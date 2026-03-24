@@ -1,5 +1,3 @@
-"""SQLAlchemy ORM models used by the API."""
-
 from datetime import datetime
 
 from core.database import Base
@@ -23,10 +21,6 @@ class User(Base):
     # Relationship with QueryHistory
     queries = relationship("QueryHistory", back_populates="user")
 
-    def __repr__(self) -> str:
-        return f"User(id={self.id}, username={self.username!r})"
-
-
 class QueryHistory(Base):
     __tablename__ = "query_history"
 
@@ -40,14 +34,6 @@ class QueryHistory(Base):
 
     # Relationship with User
     user = relationship("User", back_populates="queries")
-
-    def __repr__(self) -> str:
-        return (
-            "QueryHistory(id={id}, user_id={user_id}, conversation_id={cid})".format(
-                id=self.id, user_id=self.user_id, cid=self.conversation_id
-            )
-        )
-
 
 class HistoryResponse(BaseModel):
     id: int
