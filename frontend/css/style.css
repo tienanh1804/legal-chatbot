@@ -1,5 +1,5 @@
 body {
-  background: #f5f7fb;
+  background: #f3f6fb;
   color: #1f2937;
   font-family: Arial, sans-serif;
 }
@@ -8,24 +8,37 @@ body {
   background: linear-gradient(135deg, #0d47a1, #1565c0);
 }
 
-.chat-header h3 {
-  font-size: 1.4rem;
-  font-weight: 700;
+.brand-icon {
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  object-fit: cover;
+  background: rgba(255,255,255,0.12);
+  padding: 4px;
+}
+
+.app-card {
+  border-radius: 18px;
 }
 
 .chat-box {
-  background: #f8fafc;
+  background: linear-gradient(180deg, #f8fbff 0%, #f6f8fc 100%);
   min-height: 58vh;
   max-height: 58vh;
   overflow-y: auto;
 }
 
+.chat-topbar {
+  background: #fff;
+}
+
 .message {
-  max-width: 85%;
+  max-width: 88%;
   padding: 14px 16px;
   border-radius: 18px;
   margin-bottom: 16px;
-  line-height: 1.55;
+  line-height: 1.6;
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.04);
 }
 
 .user-message {
@@ -49,6 +62,11 @@ body {
   margin-bottom: 4px;
 }
 
+.message-content {
+  white-space: normal;
+  word-break: break-word;
+}
+
 .reference-box {
   margin-top: 12px;
   background: #fff8e1;
@@ -66,6 +84,16 @@ body {
   background: #fff;
 }
 
+.helper-line {
+  font-size: 0.87rem;
+  color: #6b7280;
+}
+
+.history-list {
+  max-height: 330px;
+  overflow-y: auto;
+}
+
 .history-list .list-group-item {
   border-radius: 10px !important;
   margin-bottom: 8px;
@@ -79,9 +107,24 @@ body {
   padding: 14px;
 }
 
+.sidebar-note {
+  line-height: 1.5;
+}
+
 .auth-page {
   min-height: 100vh;
   background: linear-gradient(135deg, #eef4ff, #f7f9fc);
+}
+
+.auth-card {
+  border-radius: 22px;
+}
+
+.auth-logo {
+  width: 72px;
+  height: 72px;
+  border-radius: 18px;
+  object-fit: cover;
 }
 
 @media (max-width: 991.98px) {

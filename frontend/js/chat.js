@@ -3,6 +3,11 @@ const questionInput = document.getElementById("question-input");
 const chatBox = document.getElementById("chat-box");
 const typingIndicator = document.getElementById("typing-indicator");
 const suggestionButtons = document.querySelectorAll(".suggestion-btn");
+const logoutBtn = document.getElementById("logout-btn");
+const loginState = document.getElementById("login-state");
+const loginLink = document.getElementById("login-link");
+const registerLink = document.getElementById("register-link");
+const sendBtn = document.getElementById("send-btn");
 
 let currentConversationId = null;
 
@@ -23,6 +28,22 @@ function parseSourcesToReferences(sources) {
     .map((line) => ({ law: line, article: "" }));
 }
 
+function updateAuthState() {
+  const token = localStorage.getItem("token");
+  if (!loginState) return;
+  if (token) {
+    loginState.textContent = "Đã đăng nhập";
+    logoutBtn?.classList.remove("d-none");
+    loginLink?.classList.add("d-none");
+    registerLink?.classList.add("d-none");
+  } else {
+    loginState.textContent = "Chưa đăng nhập";
+    logoutBtn?.classList.add("d-none");
+    loginLink?.classList.remove("d-none");
+    registerLink?.classList.remove("d-none");
+  }
+}
+
 function appendMessage(role, content, references = []) {
   const wrapper = document.createElement("div");
   wrapper.className = `message ${role === "user" ? "user-message" : "ai-message"}`;
@@ -37,6 +58,7 @@ function appendMessage(role, content, references = []) {
       <li>
         <strong>${escapeHtml(ref.law || ref.title || "Văn bản pháp luật")}</strong>
         ${ref.article ? ` - ${escapeHtml(ref.article)}` : ""}
+        ${ref.url ? `<div><a href="${escapeHtml(ref.url)}" target="_blank" rel="noopener noreferrer">Mở nguồn</a></div>` : ""}
       </li>
     `).join("");
 
@@ -55,6 +77,8 @@ function appendMessage(role, content, references = []) {
 
 function toggleTyping(show) {
   typingIndicator.classList.toggle("d-none", !show);
+  if (sendBtn) sendBtn.disabled = show;
+  if (questionInput) questionInput.disabled = show;
 }
 
 async function handleSendQuestion(question) {
@@ -90,6 +114,7 @@ async function handleSendQuestion(question) {
     appendMessage("ai", `Không thể xử lý yêu cầu: ${error.message}`);
   } finally {
     toggleTyping(false);
+    questionInput?.focus();
   }
 }
 
@@ -112,3 +137,11 @@ suggestionButtons.forEach((button) => {
     await handleSendQuestion(question);
   });
 });
+
+logoutBtn?.addEventListener("click", () => {
+  localStorage.removeItem("token");
+  updateAuthState();
+  appendMessage("ai", "Bạn đã đăng xuất.");
+});
+
+updateAuthState();
