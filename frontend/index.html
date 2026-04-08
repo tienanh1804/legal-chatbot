@@ -29,16 +29,12 @@
       <div class="col-lg-3">
         <div class="card shadow-sm border-0 app-card h-100">
           <div class="card-body">
-            <div class="d-flex align-items-center justify-content-between mb-3">
+            <div class="d-flex align-items-center justify-content-between mb-3 gap-2">
               <h5 class="fw-bold mb-0">Lịch sử hội thoại</h5>
+              <button class="btn btn-primary btn-sm" id="new-chat-btn" type="button">+ Cuộc trò chuyện mới</button>
             </div>
 
-            <div class="list-group history-list mb-4" id="history-list">
-              <button class="list-group-item list-group-item-action active">Cuộc trò chuyện hiện tại</button>
-              <button class="list-group-item list-group-item-action">Vi phạm giao thông</button>
-              <button class="list-group-item list-group-item-action">Chấm dứt hợp đồng lao động</button>
-              <button class="list-group-item list-group-item-action">Ly hôn đơn phương</button>
-            </div>
+            <div class="list-group history-list mb-4" id="history-list"></div>
 
             <div class="demo-box mb-3">
               <h6 class="fw-bold">Câu hỏi gợi ý</h6>
@@ -58,7 +54,7 @@
           <div class="card-body p-0">
             <div class="chat-topbar px-4 py-3 border-bottom d-flex align-items-center justify-content-between">
               <div>
-                <div class="fw-semibold">Phiên hỏi đáp pháp luật</div>
+                <div class="fw-semibold" id="chat-session-title">Phiên hỏi đáp pháp luật</div>
               </div>
             </div>
 
