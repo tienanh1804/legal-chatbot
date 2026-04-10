@@ -1,0 +1,73 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=32874*
+
+# Nghị định 214/2013/NĐ-CP
+
+* Hiệu lực:
+ Hết hiệu lực toàn bộ
+* Ngày có hiệu lực:
+ 10/02/2014
+* Ngày hết hiệu lực:
+ 01/03/2021
+
+| **CHÍNH PHỦ** Số: 214/2013/NĐ-CP |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 20 tháng 12 năm 2013* |
+
+**NGHỊ ĐỊNH**
+
+**Sửa đổi, bổ sung một số điều của Nghị định số [103/2008/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=103/2008/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0)**
+
+**ngày 16 tháng 9 năm 2008 của Chính phủ về bảo hiểm bắt buộc**
+
+**trách nhiệm dân sự của chủ xe cơ giới**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+*Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;*
+
+*Căn cứ Luật Kinh doanh bảo hiểm ngày 09 tháng 12 năm 2000 và Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm ngày 24 tháng 11 năm 2010;*
+
+*Theo đề nghị của Bộ trưởng Bộ Tài chính;*
+
+*Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số [103/2008/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=103/2008/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 16 tháng 9 năm 2008 của Chính phủ về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới,*
+
+**Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số [103/2008/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=103/2008/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 16 tháng 9 năm 2008 của Chính phủ về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới như sau:**
+
+1. Sửa đổi Khoản 2 Điều 4 như sau:
+
+“2. Doanh nghiệp bảo hiểm có trách nhiệm trích 1% doanh thu phí bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới hàng năm để đóng vào Quỹ bảo hiểm xe cơ giới”.
+
+2. Sửa đổi Khoản 9 Điều 20 như sau:
+
+“9. Trích 1% doanh thu phí bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới hàng năm đóng góp vào Quỹ bảo hiểm xe cơ giới.”
+
+3. Sửa đổi Khoản 5 Điều 21 như sau:
+
+“Ban hành cơ chế quản lý, sử dụng, thanh toán và quyết toán Quỹ bảo hiểm xe cơ giới.”
+
+**Điều 2. Hiệu lực thi hành**
+
+Nghị định này có hiệu lực thi hành kể từ ngày 10 tháng 02 năm 2014.
+
+**Điều 3. Trách nhiệm tổ chức thực hiện**
+
+1. Bộ Tài chính hướng dẫn thi hành Nghị định này.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Nghị định này./.
+
+| TM. CHÍNH PHỦ |
+| Thủ tướng |
+| *(Đã ký)* |
+| | | | |
+| Nguyễn Tấn Dũng |
+
+Tải file đính kèm
+
+* Bản PDF:
+ + [214.2013.ND.CP.pdf](javascript:downloadfile('VanBanGoc_214.2013.ND.CP.pdf','/FileData/TW/Lists/vbpq/Attachments/32874/VanBanGoc_214.2013.ND.CP.pdf');)
+ + [214\_2013\_NĐ-CP.pdf](javascript:downloadfile('VanBanGoc_214_2013_NĐ-CP.pdf','/FileData/TW/Lists/vbpq/Attachments/32874/VanBanGoc_214_2013_NĐ-CP.pdf');)
+* File đính kèm:
+ + [214.2013.ND.CP.doc](javascript:downloadfile('214.2013.ND.CP.doc','/TW/Lists/vbpq/Attachments/32874/214.2013.ND.CP.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/32874/214.2013.ND.CP.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

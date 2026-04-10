@@ -1,0 +1,76 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=162257*
+
+# Quyết định 19/2023/QĐ-TTg
+
+* Hiệu lực:
+ Hết hiệu lực toàn bộ
+* Ngày có hiệu lực:
+ 20/09/2023
+* Ngày hết hiệu lực:
+ 20/01/2026
+
+| **THỦ TƯỚNG CHÍNH PHỦ** Số: 19/2023/QĐ-TTg |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 2 tháng 8 năm 2023* |
+
+**QUYẾT ĐỊNH**
+
+SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ [61/2014/QĐ-TTG](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=61/2014/QĐ-TTG&SearchIn=Title,Title1&IsRec=1&pv=0) NGÀY 30 THÁNG 10 NĂM 2014 CỦA THỦ TƯỚNG CHÍNH PHỦ QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA TỔNG CỤC THI HÀNH ÁN DÂN SỰ TRỰC THUỘC BỘ TƯ PHÁP
+
+*Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;*
+
+*Căn cứ Nghị định số [123/2016/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=123/2016/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ; Nghị định số [101/2020/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=101/2020/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 28 tháng 8 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số [123/2016/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=123/2016/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 01 tháng 9 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ;*
+
+*Căn cứ Nghị định số [158/2018/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=158/2018/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 22 tháng 11 năm 2018 của Chính phủ quy định về thành lập, tổ chức lại, giải thể tổ chức hành chính;*
+
+*Căn cứ Nghị định số [120/2020/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=120/2020/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập;*
+
+*Căn cứ Nghị định số [60/2021/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=60/2021/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ của đơn vị sự nghiệp công lập;*
+
+*Theo đề nghị của Bộ trưởng Bộ Tư pháp;*
+
+*Thủ tướng Chính phủ ban hành Quyết định sửa đổi, bổ sung một số điều của Quyết định số [61/2014/QĐ-TTg](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=61/2014/QĐ-TTg&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 30 tháng 10 năm 2014 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Tổng cục Thi hành án dân sự trực thuộc Bộ Tư pháp.*
+
+**Điều 1.** Sửa đổi, bổ sung một số điều của Quyết định số [61/2014/QĐ-TTg](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=61/2014/QĐ-TTg&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 30 tháng 10 năm 2014 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Tổng cục Thi hành án dân sự trực thuộc Bộ Tư pháp như sau:
+
+1. Bổ sung khoản 8a vào Điều 2 như sau:
+
+“8a. Chủ trì, phối hợp với các cơ quan liên quan theo dõi, đôn đốc, kiểm tra các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh trong việc chấp hành pháp luật tố tụng hành chính”.
+
+2. Sửa đổi, bổ sung điểm c, điểm h khoản 1 Điều 3 như sau:
+
+“c) Vụ Quản lý Thi hành án hành chính, thống kê và dữ liệu thi hành án (gọi tắt là Vụ Nghiệp vụ 3);
+
+h) Tạp chí điện tử Thi hành án dân sự”.
+
+3. Sửa đổi điểm a khoản 1 Điều 4 như sau:
+
+“a) Tổng Cục trưởng và không quá 04 Phó Tổng cục trưởng”.
+
+4. Sửa đổi khoản 2 Điều 5 như sau:
+
+“Căn cứ khối lượng công việc, chỉ tiêu biên chế được giao, tiêu chí thành lập phòng theo quy định của Chính phủ, Cục Thi hành án dân sự cấp tỉnh có không quá 05 đơn vị cấp phòng. Cục Thi hành án dân sự Thành phố Hồ Chí Minh có không quá 06 đơn vị cấp phòng”.
+
+**Điều 2.** Bộ trưởng Bộ Tư pháp tổ chức việc giải thể Trung tâm Thống kê, Quản lý dữ liệu và Ứng dụng công nghệ thông tin; thực hiện các công việc về tổ chức và hoạt động của Tạp chí điện tử Thi hành án dân sự trực thuộc Tổng cục Thi hành án dân sự theo quy định của pháp luật.
+
+**Điều 3. Hiệu lực và trách nhiệm thi hành**
+
+1. Quyết định này có hiệu lực thi hành kể từ ngày 20 tháng 9 năm 2023.
+
+2. Bộ trưởng Bộ Tư pháp, các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, Tổng Cục trưởng Tổng cục Thi hành án dân sự và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+| KT. THỦ TƯỚNG |
+| Phó Thủ tướng |
+| *(Đã ký)* |
+| | | | |
+| Trần Lưu Quang |
+
+Tải file đính kèm
+
+* Bản PDF:
+ + [19.2023.QD.TTg.pdf](javascript:downloadfile('VanBanGoc_19.2023.QD.TTg.pdf','/FileData/TW/Lists/vbpq/Attachments/162257/VanBanGoc_19.2023.QD.TTg.pdf');)
+* File đính kèm:
+ + [19.2023.QD.TTg.doc](javascript:downloadfile('19.2023.QD.TTg.doc','/TW/Lists/vbpq/Attachments/162257/19.2023.QD.TTg.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/162257/19.2023.QD.TTg.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

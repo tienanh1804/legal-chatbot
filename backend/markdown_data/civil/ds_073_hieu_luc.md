@@ -1,0 +1,64 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=137224*
+
+# Nghị định 53/2018/NĐ-CP
+
+* Hiệu lực:
+ Hết hiệu lực toàn bộ
+* Ngày có hiệu lực:
+ 16/04/2018
+* Ngày hết hiệu lực:
+ 09/09/2025
+
+| **CHÍNH PHỦ** Số: 53/2018/NĐ-CP |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 16 tháng 4 năm 2018* |
+
+**NGHỊ ĐỊNH**
+
+**S****ửa đổi, bổ s****u****ng Nghị định số [58/2016/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=58/2016/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất kh****ẩ****u, nhập kh****ẩ****u sản phẩm mật mã dân sự**
+
+*Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;*
+
+*Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015;*
+
+*Theo đề nghị của Bộ trưởng Bộ Quốc phòng;*
+
+*Chính phủ ban hành Nghị định sửa đổi, bổ s**u**ng Nghị định số [58/2016/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=58/2016/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất kh**ẩ**u, nhập kh**ẩ**u sản phẩm mật mã dân sự.*
+
+**Điều 1. Sửa đổi, bổ sung Nghị định số [58/2016/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=58/2016/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết về kinh doanh sản phẩm, dịch vụ mật mã dân sự và xuất khẩu, nhập khẩu sản phẩm mật mã dân sự**
+
+Thay thế Phụ lục II Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép tại Nghị định số [58/2016/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=58/2016/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 01 tháng 7 năm 2016 của Chính phủ bằng Phụ lục II Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép kèm theo Nghị định này.
+
+**Điều 2. Áp dụng Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép**
+
+1. Danh Mục sản phẩm mật mã dân sự xuất khẩu, nhập khẩu theo giấy phép chỉ áp dụng đối với các sản phẩm mật mã dân sự mà cả mã số HS, tên gọi và mô tả chức năng mật mã trùng với mã số HS, tên gọi và mô tả chức năng mật mã của hàng hóa thuộc Danh Mục.
+
+2. Trường hợp có sự khác biệt trong việc xác định mã số hàng hóa tại Danh Mục ban hành kèm theo Nghị định này và Danh Mục hàng hóa xuất khẩu, nhập khẩu Việt Nam, Bộ Tài chính (Tổng cục Hải quan) chủ trì, phối hợp với Bộ Quốc phòng (Ban Cơ yếu Chính phủ) để quyết định mã số HS đối với hàng hóa xuất khẩu, nhập khẩu.
+
+**Điều 3. Điều Khoản chuyển tiếp**
+
+Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp cho doanh nghiệp tiếp tục có hiệu lực theo thời hạn ghi trên Giấy phép đối với sản phẩm mật mã dân sự mà tên gọi phù hợp với Danh Mục hàng hóa xuất khẩu, nhập khẩu Việt Nam. Cơ quan Hải quan căn cứ vào Giấy phép xuất khẩu, nhập khẩu sản phẩm mật mã dân sự đã được cấp và thực tế hàng hóa xuất khẩu, nhập khẩu để xác định mã số HS và giải quyết thủ tục thông quan cho doanh nghiệp.
+
+**Điều 4. Hiệu lực thi hành**
+
+Nghị định này có hiệu lực thi hành từ ngày 16 tháng 4 năm 2018.
+
+**Điều 5. Trách nhiệm thi hành**
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này./.
+
+| TM. CHÍNH PHỦ |
+| Thủ tướng |
+| *(Đã ký)* |
+| | | | |
+| Nguyễn Xuân Phúc |
+
+Tải file đính kèm
+
+* Bản PDF:
+ + [53.2018.ND-CP.pdf](javascript:downloadfile('VanBanGoc_53.2018.ND-CP.pdf','/FileData/TW/Lists/vbpq/Attachments/137224/VanBanGoc_53.2018.ND-CP.pdf');)
+* File đính kèm:
+ + [53.2018.ND-CP.doc](javascript:downloadfile('53.2018.ND-CP.doc','/TW/Lists/vbpq/Attachments/137224/53.2018.ND-CP.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/137224/53.2018.ND-CP.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

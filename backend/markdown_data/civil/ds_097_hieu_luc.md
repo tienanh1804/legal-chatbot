@@ -1,0 +1,50 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=46784*
+
+# Quyết định 01/QĐ-TTg
+
+* Hiệu lực:
+ Còn hiệu lực
+* Ngày có hiệu lực:
+ 02/01/2015
+
+| **THỦ TƯỚNG CHÍNH PHỦ** Số: 01/QĐ-TTg |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 2 tháng 1 năm 2015* |
+
+**QUYẾT ĐỊNH**
+
+**Ban hành Kế hoạch của Chính phủ về việc tổ chức lấy ý kiến Nhân dân**
+
+**đối với dự thảo Bộ luật dân sự (sửa đổi)**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**THỦ TƯỚNG CHÍNH PHỦ**
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Nghị quyết số 857/NQ-UBTVQH13 ngày 25 tháng 12 năm 2014 của Ủy ban Thường vụ Quốc hội về việc tổ chức lấy ý kiến Nhân dân đối với dự thảo Bộ luật dân sự (sửa đổi);
+
+Xét đề nghị của Bộ trưởng Bộ Tư pháp,
+
+**QUYẾT ĐỊNH:**
+
+**Điều 1.** Ban hành kèm theo Quyết định này Kế hoạch của Chính phủ về việc tổ chức lấy ý kiến Nhân dân đối với dự thảo Bộ luật dân sự (sửa đổi).
+
+**Điều 2.** Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
+**Điều 3.** Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Hội đồng nhân dân, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+
+| Thủ tướng |
+| *(Đã ký)* |
+| | | | |
+| Nguyễn Tấn Dũng |
+
+Tải file đính kèm
+
+* Bản PDF:
+* File đính kèm:
+ + [01.QD.TTg.doc](javascript:downloadfile('01.QD.TTg.doc','/TW/Lists/vbpq/Attachments/46784/01.QD.TTg.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/46784/01.QD.TTg.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

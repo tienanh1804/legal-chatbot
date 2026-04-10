@@ -1,0 +1,2394 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=31731*
+
+# Nghị định 93/2013/NĐ-CP
+
+* Hiệu lực:
+ Hết hiệu lực toàn bộ
+* Ngày có hiệu lực:
+ 15/10/2013
+* Ngày hết hiệu lực:
+ 01/02/2018
+
+| **CHÍNH PHỦ** Số: 93/2013/NĐ-CP |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 20 tháng 8 năm 2013* |
+
+**NGHỊ ĐỊNH**
+
+**Quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012;
+
+Căn cứ Bộ luật Hàng hải Việt Nam ngày 14 tháng 6 năm 2005;
+
+Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004;
+
+Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải,
+
+Chính phủ ban hành Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa.
+
+**Chương I**
+
+**NHỮNG QUY ĐỊNH CHUNG**
+
+**Điều 1. Phạm vi điều chỉnh**
+
+1. Nghị định này quy định về hành vi vi phạm hành chính, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả đối với hành vi vi phạm hành chính và thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa.
+
+2. Hành vi vi phạm hành chính trong lĩnh vực giao thông hàng hải được quy định tại Chương II của Nghị định này gồm:
+
+a) Vi phạm quy định về xây dựng và khai thác cảng biển;
+
+b) Vi phạm quy định về hoạt động hàng hải của tàu thuyền tại cảng biển;
+
+c) Vi phạm quy định về đăng ký, đăng kiểm tàu thuyền và bố trí thuyền viên, sử dụng chứng chỉ chuyên môn, sổ thuyền viên, hộ chiếu thuyền viên;
+
+d) Vi phạm quy định về hoa tiêu hàng hải;
+
+đ) Vi phạm quy định về hoạt động kinh doanh vận tải biển và dịch vụ hàng hải;
+
+e) Vi phạm quy định về hoạt động tìm kiếm, cứu nạn hàng hải, trục vớt tài sản chìm đắm và báo hiệu hàng hải;
+
+g) Vi phạm quy định về hoạt động đào tạo, huấn luyện thuyền viên;
+
+h) Vi phạm quy định về hoạt động ứng phó sự cố tràn dầu, quản lý tiếp nhận và xử lý chất thải lỏng có dầu từ tàu biển tại cảng biển.
+
+3. Hành vi vi phạm hành chính trong lĩnh vực giao thông đường thủy nội địa được quy định tại Chương III của Nghị định này gồm:
+
+a) Vi phạm quy định về xây dựng, bảo vệ và khai thác kết cấu hạ tầng giao thông đường thủy nội địa;
+
+b) Vi phạm quy định về đăng ký, đăng kiểm phương tiện;
+
+c) Vi phạm quy định về điều kiện thuyền viên, người lái phương tiện;
+
+d) Vi phạm quy tắc giao thông và tín hiệu của phương tiện;
+
+đ) Vi phạm quy định về khai thác cảng, bến thủy nội địa và vận tải đường thủy nội địa.
+
+4. Các hành vi vi phạm được quy định tại các Điểm b, c, d, đ, e, g và h Khoản 2 Điều này nếu xảy ra ở ngoài vùng nước cảng biển cũng bị xử phạt theo quy định tại Nghị định này và các quy định khác có liên quan của pháp luật.
+
+5. Các hành vi vi phạm hành chính khác liên quan đến giao thông hàng hải, đường thủy nội địa không được quy định tại Nghị định này bị xử phạt theo quy định của các Nghị định xử phạt vi phạm hành chính trong các lĩnh vực liên quan.
+
+**Điều 2. Đối tượng áp dụng**
+
+1. Cá nhân, tổ chức Việt Nam có hành vi vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa; người có thẩm quyền lập biên bản, thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa.
+
+2. Cá nhân, tổ chức nước ngoài vi phạm hành chính trong phạm vi lãnh thổ, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc trên tàu biển mang cờ quốc tịch Việt Nam bị xử phạt vi phạm hành chính theo quy định của pháp luật Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
+
+3. Người điều khiển tàu biển, tàu cá khi hoạt động trên đường thủy nội địa có hành vi vi phạm quy định tại Điều 33, Điều 47, Điều 48, Điều 49 và Điều 59 hoặc tàu cá có hành vi vi phạm quy định tại Điều 42 và Điều 50 của Nghị định này bị xử phạt vi phạm hành chính theo quy định tại các điều đó; đối với những hành vi vi phạm hành chính khác, hình thức và mức xử phạt được áp dụng theo quy định tại Chương II của Nghị định này hoặc Nghị định quy định về xử phạt vi phạm hành chính trong lĩnh vực thủy sản.
+
+**Điều 3. Thời hiệu xử phạt vi phạm hành chính**
+
+Thời hiệu xử phạt vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa là 01 năm. Đối với hành vi vi phạm hành chính về xây dựng cảng biển, công trình hàng hải và công trình thuộc kết cấu hạ tầng giao thông đường thủy nội địa, môi trường, xuất cảnh, nhập cảnh của tàu thuyền, thuyên viên và hành khách, thời hiệu xử phạt là 02 năm.
+
+**Điều 4. Hình thức xử phạt vi phạm hành chính và các biện pháp khắc phục hậu quả**
+
+1. Cá nhân, tổ chức có hành vi vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa phải chịu một trong các hình thức xử phạt chính sau đây đối với mỗi hành vi vi phạm:
+
+a) Cảnh cáo;
+
+b) Phạt tiền.
+
+2. Cá nhân, tổ chức có hành vi vi phạm hành chính, tùy theo tính chất, mức độ vi phạm còn bị áp dụng hình thức xử phạt bổ sung sau đây:
+
+a) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn từ 01 tháng đến 24 tháng. Không áp dụng quy định tại Điểm này đối với Hộ chiếu thuyền viên của người nước ngoài;
+
+b) Đình chỉ hoạt động có thời hạn từ 01 tháng đến 24 tháng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính.
+
+3. Ngoài các hình thức xử phạt được quy định tại Khoản 1 và Khoản 2 Điều này, cá nhân, tổ chức có hành vi vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa còn phải thực hiện các biện pháp khắc phục hậu quả quy định cụ thể tại Chương II, Chương III của Nghị định này.
+
+4. Mức phạt tiền tối đa quy định tại các Chương II, III và IV của Nghị định này là mức phạt áp dụng đối với cá nhân. Trong trường hợp phạt tiền đối với cùng một hành vi vi phạm, mức phạt đối với tổ chức bằng 02 lần mức phạt đối với cá nhân.
+
+5. Đối với các hành vi vi phạm hành chính được quy định mức xử phạt theo dung tích của tàu thuyền, tổng dung tích (GT) là dung tích được đo theo quy định của Công ước quốc tế về đo dung tích tàu năm 1969, được ghi trong giấy chứng nhận của cơ quan đăng kiểm. Trường hợp giấy chứng nhận của tàu thuyền không ghi dung tích, dung tích của tàu thuyền được tính quy đổi như sau:
+
+a) Tàu thuyền chở hàng: 1,5 tấn trọng tải đăng ký tính bằng 01 GT;
+
+b) Tàu kéo, tàu đẩy: 01HP tính bằng 0,5 GT;
+
+c) Sà lan: 01 tấn trọng tải đăng ký tính bằng 01 GT.
+
+**Chương II**
+
+**HÀNH VI VI PHẠM HÀNH CHÍNH, HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ TRONG LĨNH VỰC GIAO THÔNG HÀNG HẢI**
+
+**Mục 1**
+
+**VI PHẠM QUY ĐỊNH VỀ XÂY DỰNG VÀ KHAI THÁC CẢNG BIỂN**
+
+**Điều 5. Vi phạm quy định về đặt tên, đổi tên cảng biển, cảng dầu khí ngoài khơi, bến cảng, cầu cảng, bến phao, khu nước, vùng nước**
+
+1. Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi tự ý đặt tên, đổi tên cảng biển, cảng dầu khí ngoài khơi, bến cảng, cầu cảng, bến phao, khu nước, vùng nước hoặc sử dụng, giao dịch bằng tên cảng biển, cảng dầu khí ngoài khơi, bến cảng, cầu cảng, bến phao, khu nước, vùng nước không đúng với tên do cơ quan có thẩm quyền công bố.
+
+2. Biện pháp khắc phục hậu quả:
+
+Buộc thay đổi, sửa chữa tên cảng biển, cảng dầu khí ngoài khơi, bến cảng, cầu cảng, bến phao, khu nước, vùng nước đúng với tên do cơ quan có thẩm quyền công bố đối với hành vi vi phạm quy định tại Khoản 1 Điều này.
+
+**Điều 6. Vi phạm quy định về cho thuê lại kết cấu hạ tầng bến cảng, cầu cảng**
+
+1. Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với hành vi cho thuê lại kết cấu hạ tầng bến cảng, cầu cảng khi chưa có văn bản chấp thuận của bên cho thuê.
+
+2. Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với hành vi bên thuê lại cho thuê kết cấu hạ tầng bến cảng, cầu cảng được thuê.
+
+3. Biện pháp khắc phục hậu quả:
+
+Buộc nộp lại số tiền bất hợp pháp có được do thực hiện vi phạm hành chính đối với hành vi vi phạm quy định tại Khoản 1 và Khoản 2 Điều này.
+
+**Điều 7. Vi phạm quy định về bảo đảm an toàn, an ninh, trật tự trong hoạt động khai thác cảng biển**
+
+1. Phạt cảnh cáo đối với hành vi vào, rời vùng đất cảng hoặc lên tàu thuyền không tuân theo chỉ dẫn của cơ quan hoặc người có thẩm quyền.
+
+2. Phạt tiền từ 200.000 đồng đến 500.000 đồng đối với hành vi vào, rời vùng đất cảng hoặc lên tàu thuyền không được phép của cơ quan hoặc người có thẩm quyền.
+
+3. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Vi phạm quy định về báo hiệu giới hạn cầu cảng cho tàu cập cầu an toàn;
+
+b) Không bố trí người buộc, cởi dây cho tàu thuyền theo quy định;
+
+c) Không thông báo kế hoạch điều độ tàu thuyền vào, rời cảng cho Cảng vụ hàng hải theo quy định;
+
+d) Để các vật trên cầu cảng hoặc chiếm dụng không gian phía trên cầu cảng gây trở ngại cho tàu thuyền cập, rời cầu cảng hoặc gây trở ngại cho các hoạt động khác tại cảng.
+
+4. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Sử dụng người lao động không có giấy phép, chứng chỉ hành nghề theo quy định;
+
+b) Không báo cáo kịp thời cho Cảng vụ hàng hải về các sự cố, tai nạn có liên quan đến an toàn, an ninh và ô nhiễm môi trường tại cảng;
+
+c) Không cung cấp cho Cảng vụ hàng hải khu vực số liệu độ sâu vùng nước trước cầu cảng theo quy định;
+
+d) Không thực hiện khảo sát định kỳ để công bố thông báo hàng hải về độ sâu vùng nước trước cầu cảng và vùng nước khác theo quy định.
+
+5. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Cho tàu thuyền vào cảng hoặc neo đậu tại vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải;
+
+b) Tự ý bốc, dỡ hàng hóa khi tàu thuyền chưa hoàn thành thủ tục vào cảng theo quy định;
+
+c) Hệ thống đệm chống va, bích buộc tàu của cầu cảng không đủ hoặc không bảo đảm an toàn cho tàu thuyền neo đậu;
+
+d) Không có hoặc không làm thủ tục xác nhận hàng năm giấy chứng nhận an ninh cho cảng biển, bến cảng, cầu cảng theo quy định hoặc không thực hiện Kế hoạch an ninh cảng biển, bến cảng, cầu cảng đã được phê duyệt theo quy định;
+
+đ) Không có cán bộ an ninh cảng biển theo quy định;
+
+e) Bố trí cầu cảng cho tàu thuyền vào, rời không bảo đảm thời gian hoặc không bảo đảm các điều kiện cần thiết theo quy định.
+
+6. Phạt tiền từ 30.000.000 đồng đến 60.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Khai thác cảng không đúng với chức năng của cảng đã được cơ quan có thẩm quyền công bố;
+
+b) Cho tàu thuyền cập cầu cảng khi cầu cảng chưa được phép đưa vào khai thác, sử dụng;
+
+c) Không thực hiện kiểm định chất lượng kết cấu hạ tầng cảng biển đúng thời hạn quy định.
+
+7. Hình thức xử phạt bổ sung:
+
+Đình chỉ việc tiếp nhận tàu thuyền hoạt động tuyến quốc tế vào cảng từ 01 tháng đến 06 tháng đối với hành vi vi phạm quy định tại các Điểm d và đ Khoản 5 Điều này.
+
+**Điều 8. Vi phạm quy định về ký hiệu, mã hiệu, bốc dỡ, lưu kho hàng hóa**
+
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không đánh dấu ký hiệu, mã hiệu hàng hóa hoặc đánh dấu ký hiệu, mã hiệu hàng hóa không theo quy định;
+
+b) Bốc dỡ và lưu kho các loại hàng hóa không theo quy định;
+
+c) Chất xếp hàng hóa trên cầu cảng quá tải trọng cho phép.
+
+2. Biện pháp khắc phục hậu quả:
+
+a) Buộc loại bỏ yếu tố vi phạm trên hàng hóa đối với hành vi vi phạm quy định tại Điểm a Khoản 1 Điều này;
+
+b) Buộc khôi phục lại tình trạng ban đầu đối với hành vi vi phạm quy định tại Điểm c Khoản 1 Điều này.
+
+**Điều 9. Vi phạm quy định về bảo đảm an toàn hàng hải và phòng ngừa ô nhiễm môi trường khi xây dựng mới hoặc cải tạo, nâng cấp cảng biển hoặc khi xây dựng, lắp đặt các công trình, thiết bị khác ảnh hưởng đến an toàn hàng hải tại vùng nước cảng biển**
+
+1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Trang thiết bị cứu sinh không phù hợp theo quy định;
+
+b) Không thông báo cho Cảng vụ hàng hải biết về việc xây dựng các công trình khác trong vùng nước cảng biển;
+
+c) Không lắp đặt đầy đủ báo hiệu theo quy định hoặc báo hiệu sai lệch khu vực đang thi công công trình;
+
+d) Gây cản trở giao thông hàng hải trên luồng hàng hải khi tàu công trình, tàu phục vụ thi công công trình neo đậu ngoài vùng giới hạn cho phép;
+
+đ) Đổ vật liệu thi công không có chất độc hại xuống vùng nước cảngbiển;
+
+e) Đóng đăng đáy hoặc đặt các phương tiện đánh bắt, nuôi trồng thủy sản, khai thác tài nguyên trong vùng nước cảng biển, luồng hàng hải khi chưa được sự chấp thuận của Cảng vụ hàng hải hoặc không đúng vị trí hoặc không đúng thời gian đã được chấp thuận.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Thi công công trình khi chưa có giấy phép hoặc sự chấp thuận của các cơ quan có thẩm quyền;
+
+b) Thi công sai vị trí được phép;
+
+c) Thi công quá thời gian quy định ghi trong giấy phép thi công;
+
+d) Sử dụng phương tiện, thiết bị chuyên dùng để khảo sát, nạo vét luồng, thả báo hiệu hàng hải và tiến hành các hoạt động khác trong vùng nước cảng biển khi chưa được sự chấp thuận của Cảng vụ hàng hải;
+
+đ) Không thu dọn, thanh thải chướng ngại vật thi công sau khi công trình đã hoàn thành;
+
+e) Không thực hiện đầy đủ phương án bảo đảm an toàn hàng hải đã được cơ quan có thẩm quyền phê duyệt;
+
+g) Tạo các chướng ngại vật trong vùng nước cảng biển và vùng biển Việt Nam gây ảnh hưởng đến hoạt động hàng hải.
+
+3. Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Thi công công trình khi chưa được phép của cơ quan có thẩm quyền và để xảy ra tai nạn;
+
+b) Thi công sai vị trí được phép và để xảy ra tai nạn;
+
+c) Gây ô nhiễm môi trường khi thi công công trình;
+
+d) Không thực hiện hoặc thực hiện không đầy đủ phương án bảo đảm an toàn hàng hải đã được cơ quan có thẩm quyền phê duyệt dẫn đến xảy ra tai nạn.
+
+4. Biện pháp khắc phục hậu quả:
+
+a) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do các hành vi vi phạm quy định tại các Điểm d, đ, e Khoản 1 và Điểm g Khoản 2 Điều này;
+
+b) Buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép;
+
+c) Buộc thực hiện biện pháp khắc phục tình trạng ô nhiễm môi trường do hành vi vi phạm quy định tại Điểm c Khoản 3 Điều này.
+
+**Điều 10. Vi phạm quy định về phòng, chống cháy, nổ tại cảng biển**
+
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không có bảng nội quy, biển báo hoặc chỉ dẫn cảnh báo cần thiết ở những nơi dễ cháy, nổ;
+
+b) Sử dụng các trang, thiết bị cứu hỏa chuyên dùng sai mục đích.
+
+2. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Các trang, thiết bị cứu hỏa không đúng quy định hoặc không ở trạng thái sẵn sàng hoạt động theo quy định;
+
+b) Không đặt đúng nơi quy định hoặc không bố trí các thiết bị phòng, chống cháy, nổ thích hợp với loại hàng hóa đang vận chuyển, bốc dỡ.
+
+3. Phạt tiền từ 5.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không có đủ hệ thống phòng, chống cháy, nổ theo quy định;
+
+b) Không báo cáo kịp thời cho các cơ quan quản lý nhà nước có liên quan về các sự cố, tai nạn cháy, nổ;
+
+c) Sử dụng người lao động không được trang bị đầy đủ dụng cụ bảo hộ hoặc không được huấn luyện về phòng, chống cháy, nổ theo quy định;
+
+d) Không có sơ đồ hệ thống phòng cháy, chữa cháy được cơ quan có thẩm quyền phê duyệt.
+
+**Điều 11. Vi phạm quy định về bảo vệ môi trường do hoạt động khai thác cảng biển**
+
+1. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi để hoặc đổ nước bẩn ra cầu cảng, làm mất vệ sinh cầu cảng, vùng nước cảng biển.
+
+2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Xả rác, chất thải khác xuống cầu cảng hoặc vùng nước cảng biển;
+
+b) Xả nước có cặn bẩn xuống cầu cảng hoặc vùng nước cảng biển.
+
+3. Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi xả nước hoặc chất thải có lẫn dầu xuống cầu cảng hoặc vùng nước cảng biển.
+
+4. Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với hành vi không bố trí phương tiện để tiếp nhận rác thải, nước thải và chất lỏng độc hại khác từ tàu thuyền theo quy định.
+
+5. Phạt tiền từ 50.000.000 đồng đến 100.000.000 đồng đối với hành vi xả nước hoặc chất thải có lẫn hóa chất độc hại xuống cầu cảng hoặc vùng nước cảng biển.
+
+6. Biện pháp khắc phục hậu quả:
+
+Buộc thực hiện biện pháp khắc phục tình trạng ô nhiễm môi trường đối với các hành vi vi phạm quy định tại các Khoản 1, 2, 3 và 5 Điều này.
+
+**Điều 12. Vi phạm quy định về bảo vệ công trình cảng biển và luồng hàng hải**
+
+1. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi không kịp thời khắc phục, sửa chữa hư hỏng của công trình cảng biển, luồng hàng hải theo yêu cầu của cơ quan có thẩm quyền.
+
+2. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi xây dựng công trình, sử dụng và khai thác khoảng không, vùng đất, vùng nước trong phạm vi bảo vệ công trình cảng biển và luồng hàng hải hoặc ngoài phạm vi bảo vệ công trình cảng biển và luồng hàng hải nhưng ảnh hưởng đến an toàn công trình cảng biển và luồng hàng hải mà chưa được cơ quan nhà nước có thẩm quyền về bảo vệ công trình cảng biển và luồng hàng hải cho phép.
+
+3. Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với hành vi xâm phạm, làm hư hỏng công trình cảng biển và luồng hàng hải.
+
+4. Biện pháp khắc phục hậu quả:
+
+Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do các hành vi vi phạm quy định tại Khoản 2 và Khoản 3 Điều này.
+
+**Mục 2**
+
+**VI PHẠM QUY ĐỊNH VỀ HOẠT ĐỘNG HÀNG HẢI CỦA TÀU THUYỀN TẠI CẢNG BIỂN**
+
+**Điều 13. Vi phạm quy định về thủ tục đến cảng biển hoặc quá cảnh**
+
+1. Đối với hành vi vi phạm của tàu thuyền khi đến cảng hoặc quá cảnh không thực hiện việc thông báo, xác báo theo quy định; tàu thuyền đến vị trí đón, trả hoa tiêu để vào cảng hoặc quá cảnh chậm hơn thời gian đã xác báo; tàu thuyền đến cảng không thực hiện khai báo an ninh tàu biển cho Cảng vụ hàng hải theo quy định, sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+2. Đối với hành vi tàu thuyền đến cảng hoặc quá cảnh mà không làm thủ tục theo quy định sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+**Điều 14. Vi phạm quy định về thủ tục vào, rời cảng biển hoặc quá cảnh**
+
+1. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi khai báo không đủ hoặc sai một trong các thông tin trong thông báo, xác báo tàu đến, rời cảng hoặc bản khai chung.
+
+2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi làm thủ tục cho tàu thuyền vào, rời cảng biển hoặc quá cảnh chậm hơn thời gian quy định.
+
+3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Thiếu một trong các giấy tờ khi làm thủ tục vào, rời cảng hoặc quá cảnh theo quy định;
+
+b) Không cung cấp hoặc cung cấp không đầy đủ giấy tờ về hàng hóa nguy hiểm được vận chuyển trên tàu theo quy định.
+
+4. Phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng đối với hành vi cho thuyền viên, hành khách hoặc những người không có nhiệm vụ lên tàu trước khi tàu làm xong thủ tục nhập cảnh hoặc rời tàu sau khi đã làm xong thủ tục xuất cảnh theo quy định.
+
+5. Đối với hành vi không có giấy phép rời cảng cuối cùng theo quy định hoặc cố tình rời cảng khi chưa được phép của cơ quan có thẩm quyền sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 40.000.000 đồng đến 80.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+6. Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với hành vi của tàu thuyền nước ngoài tham gia vận tải nội địa hoặc thực hiện các hoạt động đặc thù khi chưa được cơ quan có thẩm quyền cho phép theo quy định.
+
+7. Hình thức xử phạt bổ sung:
+
+Tước Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 01 tháng đến 06 tháng đối với hành vi vi phạm quy định tại Khoản 5 Điều này.
+
+8. Biện pháp khắc phục hậu quả:
+
+Buộc phải bổ sung giấy tờ và hoàn thành thủ tục theo quy định đối với các hành vi vi phạm quy định tại các Khoản 1, 3 và 6 Điều này.
+
+**Điều 15. Vi phạm quy định về an toàn, an ninh, trật tự, vệ sinh đối với các hoạt động liên quan đến tàu thuyền**
+
+1. Phạt cảnh cáo đối với hành vi bơi lội hoặc làm mất trật tự công cộng trong khu vực cảng.
+
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Kéo còi hoặc dùng loa điện để thông tin cho trường hợp không phải là cấp cứu hoặc báo động khẩn cấp theo quy định;
+
+b) Tàu thuyền nước ngoài treo cờ lễ, cờ tang mà không thông báo trước cho Cảng vụ hàng hải;
+
+c) Tổ chức bơi lội trong vùng nước cảng khi chưa được chấp thuận của Cảng vụ hàng hải;
+
+d) Treo cờ hiệu không đúng quy định.
+
+3. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với hành vi không treo hoặc treo Quốc kỳ Việt Nam không đúng quy định.
+
+4. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Để các trang thiết bị, tài sản của tàu thuyền hoặc của thuyền viên trên mặt cầu cảng không đúng nơi quy định;
+
+b) Tiến hành sửa chữa, thử máy, thử còi khi chưa được phép của Cảng vụ hàng hải;
+
+c) Không trực kênh VHF hoặc sử dụng kênh VHF sai quy định;
+
+d) Tiến hành hun chuột, khử trùng không đúng nơi quy định;
+
+đ) Không có dụng cụ chắn chuột hoặc sử dụng dụng cụ chắn chuột không đúng quy định;
+
+e) Sử dụng xuồng, phao bè của tàu khi chưa được phép của Cảng vụ hàng hải;
+
+g) Không thực hiện chế độ trực ca theo quy định;
+
+h) Không bố trí hoặc bố trí sĩ quan an ninh tàu biển không đúng quy định;
+
+i) Thông báo hoặc phát báo động an ninh không đúng với tình trạng an ninh thực tế của tàu biển;
+
+k) Để tàu thuyền rê neo, kéo neo ngầm dưới nước khi đang hoạt động trong luồng, kênh đào, vùng nước trước cầu cảng.
+
+5. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng mà thuyền trưởng không có mặt ở buồng lái;
+
+b) Tiến hành các hoạt động mò, lặn hoặc các công việc khác ngầm dưới nước tại vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải hoặc tiến hành các công việc đó không có báo hiệu cảnh báo theo quy định;
+
+c) Tổ chức thi đấu thể thao hoặc các hoạt động tập trung nhiều phương tiện trong vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải;
+
+d) Sử dụng tàu thuyền thể thao, du lịch hoạt động trong vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải;
+
+đ) Không sử dụng hoặc sử dụng không phù hợp các báo hiệu theo quy định;
+
+e) Tàu thuyền không ghi rõ tên, số IMO, cảng đăng ký, vạch mớn nước theo quy định;
+
+g) Không lắp đặt, duy trì tình trạng kỹ thuật của thiết bị giám sát hành trình của tàu cao tốc hoặc lắp đặt mà không bật thiết bị giám sát hành trình của tàu cao tốc theo quy định.
+
+6. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không thông báo cho Cảng vụ hàng hải về sự cố, tai nạn hàng hải do tàu mình gây ra hoặc vi phạm quy định khác về báo cáo và điều tra tai nạn hàng hải;
+
+b) Không trang bị đủ trang thiết bị hàng hải trên buồng lái theo quy định hoặc có nhưng không hoạt động, không sử dụng được;
+
+c) Không duy trì liên lạc với Cảng vụ hàng hải qua VHF trên kênh đã được thông báo hoặc các thiết bị thông tin liên lạc khác;
+
+d) Không duy trì hoạt động của thiết bị nhận dạng tự động theo quy định;
+
+đ) Bố trí trang thiết bị cứu sinh của tàu thuyền không đúng quy định;
+
+e) Không tuân theo quy định khi tàu thuyền hành trình hoặc tránh, vượt nhau trên luồng hàng hải;
+
+g) Điều động tàu thuyền chạy quá tốc độ cho phép tại khu vực có quy định giới hạn tốc độ.
+
+7. Phạt tiền từ 15.000.000 đồng đến 25.000.000 đồng đối với hành vi điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng gây tai nạn hàng hải ít nghiêm trọng mà thuyền trưởng không có mặt ở buồng lái hoặc tàu thuyền không tuân theo quy định khi hành trình, tránh, vượt nhau trên luồng hàng hải gây tai nạn hàng hải ít nghiêm trọng.
+
+8. Phạt tiền từ 25.000.000 đồng đến 35.000.000 đồng đối với hành vi điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng gây tai nạn hàng hải nghiêm trọng mà thuyền trưởng không có mặt ở buồng lái hoặc tàu thuyền không tuân theo quy định khi hành trình, tránh, vượt nhau trên luồng hàng hải gây tai nạn hàng hải nghiêm trọng.
+
+9. Phạt tiền từ 35.000.000 đồng đến 45.000.000 đồng đối với hành vi điều động tàu thuyền vào, rời cảng biển hoặc cập, rời cầu cảng gây tai nạn hàng hải đặc biệt nghiêm trọng mà thuyền trưởng không có mặt ở buồng lái hoặc tàu thuyền không tuân theo quy định khi hành trình, tránh, vượt nhau trên luồng hàng hải gây tai nạn hàng hải đặc biệt nghiêm trọng.
+
+10. Đối với hành vi tàu thuyền hoạt động không đúng vùng được phép hoạt động theo quy định sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+11. Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Bỏ trốn sau khi gây tai nạn hàng hải;
+
+b) Không cung cấp hoặc cung cấp không đầy đủ, không trung thực các tài liệu, vật chứng liên quan khi có yêu cầu của cơ quan có thẩm quyền trong quá trình điều tra tai nạn hàng hải.
+
+12. Hình thức xử phạt bổ sung:
+
+a) Tước Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại Khoản 7 Điều này;
+
+b) Tước Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 03 tháng đến 06 tháng đối với hành vi vi phạm quy định tại Khoản 8 Điều này;
+
+c) Tước Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 06 tháng đến 12 tháng đối với hành vi vi phạm quy định tại Khoản 9 và Điểm a Khoản 11 Điều này.
+
+13. Biện pháp khắc phục hậu quả:
+
+a) Buộc di chuyển chướng ngại vật do vi phạm quy định tại Điểm a Khoản 4 Điều này;
+
+b) Buộc di rời khỏi vùng hoạt động cho phù hợp với cấp tàu hoạt động đối với hành vi được quy định tại Khoản 10 Điều này.
+
+**Điều 16. Vi phạm quy định về phòng, chống cháy, nổ đối với tàu thuyền**
+
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi hút thuốc ở nơi cấm hút thuốc hoặc đối với các hành vi vô ý có thể gây cháy, nổ trên tàu thuyền.
+
+2. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không có các dấu hiệu cảnh báo hoặc chỉ dẫn cần thiết ở những nơi dễ cháy, dễ nổ;
+
+b) Không có sơ đồ hệ thống cứu hỏa, bảng phân công cứu hỏa hoặc bảng chỉ dẫn thao tác ở những vị trí trên tàu theo quy định;
+
+c) Trang thiết bị cứu hỏa đặt không đúng vị trí quy định trên tàu thuyền;
+
+d) Thuyền viên không sử dụng thành thạo các trang thiết bị cứu hỏa của tàu;
+
+đ) Sử dụng trang thiết bị cứu hỏa của tàu không đúng quy định;
+
+e) Không thực hiện đúng quy trình bảo quản, bảo dưỡng trang thiết bị phòng chống cháy, nổ.
+
+3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Trang thiết bị phòng, chống cháy, nổ không sử dụng được;
+
+b) Không có kế hoạch ứng cứu trong trường hợp khẩn cấp;
+
+c) Tiến hành các công việc có phát ra tia lửa ở trên boong, hầm hàng, buồng máy khi chưa được phép của Cảng vụ hàng hải;
+
+d) Sử dụng phương tiện chuyên dùng chữa cháy vào mục đích khác;
+
+đ) Trang thiết bị cứu hỏa không phù hợp hoặc không ở trạng thái sẵn sàng hoạt động theo quy định.
+
+4. Phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng đối với hành vi thực hiện chậm trễ hoặc không thực hiện mệnh lệnh của Cảng vụ hàng hải về tham gia cứu hỏa ở cầu cảng, vùng nước cảng biển.
+
+**Điều 17. Vi phạm quy định về bảo vệ môi trường do tàu thuyền gây ra**
+
+1. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không ghi nhật ký bơm nước la canh buồng máy hoặc nhật ký dầu, nhật ký thải, đổ rác theo quy định;
+
+b) Không trang bị các thùng chứa, phân loại rác theo quy định;
+
+c) Nạo ống khói hoặc xả khói đen khi tàu thuyền đang neo đậu trong vùng nước cảng biển;
+
+d) Gõ rỉ, sơn tàu thuyền khi chưa được phép của Cảng vụ hàng hải.
+
+2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không bố trí hoặc bố trí người trực không đủ tiêu chuẩn để tiếp nhận nhiên liệu trên tàu.
+
+3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm vứt, đổ rác hoặc các đồ vật khác từ tàu xuống cầu cảng hoặc vùng nước cảng biển.
+
+4. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Bơm, xả các loại rác hoặc nước dằn tàu, nước có cặn bẩn từ tàu xuống cầu cảng hoặc vùng nước cảng biển;
+
+b) Cọ rửa hầm hàng hoặc mặt boong gây ô nhiễm môi trường;
+
+c) Tiến hành bơm chuyển nhiên liệu giữa tàu thuyền và phương tiện khác khi chưa được phép của Cảng vụ hàng hải;
+
+d) Không có đủ các trang thiết bị phân ly dầu nước theo quy định hoặc có trang thiết bị nhưng không sử dụng được;
+
+đ) Để xảy ra rò rỉ nước thải có lẫn dầu từ trên tàu xuống cầu cảng hoặc vùng nước cảng biển;
+
+e) Không chấp hành một trong những quy trình, quy tắc an toàn kỹ thuật khi tiếp nhận nhiên liệu;
+
+g) Cho tàu thuyền khác cập mạn khi đang trong quá trình tiếp nhận nhiên liệu giữa hai tàu.
+
+5. Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi vi phạm quy định về bơm, xả nước hoặc chất thải có lẫn dầu, dầu hoặc hợp chất có dầu từ trên tàu xuống cầu cảng hoặc vùng nước cảng biển.
+
+6. Phạt tiền từ 60.000.000 đồng đến 100.000.000 đồng đối với hành vi vi phạm quy định về bơm, xả nước hoặc chất thải có lẫn các loại chất độc hại từ trên tàu xuống cầu cảng hoặc vùng nước cảng biển.
+
+7. Phạt tiền từ 80.000.000 đồng đến 90.000.000 đồng đối với hành vi đổ bùn đất, chất thải từ nạo vét không đúng vị trí quy định.
+
+8. Phạt tiền từ 90.000.000 đồng đến 100.000.000 đồng đối với hành vi đổ bùn đất, chất thải từ nạo vét không đúng vị trí quy định trong phạm vi luồng hàng hải, vùng nước trước cầu, bến cảng, khu neo đậu, khu chuyển tải, vùng đón trả hoa tiêu, vùng kiểm dịch.
+
+9. Hình thức xử phạt bổ sung:
+
+a) Tước Giấy chúng nhận khả năng chuyên môn của thuyền trưởng từ 03 tháng đến 06 tháng đối với hành vi vi phạm quy định tại Khoản 7 Điều này;
+
+b) Tước Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 06 tháng đến 12 tháng đối với hành vi vi phạm quy định tại Khoản 8 Điều này.
+
+10. Biện pháp khắc phục hậu quả:
+
+Buộc thực hiện những biện pháp khắc phục tình trạng ô nhiễm môi trường theo quy định đối với các hành vi vi phạm quy định tại Khoản 3; các Điểm a, b và đ Khoản 4; các Khoản 5, 6, 7 và 8 Điều này.
+
+**Điều 18. Vi phạm quy định về an toàn sinh mạng trên tàu thuyền**
+
+1. Phạt tiền từ 1.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không có bảng phân công nhiệm vụ trong tình huống khẩn cấp tại các vị trí cần thiết hoặc có bảng phân công nhiệm vụ nhưng không phù hợp với thuyền bộ của tàu hoặc bảng quy định đã bị hư hỏng;
+
+b) Không có các bảng chỉ dẫn thao tác các thiết bị cứu sinh, cứu thủng tàu hoặc các bảng chỉ dẫn đã bị hư hỏng;
+
+c) Không có phiếu trách nhiệm cá nhân khi báo động ở những nơi quy định trên tàu hoặc phiếu trách nhiệm cá nhân không phù hợp với thuyền bộ của tàu;
+
+d) Thuyền viên không sử dụng thành thạo các trang thiết bị cứu sinh, cứu thủng của tàu.
+
+2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Cầu thang mạn không có lưới bảo hiểm hoặc đèn chiếu sáng theo quy định;
+
+b) Sử dụng trang thiết bị cứu sinh, cứu thủng của tàu không đúng quy định.
+
+3. Đối với hành vi tàu thuyền không bố trí đủ định biên an toàn tối thiểu hoặc vượt quá mức cho phép của trang thiết bị cứu sinh trên tàu theo quy định; không trang bị hoặc trang bị không đầy đủ các trang thiết bị cứu hỏa, cứu sinh, cứu thủng theo quy định sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+4. Đối với hành vi chở hàng quá quy định của tàu thuyền có tổng dung tích dưới 500 GT sẽ bị xử phạt như sau:
+
+a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 01% so với trọng tải cho phép;
+
+b) Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép;
+
+c) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;
+
+d) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.
+
+5. Đối với hành vi chở hàng quá quy định của tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT sẽ bị xử phạt như sau:
+
+a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 1% so với trọng tải cho phép;
+
+b) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép;
+
+c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;
+
+d) Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.
+
+6. Đối với hành vi chở hàng quá quy định của tàu thuyền có tổng dung tích từ 3.000 GT trở lên sẽ bị xử phạt như sau:
+
+a) Phạt cảnh cáo đối với hành vi chở hàng vượt đến dưới 1% so với trọng tải cho phép;
+
+b) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với hành vi chở hàng vượt từ 01% đến dưới 05% so với trọng tải cho phép;
+
+c) Phạt tiền từ 50.000.000 đồng đến 60.000.000 đồng đối với hành vi chở hàng vượt từ 05% đến dưới 10% so với trọng tải cho phép;
+
+d) Phạt tiền từ 70.000.000 đồng đến 80.000.000 đồng đối với hành vi chở hàng vượt trên từ 10% trở lên so với trọng tải cho phép.
+
+7. Đối với hành vi chở khách quá số lượng quy định của tàu thuyền có tổng dung tích dưới 500 GT sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi chở khách vượt đến 5 người so với số lượng cho phép;
+
+b) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở khách vượt từ 6 đến 10 người so với số lượng cho phép;
+
+c) Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với hành vi chở khách vượt trên 10 người so với số lượng cho phép.
+
+8. Đối với hành vi chở khách vượt quá số lượng quy định của tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi chở khách vượt đến 10 người so với số lượng cho phép;
+
+b) Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với hành vi chở khách vượt từ 11 người đến 20 người so với số lượng cho phép;
+
+c) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi chở khách vượt trên 20 người so với số lượng cho phép.
+
+9. Đối với hành vi chở khách vượt quá số lượng quy định của tàu thuyền có tổng dung tích từ 3.000 GT trở lên sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi chở khách vượt đến 20 người so với số lượng cho phép;
+
+b) Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với hành vi chở khách vượt từ 21 người đến 30 người so với số lượng cho phép;
+
+c) Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với hành vi chở khách vượt trên 30 người so với số lượng cho phép.
+
+10. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 01 tháng đến 03 tháng đối với hành vi vi phạm được quy định tại Khoản 5; Khoản 6; Điểm b và Điểm c Khoản 7; Khoản 8 và Khoản 9 Điều này.
+
+11. Biện pháp khắc phục hậu quả:
+
+Buộc cho rời tàu thuyền số người hoặc dỡ lên khỏi tàu thuyền số lượng hàng hóa chuyên chở vượt quy định đối với các hành vi vi phạm được quy định tại các Khoản 4, 5, 6, 7, 8 và Khoản 9 Điều này.
+
+**Điều 19. Vi phạm quy định về neo đậu, cập cầu, cập mạn, lai dắt của tàu thuyền trong vùng nước cảng biển**
+
+1. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Neo đậu, cập cầu, cập mạn, di chuyển vị trí hoặc tiến hành các hoạt động tương tự khác trong vùng nước cảng biển khi chưa được phép của Cảng vụ hàng hải;
+
+b) Không bố trí đủ đèn chiếu sáng, tín hiệu, báo hiệu theo quy định khi tàu làm hàng, neo đậu, cập cầu, cập mạn, di chuyển vị trí;
+
+c) Không có đệm chống va theo quy định;
+
+d) Không thông báo kịp thời cho Cảng vụ hàng hải khi phát hiện thấy sự sai lệch, hư hỏng của các báo hiệu hàng hải tại vùng nước cảng biển và khu vực quản lý của Cảng vụ hàng hải.
+
+2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không chấp hành hoặc thực hiện sai lệnh điều động của Cảng vụ hàng hải;
+
+b) Buộc tàu thuyền vào các báo hiệu hàng hải hoặc các kết cấu khác không dùng để buộc tàu theo quy định.
+
+3. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi không sử dụng tàu lai dắt, hỗ trợ theo quy định hoặc sử dụng tàu lai dắt, hỗ trợ không theo quy định.
+
+4. Đối với hành vi tàu thuyền vào neo đậu, làm hàng, đón trả hành khách hoặc thực hiện các dịch vụ hàng hải khác tại vị trí chưa được phép của cơ quan có thẩm quyền sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 40.000.000 đồng đến 60.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+5. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 01 tháng đến 03 tháng đối với hành vi vi phạm được quy định tại Điểm a Khoản 2, Khoản 3 và Khoản 4 Điều này.
+
+6. Biện pháp khắc phục hậu quả:
+
+Buộc tàu thuyền phải rời khỏi vị trí đối với các hành vi vi phạm được quy định tại Điểm b Khoản 2 và Khoản 4 Điều này.
+
+**Mục 3**
+
+**VI PHẠM QUY ĐỊNH VỀ ĐĂNG KÝ, ĐĂNG KIỂM TÀU THUYỀN VÀ BỐ TRÍ THUYỀN VIÊN, SỬ DỤNG CHỨNG CHỈ CHUYÊN MÔN, SỐ THUYỀN VIÊN, HỘ CHIẾU THUYỀN VIÊN**
+
+**Điều 20. Vi phạm quy định về đăng ký, đăng kiểm tàu thuyền**
+
+1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Đăng ký tàu thuyền không đúng thời hạn theo quy định;
+
+b) Thiếu một trong các loại giấy chứng nhận, tài liệu của tàu thuyền hoặc một trong các loại giấy chứng nhận, tài liệu đó hết giá trị sử dụng.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Khai thác tàu thuyền khi chưa được cấp giấy chứng nhận đăng ký tàu thuyền;
+
+b) Không thực hiện đăng ký thay đổi chủ tàu thuyền theo quy định khi tàu thuyền đã được mua, bán, chuyển quyền sở hữu;
+
+c) Không thực hiện xóa đăng ký tàu theo quy định.
+
+3. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Mua, bán, thuê, cho thuê, mượn, cho mượn một trong các giấy chứng nhận của tàu thuyền;
+
+b) Sử dụng một trong các giấy chứng nhận của tàu thuyền khác;
+
+c) Cố tình khai báo sai lệnh thông tin hoặc sử dụng giấy tờ sửa chữa, giả mạo trong hồ sơ xin cấp giấy chứng nhận của tàu thuyền.
+
+4. Đối với hành vi không có Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ tàu đối với tàu thuyền chở khách, chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác theo quy định sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với tàu thuyền chở khách đến dưới 100 người; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 50.000.000 đồng đến 80.000.000 đồng đối với tàu thuyền chở khách từ 100 người đến dưới 300 người; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với tàu thuyền chở khách từ 300 người trở lên; tàu thuyền chở dầu mỏ, chế phẩm từ dầu mỏ hoặc các hàng hóa nguy hiểm khác có tổng dung tích từ 3.000 GT trở lên.
+
+5. Hình thức xử phạt bổ sung:
+
+Tịch thu tang vật vi phạm hành chính đối với các hành vi vi phạm quy định tại Khoản 3 Điều này.
+
+6. Biện pháp khắc phục hậu quả:
+
+Buộc làm thủ tục xóa đăng ký tàu theo quy định đối với hành vi vi phạm quy định tại Điểm c Khoản 2 Điều này.
+
+**Điều 21. Vi phạm quy định về bố trí thuyền viên, cấp và sử dụng chứng chỉ hành nghề, sổ thuyền viên, hộ chiếu thuyền viên**
+
+1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Bố trí thuyền viên làm việc trên tàu thuyền không có đủ chứng chỉ hành nghề, số thuyền viên hoặc có chứng chỉ hành nghề nhưng hết hiệu lực hoặc bố trí chức danh thuyền viên không phù hợp với chứng chỉ hành nghề của thuyền viên;
+
+b) Giao nhiệm vụ cho thuyền viên làm việc trên tàu thuyền không phù hợp với chức danh trong sổ thuyền viên khi chưa được phép của cơ quan có thẩm quyền.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi mua, bán, thuê, cho thuê, mượn, cho mượn các chứng chỉ hành nghề, sổ thuyền viên, hộ chiếu thuyền viên.
+
+3. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Sử dụng chứng chỉ hành nghề, sổ thuyền viên, hộ chiếu thuyền viên đã bị sửa chữa, tẩy xóa làm sai lệch nội dung;
+
+b) Sử dụng chứng chỉ hành nghề, sổ thuyền viên, hộ chiếu thuyền viên của người khác để làm việc trên tàu;
+
+c) Cố tình khai báo sai lệch thông tin hoặc sử dụng giấy tờ sửa chữa, giả mạo trong hồ sơ xin cấp chứng chỉ hành nghề, sổ thuyền viên, hộ chiếu thuyền viên.
+
+4. Hình thức xử phạt bổ sung:
+
+a) Tịch thu đối với chứng chỉ hành nghề, sổ thuyền viên, hộ chiếu thuyền viên vi phạm quy định tại Điểm a Khoản 3 Điều này;
+
+b) Tước quyền sử dụng chứng chỉ hành nghề có thời hạn từ 06 tháng đến 12 tháng đối với các hành vi vi phạm quy định tại Khoản 2 Điều này.
+
+**Mục 4**
+
+**VI PHẠM QUY ĐỊNH VỀ HOA TIÊU HÀNG HẢI**
+
+**Điều 22. Vi phạm quy định về sử dụng hoa tiêu hàng hải của tàu thuyền**
+
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi tàu thuyền không treo cờ hiệu hoặc sử dụng đèn hiệu theo quy định khi xin hoa tiêu hoặc khi hoa tiêu có mặt trên tàu.
+
+2. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không thông báo hoặc thông báo không chính xác cho hoa tiêu hàng hải biết về đặc điểm và tính năng điều động của tàu thuyền;
+
+b) Không có thang hoa tiêu hoặc thang hoa tiêu được bố trí tại nơi không phù hợp hoặc không có các biện pháp bảo đảm an toàn khác cho hoa tiêu lên, rời tàu;
+
+c) Đình chỉ hoặc yêu cầu thay thế hoa tiêu mà không có lý do chính đáng.
+
+3. Đối với hành vi điều khiển tàu vào, rời cảng và di chuyển mà không sử dụng hoa tiêu hàng hải theo quy định sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 1.000 GT;
+
+b) Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với tàu thuyền có tổng dung tích từ 1.000 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+**Điều 23. Vi phạm quy định về điều động và bố trí hoa tiêu hàng hải**
+
+1. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Gửi kế hoạch hoa tiêu dẫn tàu hàng ngày chậm hơn thời gian quy định hoặc không thông báo về sự thay đổi đột xuất kế hoạch hoa tiêu dẫn tàu cho Cảng vụ hàng hải;
+
+b) Bố trí hoa tiêu không đúng với kế hoạch mà không báo trước cho Cảng vụ hàng hải biết.
+
+2. Phạt tiền từ 6.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Bố trí hoa tiêu hàng hải dẫn tàu không phù hợp với giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải hoặc giấy chứng nhận vùng hoạt động của hoa tiêu hàng hải;
+
+b) Không cung cấp đầy đủ, kịp thời dịch vụ hoa tiêu dẫn tàu trong vùng hoa tiêu hàng hải bắt buộc hoặc trên tuyến dẫn tàu được giao mà không có lý do chính đáng.
+
+3. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi không bố trí đủ phương tiện đưa, đón hoa tiêu theo quy định hoặc sử dụng phương tiện đưa, đón hoa tiêu không bảo đảm điều kiện an toàn.
+
+4. Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi không có đủ số lượng hoa tiêu tối thiểu theo quy định.
+
+5. Hình thức xử phạt bổ sung:
+
+Đình chỉ một phần hoạt động dẫn tàu của tổ chức hoa tiêu có thời hạn từ 03 tháng đến 12 tháng đối với hành vi vi phạm quy định tại Khoản 4 Điều này.
+
+**Điều 24. Vi phạm quy định trong khi dẫn tàu của hoa tiêu hàng hải**
+
+1. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với mỗi hành vi vi phạm sau đây của hoa tiêu:
+
+a) Không thông báo kịp thời cho Cảng vụ hàng hải khi phát hiện tai nạn, sự cố hay những thay đổi của luồng hàng hải và báo hiệu hàng hải trong thời gian dẫn tàu;
+
+b) Không thông báo, xác báo cho Cảng vụ hàng hải về thời gian, địa điểm lên tàu, rời tàu hoặc tình hình dẫn tàu theo quy định;
+
+c) Lên tàu chậm hơn thời gian quy định hoặc lên, xuống tàu không đúng địa điểm quy định;
+
+d) Dần tàu vào, rời cảng hoặc di chuyển không đúng theo kế hoạch điều động tàu của Cảng vụ hàng hải hoặc không đúng với tàu được phân công dẫn mà không có lý do chính đáng;
+
+đ) Tự ý rời tàu khi chưa có sự đồng ý của thuyền trưởng;
+
+e) Không sử dụng trang phục hoa tiêu theo quy định khi dẫn tàu.
+
+2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Hoa tiêu hàng hải dẫn tàu vào neo đậu, cập cầu hoặc di chuyển trong vùng nước cảng khi chưa có lệnh điều động hoặc sai vị trí chỉ định của Cảng vụ hàng hải;
+
+b) Từ chối dẫn tàu mà không có lý do chính đáng hoặc không thông báo kịp thời cho Cảng vụ hàng hải hoặc tổ chức hoa tiêu hàng hải về việc từ chối dẫn tàu;
+
+c) Hoa tiêu dẫn tàu có lỗi dẫn đến tai nạn hàng hải ít nghiêm trọng.
+
+3. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi hoa tiêu dẫn tàu có lỗi dẫn đến tai nạn hàng hải nghiêm trọng.
+
+4. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi hoa tiêu dẫn tàu có lỗi dẫn đến tai nạn hàng hải đặc biệt nghiêm trọng.
+
+5. Hình thức xử phạt bổ sung:
+
+a) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải có thời hạn từ 03 tháng đến 06 tháng đối với các hành vi vi phạm được quy định tại Khoản 3 Điều này;
+
+b) Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn hoa tiêu hàng hải của hoa tiêu hàng hải có thời hạn từ 06 tháng đến 12 tháng đối với hành vi vi phạm được quy định tại Khoản 4 Điều này.
+
+**Mục 5**
+
+**VI PHẠM QUY ĐỊNH VỀ HOẠT ĐỘNG KINH DOANH VẬN TẢI BIỂN VÀ DỊCH VỤ HÀNG HẢI**
+
+**Điều 25. Vi phạm quy định về sử dụng giấy phép và điều kiện kinh doanh vận tải biển, vận tải đa phương thức và dịch vụ hàng hải**
+
+1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Kinh doanh vận tải đa phương thức không có hoặc không đúng giấy phép do cơ quan có thẩm quyền cấp theo quy định;
+
+b) Kinh doanh dịch vụ vận tải biển không đủ điều kiện theo quy định.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Sửa chữa, tẩy xóa làm sai lệch nội dung ghi trong giấy phép;
+
+b) Mua, bán, thuê, cho thuê, mượn, cho mượn giấy phép.
+
+3. Hình thức xử phạt bổ sung:
+
+Tịch thu giấy phép sử dụng để thực hiện hành vi vi phạm hành chính được quy định tại Điểm a Khoản 2 Điều này.
+
+**Điều 26. Vi phạm quy định về trách nhiệm của chủ tàu, người quản lý, khai thác tàu đối với tàu thuyền và thuyền viên**
+
+1. Phạt tiền từ 30.000.000 đồng đến 60.000.000 đồng đối với mỗi hành vi vi phạm không bố trí thời gian nghỉ ngơi cho thuyền viên làm việc trên tàu trong năm theo quy định.
+
+2. Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không cung cấp nhu yếu phẩm, lương thực, thực phẩm cho thuyền viên làm việc trên tàu theo quy định;
+
+b) Không cung cấp kinh phí cho thuyền viên hồi hương theo quy định.
+
+3. Phạt tiền từ 80.000.000 đồng đến 100.000.000 đồng đối với hành vi vi phạm không cung cấp đầy đủ nguyên, nhiên, vật liệu bảo đảm duy trì hoạt động cho tàu khi đang khai thác tàu.
+
+4. Hình thức xử phạt bổ sung:
+
+Đình chỉ hoạt động kinh doanh có thời hạn đến 06 tháng đối với hành vi vi phạm quy định tại các Điểm a, b Khoản 2 và Khoản 3 Điều này.
+
+5. Biện pháp khắc phục hậu quả:
+
+Buộc cung cấp nhu yếu phẩm, lương thực thực phẩm, nguyên, nhiên vật liệu, kinh phí hồi hương của thuyền viên và bố trí thời gian nghỉ ngơi theo quy định đối với các hành vi vi phạm quy định tại Khoản 1, Khoản 2 và Khoản 3 Điều này.
+
+**Mục 6**
+
+**VI PHẠM QUY ĐỊNH VỀ HOẠT ĐỘNG TÌM KIẾM, CỨU NẠN HÀNG HẢI, TRỤC VỚT TÀI SẢN CHÌM ĐẮM VÀ BÁO HIỆU HÀNG HẢI**
+
+**Điều 27. Vi phạm quy định về hoạt động tìm kiếm, cứu nạn hàng hải**
+
+1. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi phát tín hiệu cấp cứu giả.
+
+2. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không thực hiện nghĩa vụ theo quy định về tìm kiếm, cứu nạn hàng hải;
+
+b) Thực hiện chậm trễ lệnh điều động của cơ quan có thẩm quyền để tìm kiếm, cứu nạn theo quy định.
+
+3. Đối với hành vi không thực hiện lệnh điều động của cơ quan có thẩm quyền để tìm kiếm, cứu nạn theo quy định sẽ bị xử phạt như sau:
+
+a) Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với tàu thuyền có tổng dung tích dưới 500 GT;
+
+b) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với tàu thuyền có tổng dung tích từ 500 GT đến dưới 3.000 GT;
+
+c) Phạt tiền từ 40.000.000 đồng đến 80.000.000 đồng đối với tàu thuyền có tổng dung tích từ 3.000 GT trở lên.
+
+4. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng Giấy chứng nhận khả năng chuyên môn của thuyền trưởng từ 03 tháng đến 06 tháng đối với hành vi vi phạm quy định tại Điểm a Khoản 2 Điều này.
+
+**Điều 28. Vi phạm quy định về trục vớt tài sản chìm đắm tại cảng biển**
+
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi không thông báo, báo cáo hoặc thông báo, báo cáo không đúng theo quy định về tài sản chìm đắm tại cảng biển.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Không lắp đặt hoặc lắp đặt không kịp thời báo hiệu phù hợp với vị trí tài sản bị chìm đắm;
+
+b) Thực hiện việc trục vớt hoặc kết thúc việc trục vớt tài sản bị chìm đắm quá thời gian quy định;
+
+c) Trục vớt tài sản chìm đắm khi chưa được phép của cơ quan có thẩm quyền;
+
+d) Không bàn giao hoặc bàn giao không đầy đủ tài sản chìm đắm ngẫu nhiên trục vớt được theo quy định;
+
+đ) Không thanh toán các chi phí liên quan đến việc trục vớt tài sản chìm đắm theo quy định.
+
+3. Phạt tiền từ 20.000.000 đồng đến 50.000.000 đồng đối với hành vi không trục vớt tài sản chìm đắm không gây nguy hiểm theo quy định.
+
+4. Phạt tiền từ 70.000.000 đồng đến 100.000.000 đồng đối với hành vi không trục vớt tài sản chìm đắm gây nguy hiểm.
+
+5. Hình thức xử phạt bổ sung:
+
+Tịch thu tang vật, phương tiện được sử dụng để thực hiện hành vi vi phạm hành chính quy định tại Điểm c Khoản 2 Điều này.
+
+6. Biện pháp khắc phục hậu quả:
+
+Buộc bồi hoàn chi phí trục vớt tài sản chìm đắm theo quy định đối với các hành vi vi phạm được quy định tại Điểm đ Khoản 2 và Khoản 4 Điều này.
+
+**Điều 29. Vi phạm quy định về báo hiệu hàng hải**
+
+1. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với hành vi làm che khuất, làm nhiễu hoặc làm suy giảm hiệu lực của báo hiệu hàng hải.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau đây:
+
+a) Đặt báo hiệu hàng hải sai vị trí quy định;
+
+b) Không đặt báo hiệu hàng hải hoặc đặt không kịp thời khi có chướng ngại vật gây nguy hiểm;
+
+c) Không kịp thời sửa chữa, khôi phục lại các báo hiệu hàng hải bị hư hỏng hoặc bị trôi dạt;
+
+d) Làm dịch chuyển hoặc hư hỏng báo hiệu hàng hải;
+
+đ) Làm mất hiệu lực hoặc thay đổi đặc tính báo hiệu hàng hải;
+
+e) Thiết lập báo hiệu hàng hải không đúng quy định;
+
+g) Đưa báo hiệu hàng hải vào hoạt động khi chưa được công bố Thông báo hàng hải theo quy định.
+
+3. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với mỗi hành vi vi phạm sau:
+
+a) Tự ý dịch chuyển báo hiệu hàng hải khác với vị trí ban đầu khi chưa được cơ quan có thẩm quyền cho phép, chấp thuận;
+
+b) Sửa chữa, thay thế báo hiệu hàng hải không đúng với thiết kế được duyệt.
+
+4. Biện pháp khắc phục hậu quả:
+
+Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do các hành vi vi phạm được quy định tại Khoản 1, Điểm d và Điểm đ Khoản 2, Điểm a Khoản 3 Điều này.
+
+**Mục 7**
+
+**VI PHẠM QUY ĐỊNH VỀ ĐÀO TẠO, HUẤN LUYỆN THUYỀN VIÊN**
+
+**Điều 30. Vi phạm quy định về đào tạo, huấn luyện thuyền viên**
+
+1. Phạt tiền từ 5.000.000 đồng đến 15.000.000 đồng đối với hành vi thiếu một trong những trang, thiết bị phục vụ huấn luyện, đào tạo theo quy định hoặc trang, thiết bị không bảo đảm quy chuẩn kỹ thuật.
+
+2. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với mỗi hành vi vi phạm sau:
+
+a) Thiếu 01 hướng dẫn viên hoặc hướng dẫn viên không có đủ chứng chỉ hành nghề theo quy định;
+
+b) Số lượng học viên trong một lớp vượt quá quy định cho phép đến 10%.
+
+3. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi vi phạm sau:
+
+a) Thiếu 01 huấn luyện viên hoặc huấn luyện viên không có đủ chứng chỉ hành nghề theo quy định;
+
+b) Số lượng học viên trong một lớp vượt quá quy định cho phép trên 10%.
+
+4. Biện pháp khắc phục hậu quả:
+
+a) Buộc bổ sung trang thiết bị còn thiếu hoặc buộc sửa chữa trang thiết bị đối với hành vi vi phạm quy định tại Khoản 1 Điều này;
+
+b) Buộc bổ sung đủ số lượng hướng dẫn viên, huấn luyện viên còn thiếu hoặc cập nhật, bổ sung chứng chỉ hành nghề đối với các hành vi vi phạm quy định tại Điểm a Khoản 2 và Điểm a Khoản 3 Điều này;
+
+c) Buộc sắp xếp lại số lượng học viên, vượt quá quy định đối với các hành vi vi phạm quy định tại Điểm b Khoản 2 và Điểm b Khoản 3 Điều này.
+
+**Mục 8**
+
+**VI PHẠM QUY ĐỊNH VỀ HOẠT ĐỘNG ỨNG PHÓ SỰ CỐ TRÀN DẦU, QUẢN LÝ TIẾP NHẬN VÀ XỬ LÝ CHẤT THẢI LỎNG CÓ DẦU TỪ TÀU BIỂN TẠI CẢNG BIỂN**
+
+**Điều 31. Vi phạm quy định về hoạt động ứng phó sự cố tràn dầu**
+
+1. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi không có kế hoạch ứng phó sự cố tràn dầu; kế hoạch ứng cứu ô nhiễm dầu, ô nhiễm hóa chất; kế hoạch hoạt động chuyển tải dầu giữa tàu với tàu trên biển hoặc kế hoạch ứng phó sự cố tràn dầu và hóa chất độc hại theo quy định.
+
+2. Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với hành vi không xây dựng nguồn lực ứng phó sự cố tràn dầu theo quy định.
+
+**Điều 32. Vi phạm quy định về hoạt động quản lý tiếp nhận và xử lý chất thải lỏng có dầu từ tàu biển tại cảng biển**
+
+1. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi không báo cáo kết quả giao, nhận, xử lý chất thải lỏng có dầu tới cơ quan có thẩm quyền theo quy định.
+
+2. Phạt tiền từ 5.000.000 đồng đến 8.000.000 đồng đối với hành vi tàu biển vào cảng biển không khai báo cho Cảng vụ hàng hải tại khu vực về số lượng nước thải lẫn dầu có trên tàu khi cập cảng.
+
+3. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi thực hiện hoạt động tiếp nhận và xử lý chất thải lỏng có dầu từ tàu biển mà không có kế hoạch giao, nhận chất thải lỏng được Cảng vụ hàng hải tại khu vực chấp thuận.
+
+4. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi cảng biển, bến cảng không trang bị phương tiện tiếp nhận hoặc trạm xử lý chất thải lỏng có dầu hoặc không có danh mục các tổ chức, cá nhân cung cấp dịch vụ tiếp nhận và xử lý chất thải lỏng có dầu do Cảng vụ hàng hải tại khu vực cung cấp theo quy định.
+
+5. Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với hành vi chuyển giao chất thải lỏng có dầu từ tàu biển tới phương tiện tiếp nhận khi chưa được đồng ý của Cảng vụ hàng hải tại khu vực.
+
+6. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi thực hiện hoạt động tiếp nhận và xử lý chất thải lỏng có dầu từ tàu biển mà không được cấp phép hành nghề theo quy định.
+
+**Chương III**
+
+**HÀNH VI VI PHẠM HÀNH CHÍNH, HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA**
+
+**Mục 1**
+
+**VI PHẠM QUY ĐỊNH VỀ XÂY DỰNG, BẢO VỆ VÀ KHAI THÁC KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA**
+
+**Điều 33. Vi phạm quy định về bảo vệ công trình thuộc kết cấu hạ tầng giao thông đường thủy nội địa**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Đổ rác hoặc rơm, rạ xuống đường thủy nội địa, vùng nước cảng, bến thủy nội địa;
+
+b) Buộc động vật vào báo hiệu đường thủy nội địa, mốc thủy chí, mốc đo đạc hoặc mốc giới hạn phạm vi hành lang bảo vệ luồng.
+
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Trồng cây, để đồ vật, dựng lều quán hoặc có hành vi khác làm hạn chế tác dụng của báo hiệu đường thủy nội địa hoặc làm hạn chế tầm nhìn của người điều khiển phương tiện;
+
+b) Buộc phương tiện vào báo hiệu đường thủy nội địa, mốc thủy chí, mốc đo đạc hoặc mốc giới hạn phạm vi hành lang bảo vệ luồng.
+
+3. Phạt tiền từ 200.000 đồng đến 500.000 đồng đối với hành vi để đồ vật, tre, gỗ trôi tự do trong phạm vi luồng.
+
+4. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi để bùn, đất, cát, sỏi hoặc các chất phế thải khác rơi hoặc trôi xuống đường thủy nội địa.
+
+5. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với một trong các hành vi dịch chuyển báo hiệu đường thủy nội địa, mốc thủy chí, mốc đo đạc, mốc giới hạn phạm vi hành lang bảo vệ luồng mà không được phép của cơ quan có thẩm quyền hoặc làm mất tác dụng của báo hiệu đường thủy nội địa, mốc thủy chí, mốc đo đạc, mốc giới hạn phạm vi hành lang bảo vệ luồng.
+
+6. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Tháo dỡ cấu kiện hoặc lấy đất, đá của công trình thuộc kết cấu hạ tầng giao thông đường thủy nội địa;
+
+b) Đổ bùn, đất, đá, cát, sỏi hoặc các chất phế thải khác xuống luồng hoặc trong phạm vi hành lang bảo vệ luồng hoặc vùng nước cảng, bến thủy nội địa không đúng quy định.
+
+7. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Làm sạt lở kè, đập giao thông;
+
+b) Để phương tiện đâm, va vào công trình thuộc kết cấu hạ tầng giao thông đường thủy nội địa hoặc công trình khác trên đường thủy nội địa làm ảnh hưởng đến an toàn của công trình hoặc gây cản trở giao thông;
+
+c) Dựng nhà, làm nhà nổi, xây dựng công trình trong phạm vi hành lang bảo vệ luồng hoặc phạm vi bảo vệ công trình khác thuộc kết cấu hạ tầng giao thông đường thủy nội địa không đúng quy định hoặc không phù hợp với giấy phép do cơ quan có thẩm quyền cấp.
+
+8. Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Dựng nhà, làm nhà nổi, xây dựng công trình trong phạm vi hành lang bảo vệ luồng hoặc phạm vi bảo vệ công trình khác thuộc kết cấu hạ tầng giao thông đường thủy nội địa khi chưa được phép của cơ quan có thẩm quyền;
+
+b) Xây dựng công trình trong phạm vi luồng không đúng quy định hoặc không phù hợp với giấy phép hoặc văn bản thỏa thuận của cơ quan có thẩm quyền.
+
+9. Phạt tiền từ 25.000.000 đồng đến 30.000.000 đồng đối với hành vi xây dựng công trình trong phạm vi luồng khi chưa được phép của cơ quan có thẩm quyền.
+
+10. Xử phạt đối với hành vi vi phạm quy định về khai thác cát, sỏi hoặc khoáng sản khác như sau:
+
+a) Phạt 10.000.000 đồng đến 15.000.000 đồng đối với hành vi khai thác cát, sỏi hoặc khoáng sản khác trong phạm vi hành lang bảo vệ luồng không đúng quy định hoặc không phù hợp với giấy phép hoặc văn bản chấp thuận của cơ quan có thẩm quyền;
+
+b) Phạt 15.000.000 đồng đến 20.000.000 đồng đối với hành vi khai thác cát, sỏi hoặc khoáng sản khác trong phạm vi hành lang bảo vệ luồng mà không có giấy phép hoặc văn bản chấp thuận của cơ quan có thẩm quyền;
+
+c) Phạt 25.000.000 đồng đến 30.000.000 đồng đối với hành vi khai thác cát, sỏi hoặc khoáng sản khác trong phạm vi luồng, phạm vi bảo vệ công trình khác thuộc kết cấu hạ tầng giao thông đường thủy nội địa không đúng quy định hoặc không phù hợp với giấy phép hoặc văn bản chấp thuận của cơ quan có thẩm quyền;
+
+d) Phạt 35.000.000 đồng đến 40.000.000 đồng đối với hành vi khai thác cát, sỏi hoặc khoáng sản khác trong phạm vi luồng, phạm vi bảo vệ công trình khác thuộc kết cấu hạ tầng giao thông đường thủy nội địa mà không có giấy phép hoặc văn bản chấp thuận của cơ quan có thẩm quyền.
+
+11. Phạt tiền từ 45.000.000 đồng đến 50.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Cố ý tạo vật chướng ngại gây cản trở hoặc gây mất an toàn giao thông trên luồng;
+
+b) Sử dụng chất nổ làm ảnh hưởng đến an toàn của công trình thuộc kết cấu hạ tầng giao thông đường thủy nội địa hoặc công trình khác trên đường thủy nội địa.
+
+12. Hình thức xử phạt bổ sung:
+
+a) Tước quyền sử dụng giấy phép khai thác cát, sỏi hoặc khoáng sản khác từ 03 tháng đến 06 tháng đối với các hành vi vi phạm quy định tại Khoản 10 Điều này;
+
+b) Tịch thu phương tiện, thiết bị được sử dụng để trực tiếp khai thác cát sỏi hoặc khoáng sản khác đối với các hành vi vi phạm quy định tại Điểm c và Điểm d Khoản 10 Điều này.
+
+13. Biện pháp khắc phục hậu quả:
+
+a) Buộc di chuyển cây, phương tiện, súc vật, đồ vật, tre, gỗ đối với hành vi vi phạm quy định tại Điểm b Khoản 1, Khoản 2, Khoản 3; buộc tháo dỡ lều quán, nhà, nhà nổi, công trình đối với hành vi vi phạm quy định tại Điểm a Khoản 8, Khoản 9 và buộc tháo dỡ phần vi phạm của nhà, nhà nổi, công trình đối với hành vi vi phạm quy định tại Điểm c Khoản 7 và Điểm b Khoản 8; buộc thanh thải vật chướng ngại đối với các hành vi vi phạm quy định tại Điểm a Khoản 11 Điều này;
+
+b) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi đối với các hành vi vi phạm quy định tại Điểm a Khoản 1, Khoản 3, Khoản 4, Khoản 5, Khoản 6, Điểm a và Điểm b Khoản 7 và Điểm b Khoản 11 Điều này.
+
+**Điều 34. Vi phạm quy định về bảo đảm an toàn giao thông khi thi công công trình, khai thác khoáng sản, khảo sát, thăm dò, tổ chức diễn tập, luyện tập, thi đấu thể thao, lễ hội, vui chơi giải trí trên đường thủy nội địa**
+
+1. Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với hành vi điều khiển phương tiện, thiết bị thi công trên đường thủy nội địa mà không có chứng chỉ chuyên môn hoặc giấy chứng nhận điều khiển phương tiện, thiết bị theo quy định.
+
+2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây khi thi công công trình, khai thác cát sỏi, hoặc khoáng sản khác, khảo sát, thăm dò; tổ chức diễn tập, luyện tập, thi đấu thể thao, lễ hội, vui chơi giải trí trên đường thủy nội địa.
+
+a) Không thông báo cho cơ quan có thẩm quyền về giao thông đường thủy nội địa khi tổ chức diễn tập, luyện tập, thi đấu thể thao, lễ hội, vui chơi giải trí trên đường thủy nội địa;
+
+b) Thực hiện không đúng phương án bảo đảm an toàn giao thông được cơ quan có thẩm quyền chấp thuận khi thi công công trình, khai thác cát, sỏi hoặc khoáng sản khác, khảo sát, thăm dò, tổ chức diễn tập, luyện tập, thi đấu thể thao, lễ hội, vui chơi giải trí trên đường thủy nội địa;
+
+c) Để phương tiện, thiết bị thi công gây cản trở giao thông;
+
+d) Không bàn giao hoặc bàn giao không đúng thời hạn, không đủ hồ sơ công trình có liên quan đến giao thông đường thủy nội địa cho đơn vị quản lý đường thủy nội địa khi thi công xong công trình.
+
+3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi thi công công trình, khai thác cát, sỏi hoặc khoáng sản khác, khảo sát, thăm dò, tổ chức diễn tập, luyện tập, thi đấu thể thao, lễ hội, vui chơi giải trí trên đường thủy nội địa mà không có phương án bảo đảm an toàn giao thông hoặc không thực hiện phương án bảo đảm an toàn giao thông được cơ quan có thẩm quyền chấp thuận.
+
+4. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi thi công nạo vét đường thủy nội địa mà đổ bùn, đất, đá, cát, sỏi không đúng nơi quy định của cơ quan có thẩm quyền ở ngoài phạm vi luồng.
+
+5. Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với hành vi thi công nạo vét đường thủy nội địa mà đổ bùn, đất, đá, cát, sỏi không đúng nơi quy định của cơ quan có thẩm quyền ở trong phạm vi luồng.
+
+6. Biện pháp khắc phục hậu quả:
+
+Buộc khôi phục lại tình trạng ban đầu đối với hành vi vi phạm quy định tại Khoản 4 và Khoản 5 Điều này.
+
+**Điều 35. Vi phạm quy định về quản lý đường thủy nội địa**
+
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không thông báo hoặc thông báo không kịp thời theo quy định khi luồng thay đổi;
+
+b) Không lập hồ sơ theo dõi vật chướng ngại trên đường thủy nội địa có ảnh hưởng đến an toàn giao thông.
+
+2. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không có biện pháp kịp thời bảo đảm an toàn giao thông khi phát hiện vật chướng ngại trên luồng;
+
+b) Không có biện pháp sửa chữa khi công trình giao thông đường thủy nội địa bị hư hại.
+
+3. Biện pháp khắc phục hậu quả:
+
+Buộc sửa chữa công trình bị hư hại đối với các hành vi vi phạm quy định tại Điểm a và Điểm b Khoản 2 Điều này.
+
+**Điều 36. Vi phạm quy định về bảo đảm trật tự an toàn giao thông đường thủy nội địa khi khai thác, nuôi trồng thủy sản, hải sản**
+
+1. Phạt tiền từ 100.000 đồng đến 300.000 đồng đối với hành vi đánh bắt thủy sản, hải sản lưu động gây cản trở giao thông.
+
+2. Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với hành vi đặt dụng cụ, để phương tiện khai thác, nuôi trồng thủy sản, hải sản trong phạm vi hành lang bảo vệ luồng làm che khuất tầm nhìn của người điều khiển phương tiện hoặc đặt dụng cụ, để phương tiện khai thác, nuôi trồng thủy sản, hải sản không đúng theo hướng dẫn của đơn vị quản lý đường thủy nội địa.
+
+3. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không dỡ bỏ dụng cụ, không di chuyển phương tiện khai thác, nuôi trồng thủy sản, hải sản sau khi chấm dứt hoạt động khai thác, nuôi trồng thủy sản, hải sản trong phạm vi hành lang bảo vệ luồng;
+
+b) Không dỡ bỏ, di chuyển, thu hẹp dụng cụ, phương tiện khai thác, nuôi trồng thủy sản, hải sản theo thông báo của đơn vị quản lý đường thủy nội địa.
+
+4. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi đặt dụng cụ, phương tiện khai thác, nuôi trồng thủy sản, hải sản trên luồng.
+
+**Điều 37. Vi phạm quy định về báo hiệu đường thủy nội địa**
+
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi không lắp đặt, lắp đặt không đủ số lượng, không đúng quy tắc hoặc không duy trì báo hiệu theo quy định đối với bến hàng hóa, bến hành khách.
+
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi không lắp đặt, lắp đặt không đủ số lượng, không đúng quy tắc hoặc không duy trì theo quy định báo hiệu bến phà, báo hiệu bến khách ngang sông, báo hiệu vật chướng ngại là đăng, đáy cá.
+
+3. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với hành vi không lắp đặt báo hiệu, lắp đặt không đủ số lượng, không đúng quy tắc hoặc không duy trì theo quy định báo hiệu cảng thủy nội địa, báo hiệu vị trí vật chướng ngại, báo hiệu công trình xây dựng trên đường thủy nội địa, báo hiệu công trình qua luồng trên không, báo hiệu cầu phao, báo hiệu công trình ngầm vượt sông.
+
+4. Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với hành vi không duy trì báo hiệu trên đường thủy nội địa theo phương án được cơ quan có thẩm quyền phê duyệt.
+
+**Điều 38. Vi phạm quy định về thanh thải vật chướng ngại**
+
+1. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi vi phạm thời hạn trục vớt phương tiện bị chìm đắm hoặc thanh thải vật chướng ngại khác theo quy định của đơn vị quản lý đường thủy nội địa.
+
+2. Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với hành vi trục vớt không hết phương tiện bị chìm đắm hoặc thanh thải không hết vật chướng ngại khác.
+
+3. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi không trục vớt phương tiện bị chìm đắm hoặc không thanh thải vật chướng ngại khác.
+
+**Điều 39. Vi phạm quy định về bảo vệ môi trường**
+
+1. Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với chủ cảng, bến thủy nội địa, thuyền viên, người lái phương tiện có hành vi đổ, xả chất thải xuống đường thủy nội địa, vùng nước cảng, bến thủy nội địa hoặc đổ, xả không đúng nơi quy định gây ô nhiễm môi trường.
+
+2. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với chủ cơ sở, cá nhân hành nghề đóng mới, hoán cải, sửa chữa phục hồi phương tiện có hành vi xả chất thải không đúng quy định gây ô nhiễm môi trường.
+
+3. Biện pháp khắc phục hậu quả:
+
+Buộc thực hiện các biện pháp khắc phục hậu quả gây ô nhiễm môi trường đối với các hành vi vi phạm quy định tại Khoản 1 và Khoản 2 Điều này.
+
+**Mục 2**
+
+**VI PHẠM QUY ĐỊNH VỀ ĐĂNG KÝ, ĐĂNG KIỂM PHƯƠNG TIỆN**
+
+**Điều 40. Vi phạm quy định về điều kiện hoạt động của phương tiện, đăng ký, đăng kiểm phương tiện**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Kẻ, gắn số đăng ký của phương tiện không đúng quy định;
+
+b) Số đăng ký được kẻ, gắn trên phương tiện bị mờ hoặc bị che khuất;
+
+c) Biển ghi số người được phép chở trên phương tiện bị mờ hoặc bị che khuất;
+
+d) Đưa phương tiện không có động cơ, trọng tải toàn phần dưới 01 tấn hoặc sức chở dưới 05 người hoặc bè vào hoạt động mà không bảo đảm điều kiện an toàn theo quy định.
+
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người lái phương tiện không có động cơ, trọng tải toàn phần từ 01 tấn đến dưới 05 tấn hoặc có sức chở từ 05 người đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người có một trong các hành vi vi phạm sau đây:
+
+a) Không mang theo giấy chứng nhận đăng ký phương tiện;
+
+b) Không đăng ký lại phương tiện theo quy định hoặc không khai báo để xóa tên phương tiện hoặc không nộp lại giấy chứng nhận đăng ký phương tiện theo quy định;
+
+c) Không kẻ, gắn số đăng ký của phương tiện theo quy định;
+
+d) Không kẻ hoặc kẻ không đúng quy định hoặc để mở, che khuất vạch dấu mớn nước an toàn của phương tiện.
+
+3. Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với người lái phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người có một trong các hành vi vi phạm sau đây:
+
+a) Không mang theo giấy chứng nhận đăng ký phương tiện;
+
+b) Không đăng ký lại phương tiện theo quy định hoặc không khai báo để xóa tên phương tiện hoặc không nộp lại giấy chứng nhận đăng ký phương tiện theo quy định;
+
+c) Không kẻ, gắn số đăng ký của phương tiện theo quy định;
+
+d) Không kẻ hoặc kẻ không đúng quy định hoặc để mờ, che khuất vạch dấu mớn nước an toàn của phương tiện;
+
+đ) Không mang theo giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện;
+
+e) Sử dụng giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện đã hết hiệu lực.
+
+4. Xử phạt vi phạm hành chính đối với một trong các hành vi vi phạm quy định tại Khoản 3 Điều này hoặc không có sổ danh bạ thuyền viên theo quy định; không kẻ hoặc kẻ không đúng biển ghi số người cho phép chở trên phương tiện theo quy định như sau:
+
+a) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+b) Phạt tiền từ 500.000 đồng đến 700.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người;
+
+c) Phạt tiền từ 700.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người.
+
+5. Xử phạt vi phạm hành chính đối với hành vi sử dụng phương tiện không có giấy chứng nhận đăng ký hoặc không có giấy chứng nhận kiểm tra an toàn kỹ thuật và bảo vệ môi trường của phương tiện hoặc phương tiện không bảo đảm tình trạng an toàn kỹ thuật và bảo vệ môi trường theo quy định như sau:
+
+a) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 01 tấn đến dưới 05 tấn hoặc có sức chở từ 05 người đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người;
+
+b) Phạt tiền từ 500.000 đồng đến 700.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+c) Phạt tiền từ 700.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+d) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người;
+
+đ) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người.
+
+6. Xử phạt vi phạm hành chính đối với một trong các hành vi khai báo không đúng sự thật để đăng ký, đăng kiểm phương tiện; mượn, thuê, cho mượn, cho thuê thiết bị, dụng cụ để được đăng kiểm như sau:
+
+a) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 01 tấn đến dưới 05 tấn hoặc có sức chở từ 05 người đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người;
+
+b) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+c) Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+d) Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người;
+
+đ) Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người.
+
+7. Xử phạt đối với hành vi sử dụng giấy chứng nhận đăng ký phương tiện giả, giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường giả, kẻ hoặc gắn số đăng ký giả như sau:
+
+a) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 01 tấn đến dưới 05 tấn hoặc có sức chở từ 05 người đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người;
+
+b) Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 30 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+c) Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 30 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+d) Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 150 người;
+
+đ) Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 150 người.
+
+8. Xử phạt vi phạm hành chính đối với phương tiện cuốc, hút, phương tiện đặt cần cẩu nổi có một trong các hành vi vi phạm quy định tại Khoản 2 và Khoản 5 Điều này như sau:
+
+a) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với chủ sở hữu hoặc người sử dụng phương tiện cuốc, hút có khả năng khai thác đến 15 m3/h, phương tiện đặt cần cẩu nổi có sức nâng đến 15 tấn;
+
+b) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện cuốc, hút có khả năng khai thác từ trên 15 m3/h đến 100 m3/h, phương tiện đặt cần cẩu nổi có sức nâng từ trên 15 tấn đến 150 tấn;
+
+c) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với phương tiện cuốc, hút có khả năng khai thác trên 100 m3/h, phương tiện đặt cần cẩu nổi có sức nâng trên 150 tấn.
+
+9. Biện pháp khắc phục hậu quả:
+
+Buộc tiêu hủy giấy chứng nhận đăng ký phương tiện giả, giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường giả, biển số đăng ký giả, xóa số đăng ký giả kẻ trên phương tiện đối với các hành vi vi phạm quy định tại Khoản 7 Điều này.
+
+**Điều 41. Vi phạm quy định về thiết bị, dụng cụ an toàn của phương tiện**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với hành vi đưa phương tiện không có động cơ, trọng tải toàn phần dưới 05 tấn hoặc có sức chở đến 12 người; phương tiện có động cơ công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người vào hoạt động mà không trang bị hoặc trang bị không đầy đủ dụng cụ an toàn theo quy định.
+
+2. Xử phạt vi phạm hành chính đối với một trong các hành vi trang bị không đủ số lượng, không đúng chủng loại, không bảo đảm chất lượng hoặc bố trí không đúng vị trí một trong các thiết bị, dụng cụ cứu sinh, cứu đắm, phòng cháy, chữa cháy, neo đậu, liên kết phương tiện theo quy định như sau:
+
+a) Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+b) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người, đoàn tàu lai trọng tải toàn phần đến 400 tấn;
+
+c) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người, đoàn tàu lai trọng tải toàn phần từ trên 400 tấn đến 1.000 tấn;
+
+d) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người, đoàn tàu lai trọng tải toàn phần trên 1.000 tấn.
+
+3. Xử phạt đối với hành vi không trang bị một trong các loại thiết bị, dụng cụ cứu sinh, cứu đắm, phòng cháy, chữa cháy, neo đậu, liên kết phương tiện theo quy định như sau:
+
+a) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+b) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người, đoàn tàu lai trọng tải toàn phần đến 400 tấn;
+
+c) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người, đoàn tàu lai trọng tải toàn phần từ trên 400 tấn đến 1.000 tấn;
+
+d) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người, đoàn tàu lai trọng tải toàn phần trên 1.000 tấn.
+
+4. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với tàu cao tốc khi hoạt động nhưng không có thiết bị giám sát hành trình hoặc thiết bị giám sát hành trình không hoạt động theo quy định.
+
+**Điều 42. Vi phạm quy định về công dụng, vùng hoạt động của phương tiện**
+
+Xử phạt vi phạm hành chính đối với hành vi đưa phương tiện vào khai thác sử dụng không đúng công dụng hoặc không đúng vùng hoạt động của phương tiện theo quy định như sau:
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần dưới 05 tấn hoặc có sức chở đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người.
+
+2. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người.
+
+3. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người.
+
+4. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người.
+
+5. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người.
+
+**Điều 43. Vi phạm quy định về thiết kế, đóng mới, hoán cải, sửa chữa phục hồi phương tiện**
+
+1. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với tổ chức, cá nhân hành nghề thiết kế đóng mới, hoán cải, sửa chữa phục hồi phương tiện không đủ điều kiện theo quy định.
+
+2. Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với chủ cơ sở, cá nhân hành nghề đóng mới, hoán cải, sửa chữa phục hồi phương tiện có một trong các hành vi vi phạm sau đây:
+
+a) Đóng mới, hoán cải, sửa chữa phục hồi phương tiện không đúng với hồ sơ thiết kế đã được cơ quan đăng kiểm phê duyệt;
+
+b) Không thực hiện hoặc thực hiện không đầy đủ biện pháp phòng cháy, chữa cháy theo quy định.
+
+3. Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Chủ cơ sở thực hiện đóng mới, hoán cải, sửa chữa phục hồi phương tiện thuộc diện đăng kiểm mà không có hồ sơ thiết kế được cơ quan đăng kiểm phê duyệt;
+
+b) Chủ phương tiện hoặc thuyền viên tự ý hoán cải, thay đổi tính năng, kết cấu, công dụng của phương tiện.
+
+**Mục 3**
+
+**VI PHẠM QUY ĐỊNH VỀ ĐIỀU KIỆN THUYỀN VIÊN, NGƯỜI LÁI PHƯƠNG TIỆN**
+
+**Điều 44. Vi phạm quy định về bằng, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện**
+
+1. Xử phạt vi phạm hành chính đối với thuyền viên, người lái phương tiện làm việc trên phương tiện có hành vi vi phạm sau đây:
+
+a) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với hành vi không có, không mang theo chứng chỉ huấn luyện an toàn cơ bản hoặc không mang theo chứng chỉ nghiệp vụ;
+
+b) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với hành vi không có chứng chỉ nghiệp vụ theo quy định hoặc không mang theo chứng chỉ chuyên môn đặc biệt;
+
+c) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với hành vi không có chứng chỉ chuyên môn đặc biệt theo quy định.
+
+2. Xử phạt vi phạm hành chính đối với thuyền viên làm việc trên phương tiện không có bằng, không mang theo bằng hoặc có bằng nhưng không phù hợp với loại phương tiện theo quy định như sau:
+
+a) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với thuyền trưởng, thuyền phó, máy trưởng, máy phó không mang theo bằng thuyền trưởng, bằng máy trưởng;
+
+b) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với thuyền trưởng, thuyền phó, máy trưởng, máy phó có bằng thuyền trưởng, bằng máy trưởng không phù hợp với loại phương tiện theo quy định;
+
+c) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với thuyền trưởng, thuyền phó, máy trưởng, máy phó không có bằng mà theo quy định phải có bằng thuyền trưởng hạng ba, bằng thuyền trưởng hạng ba hạn chế, bằng máy trưởng hạng ba;
+
+d) Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với thuyền trưởng, thuyền phó, máy trưởng, máy phó không có bằng mà theo quy định phải có bằng thuyền trưởng hạng nhì, bằng máy trưởng hạng nhì;
+
+đ) Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với thuyền trưởng, thuyền phó, máy trưởng, máy phó không có bằng mà theo quy định phải có bằng thuyền trưởng hạng nhất, bằng máy trưởng hạng nhất.
+
+3. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Bố trí chức danh thuyền trưởng, thuyền phó, máy trưởng, máy phó mà không có bằng thuyền trưởng, bằng máy trưởng hoặc có bằng thuyền trưởng, bằng máy trưởng nhưng không phù hợp với loại phương tiện theo quy định;
+
+b) Bố trí người không có bằng thuyền trưởng hoặc chứng chỉ lái phương tiện điều khiển phương tiện hoặc có bằng thuyền trưởng, chứng chỉ lái phương tiện nhưng không phù hợp với loại phương tiện theo quy định.
+
+4. Xử phạt vi phạm hành chính đối với hành vi cho thuê, cho mượn hoặc thuê, mượn bằng, chứng chỉ chuyên môn; tẩy xóa, sửa chữa bằng, chứng chỉ chuyên môn như sau:
+
+a) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với chứng chỉ nghiệp vụ;
+
+b) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với chứng chỉ chuyên môn đặc biệt;
+
+c) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với bằng thuyền trưởng, bằng máy trưởng.
+
+5. Xử phạt vi phạm hành chính đối với hành vi khai báo không đúng sự thật để được cấp, đổi bằng, chứng chỉ chuyên môn như sau:
+
+a) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với chứng chỉ nghiệp vụ;
+
+b) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với chứng chỉ chuyên môn đặc biệt;
+
+c) Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với bằng thuyền trưởng, bằng máy trưởng.
+
+6. Xử phạt vi phạm hành chính đối với hành vi sử dụng bằng, chứng chỉ chuyên môn giả của thuyền viên, người lái phương tiện thủy nội địa như sau:
+
+a) Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với hành vi sử dụng chứng chỉ chuyên môn đặc biệt, chứng chỉ nghiệp vụ giả;
+
+b) Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với hành vi sử dụng bằng thuyền trưởng hạng ba, bằng thuyền trưởng hạng ba hạn chế, bằng máy trưởng hạng ba giả;
+
+c) Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với hành vi sử dụng bằng thuyền trưởng hạng nhì, bằng máy trưởng hạng nhì giả;
+
+d) Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với hành vi sử dụng bằng thuyền trưởng hạng nhất, bằng máy trưởng hạng nhất giả.
+
+7. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi làm bằng thuyền trưởng, bằng máy trưởng, chứng chỉ chuyên môn giả của thuyền viên, người lái phương tiện thủy nội địa.
+
+8. Hình thức xử phạt bổ sung:
+
+a) Tước quyền sử dụng bằng, chứng chỉ chuyên môn từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại Khoản 4 Điều này;
+
+b) Tịch thu tang vật, thiết bị được sử dụng để vi phạm hành chính đối với hành vi vi phạm quy định tại Khoản 7 Điều này.
+
+9. Biện pháp khắc phục hậu quả:
+
+Buộc tiêu hủy bằng, chứng chỉ chuyên môn giả đối với các hành vi vi phạm quy định tại Khoản 6 và Khoản 7 Điều này.
+
+**Điều 45. Vi phạm quy định đối với thuyền viên, người lái phương tiện**
+
+1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi khi đang làm việc trên phương tiện mà có nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc 0,25 miligam/01 lít khí thở hoặc sử dụng các chất kích thích khác mà pháp luật cấm.
+
+2. Phạt tiền từ 200.000 đồng đến 500.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không bố trí đủ định biên thuyền viên theo quy định hoặc sử dụng người làm việc trên phương tiện không có tên trong danh bạ thuyền viên;
+
+b) Bố trí thuyền viên, người lái phương tiện làm việc trong tình trạng thuyền viên, người lái phương tiện có nồng độ cồn vượt quá 50 miligam/100 mililít máu hoặc 0,25 miligam/01 lít khí thở hoặc sử dụng các chất kích thích khác mà pháp luật cấm sử dụng;
+
+c) Không bố trí thuyền viên trông coi phương tiện khi phương tiện neo đậu hoặc không bố trí người cảnh giới khi phương tiện hành trình trong điều kiện tầm nhìn bị hạn chế;
+
+d) Thuyền viên được bố trí trông coi phương tiện khi phương tiện neo đậu mà không có mặt trên phương tiện hoặc không thực hiện trông coi phương tiện theo quy định;
+
+đ) Bố trí, sử dụng thuyền viên làm việc trên phương tiện không đủ điều kiện theo quy định.
+
+3. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Bố trí người không đủ sức khỏe, không đủ tuổi hoặc quá tuổi theo quy định đảm nhận các chức danh thuyền trưởng, máy trưởng, thuyền phó, máy phó;
+
+b) Thuyền trưởng, thuyền phó không có mặt trên phương tiện trong ca làm việc khi phương tiện đang hành trình;
+
+c) Thuyền trưởng không trực tiếp điều khiển phương tiện khi qua cầu, âu tàu, ra, vào cảng, bến thủy nội địa và trong các trường hợp theo quy định thuyền trưởng phải trực tiếp điều khiển phương tiện;
+
+d) Thuyền viên không phải là thuyền trưởng mà trực tiếp điều khiển phương tiện khi qua cầu, âu tàu, ra, vào cảng, bến thủy nội địa hoặc trong các trường hợp khác theo quy định thuyền trưởng phải trực tiếp điều khiển phương tiện.
+
+4. Xử phạt vi phạm hành chính đối với hành vi điều khiển phương tiện, làm việc trên phương tiện trong thời gian bị tước quyền sử dụng chứng chỉ chuyên môn, bằng thuyền trưởng, bằng máy trưởng như sau:
+
+a) Phạt tiền từ 200.000 đồng đến 500.000 đồng đối với chứng chỉ chuyên môn;
+
+b) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với bằng thuyền trưởng hạng ba, bằng thuyền trưởng hạng ba hạn chế, bằng máy trưởng hạng ba;
+
+c) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với bằng thuyền trưởng hạng nhì, bằng máy trưởng hạng nhì;
+
+d) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với bằng thuyền trưởng hạng nhất, bằng máy trưởng hạng nhất.
+
+5. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng bằng thuyền trưởng từ 01 tháng đến 02 tháng đối với các hành vi vi phạm quy định tại Điểm b và Điểm c Khoản 3 Điều này.
+
+**Điều 46. Vi phạm quy định về cơ sở đào tạo thuyền viên, người lái phương tiện**
+
+1. Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với cơ sở đào tạo thuyền viên, người lái phương tiện có một trong các hành vi vi phạm sau đây:
+
+a) Không thực hiện đúng quy chế tuyển sinh;
+
+b) Không thực hiện hoặc thực hiện không đầy đủ nội dung, chương trình đào tạo theo quy định.
+
+2. Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với cơ sở đào tạo thuyền viên, người lái phương tiện có một trong các hành vi vi phạm sau đây:
+
+a) Không bảo đảm tiêu chuẩn phòng học, xưởng và khu vực thực hành theo quy định;
+
+b) Tài liệu giảng dạy không bảo đảm nội dung, chương trình theo quy định;
+
+c) Giáo viên giảng dạy, hướng dẫn thực hành không bảo đảm điều kiện, tiêu chuẩn theo quy định;
+
+d) Không thực hiện đúng quy chế thi, kiểm tra đối với học viên.
+
+3. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với hành vi tổ chức đào tạo thuyền viên, người lái phương tiện khi chưa được cấp giấy chứng nhận của cơ quan có thẩm quyền.
+
+4. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng giấy phép hoạt động từ 01 tháng đến 03 tháng đối với cơ sở đào tạo có một trong các hành vi vi phạm quy định tại Khoản 2 Điều này.
+
+**Điều 47. Vi phạm quy định về trách nhiệm khi xảy ra tai nạn giao thông đường thủy nội địa**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với hành vi không báo kịp thời cho cơ quan Công an hoặc Ủy ban nhân dân địa phương nơi gần nhất khi xảy ra tai nạn giao thông đường thủy nội địa.
+
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi không có mặt đúng thời gian triệu tập của cơ quan nhà nước có thẩm quyền.
+
+3. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không bảo vệ hoặc làm thay đổi dấu vết, vật chứng liên quan đến tai nạn;
+
+b) Không cung cấp hoặc cung cấp không đầy đủ tài liệu, vật chứng liên quan đến tai nạn.
+
+4. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Trốn tránh nghĩa vụ tìm kiếm, cứu nạn khi có điều kiện thực hiện;
+
+b) Gây mất trật tự, cản trở việc tìm kiếm, cứu nạn hoặc xử lý tai nạn;
+
+c) Lợi dụng tai nạn xảy ra để xâm phạm, chiếm đoạt tài sản, phương tiện bị nạn.
+
+5. Phạt tiền từ 5.000.000 đồng 7.000.000 đồng đối với hành vi gây tai nạn mà bỏ trốn.
+
+6. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng bằng, chứng chỉ chuyên môn từ 03 tháng đến 06 tháng đối với hành vi vi phạm quy định tại Khoản 5 Điều này.
+
+**Điều 48. Vi phạm quy định về kiểm tra, kiểm soát**
+
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không dừng phương tiện khi nhận được tín hiệu kiểm tra, kiểm soát của người có thẩm quyền;
+
+b) Xuất trình không đầy đủ giấy tờ của phương tiện, hàng hóa và thuyền viên hoặc người lái phương tiện khi có yêu cầu kiểm tra của người có thẩm quyền;
+
+c) Không chấp hành yêu cầu của người có thẩm quyền về kiểm tra, kiểm soát thiết bị, dụng cụ an toàn của phương tiện.
+
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Cố tình không dừng phương tiện để kiểm tra, kiểm soát theo lệnh của người có thẩm quyền;
+
+b) Không xuất trình hoặc cố tình trì hoãn, kéo dài việc xuất trình giấy tờ của phương tiện, hàng hóa và thuyền viên hoặc người lái phương tiện khi có yêu cầu kiểm tra của người có thẩm quyền;
+
+c) Có lời nói lăng mạ, vu khống, xúc phạm người có thẩm quyền khi tiến hành kiểm tra, kiểm soát hoặc có hành vi cản trở việc kiểm tra, kiểm soát;
+
+d) Không chấp hành hoặc cố tình trì hoãn, kéo dài thời gian thi hành lệnh của người có thẩm quyền để đưa phương tiện về nơi xử lý vi phạm;
+
+đ) Có hành vi hối lộ người thi hành công vụ để trốn tránh việc xử phạt vi phạm hành chính.
+
+3. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi chống đối việc kiểm tra, kiểm soát của người có thẩm quyền.
+
+4. Hình thức xử phạt bổ sung:
+
+Tịch thu tiền, tài sản hoặc lợi ích vật chất khác đối với hành vi vi phạm quy định tại Điểm đ Khoản 2 Điều này.
+
+**Mục 4**
+
+**VI PHẠM QUY TẮC GIAO THÔNG VÀ TÍN HIỆU CỦA PHƯƠNG TIỆN**
+
+**Điều 49. Vi phạm quy tắc giao thông**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển phương tiện không có động cơ, trọng tải toàn phần dưới 05 tấn hoặc có sức chở đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người có một trong các hành vi vi phạm sau đây:
+
+a) Bám buộc vào phương tiện chở người, phương tiện chở hàng hóa nguy hiểm khi đang hành trình;
+
+b) Để phương tiện chở người, phương tiện chở hàng hóa nguy hiểm bám buộc vào phương tiện của mình khi đang hành trình;
+
+c) Không tuân theo chỉ dẫn của báo hiệu đường thủy nội địa;
+
+d) Không giảm tốc độ của phương tiện theo quy định;
+
+đ) Không chấp hành các quy định khi đi qua cầu, cống, âu tàu hoặc chỉ dẫn của người điều tiết giao thông;
+
+e) Không phát tín hiệu của phương tiện theo quy định khi ra, vào cảng, bến thủy nội địa, hành trình trong điều kiện tầm nhìn bị hạn chế hoặc nơi luồng giao nhau, luồng cong, gấp;
+
+g) Neo đậu phương tiện ở những nơi cấm neo đậu, không thực hiện đúng các quy định về neo đậu phương tiện hoặc neo đậu phương tiện gây cản trở giao thông;
+
+h) Không phát tín hiệu theo quy định trước khi phương tiện rời cảng, bến thủy nội địa hoặc vị trí neo đậu phương tiện;
+
+i) Neo đậu phương tiện để bốc xếp hàng hóa, đón trả hành khách ở nơi không phải vùng nước của cảng, bến thủy nội địa.
+
+2. Xử phạt vi phạm hành chính đối với một trong các hành vi vi phạm quy định tại Khoản 1 Điều này áp dụng đối với mỗi loại phương tiện như sau:
+
+a) Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+b) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+c) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người;
+
+d) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người.
+
+3. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển phương tiện không có động cơ, trọng tải toàn phần dưới 05 tấn hoặc có sức chở đến 12 người; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc có sức chở dưới 05 người có một trong các hành vi vi phạm sau đây:
+
+a) Không phát tín hiệu hoặc phát tín hiệu không đúng quy định khi tránh nhau hoặc vượt nhau;
+
+b) Vượt phương tiện khác khi chưa được phương tiện đó phát tín hiệu cho vượt gây tai nạn;
+
+c) Lạm dụng quyền được nhường đường, quyền ưu tiên gây nguy hiểm hoặc trở ngại cho các phương tiện khác;
+
+d) Không tránh, không nhường đường cho phương tiện khác theo quy định gây tai nạn;
+
+đ) Bám, buộc vào phương tiện khác hoặc cho phương tiện khác bám, buộc vào phương tiện của mình khi đang hành trình để bốc xếp hàng hóa.
+
+4. Xử phạt vi phạm hành chính đối với một trong các hành vi vi phạm quy định tại Khoản 3 Điều này áp dụng đối với mỗi loại phương tiện như sau:
+
+a) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 05 tấn đến 15 tấn hoặc có sức chở trên 12 người đến 50 người; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến 15 mã lực hoặc có sức chở từ 05 người đến 12 người;
+
+b) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 50 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+c) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người;
+
+d) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người.
+
+5. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Điều khiển phương tiện lạng lách gây mất an toàn;
+
+b) Điều khiển phương tiện chạy tạo sóng lớn gây tổn hại đến công trình giao thông;
+
+c) Điều khiển phương tiện chạy với tốc độ lớn gây mất an toàn cho phương tiện khác.
+
+6. Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với thuyền trưởng điều khiển phương tiện không tuân theo báo hiệu thông báo hạn chế về chiều cao, chiều sâu, chiều rộng mà gây tai nạn giao thông, ùn tắc giao thông hoặc làm hư hại đến các công trình trên đường thủy nội địa.
+
+7. Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng đối với thuyền trưởng phương tiện đoàn tàu lai không tuân theo báo hiệu thông báo hạn chế lai dắt mà gây tai nạn giao thông, ùn tắc giao thông hoặc làm hư hỏng các công trình trên đường thủy nội địa.
+
+8. Phạt tiền từ 20.000.000 đồng đến 25.000.000 đồng đối với hành vi đua phương tiện không đúng quy định.
+
+9. Phạt tiền từ 35.000.000 đồng đến 40.000.000 đồng đối với hành vi tổ chức đua phương tiện khi chưa được phép của cơ quan có thẩm quyền.
+
+10. Hình thức xử phạt bổ sung:
+
+a) Tước quyền sử dụng bằng thuyền trưởng, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện từ 01 tháng đến 02 tháng đối với hành vi vi phạm quy định tại Khoản 5 Điều này; tước quyền sử dụng bằng thuyền trưởng từ 02 tháng đến 03 tháng đối với vi phạm quy định tại Khoản 6, Khoản 7 Điều này; tước quyền sử dụng bằng, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện từ 03 tháng đến 04 tháng đối với hành vi vi phạm quy định tại Khoản 8 Điều này;
+
+b) Tịch thu phương tiện đối với hành vi vi phạm quy định tại Khoản 8 và Khoản 9 Điều này, trừ trường hợp phương tiện thuộc sở hữu của người khác.
+
+11. Biện pháp khắc phục hậu quả:
+
+Buộc khôi phục lại tình trạng ban đầu đối với công trình bị hư hại do các hành vi vi phạm quy định tại Khoản 6 và Khoản 7 Điều này gây ra.
+
+**Điều 50. Vi phạm quy định về tín hiệu của phương tiện**
+
+1. Xử phạt vi phạm hành chính đối với hành vi sử dụng tín hiệu trên phương tiện không bảo đảm tiêu chuẩn kỹ thuật theo quy định như sau:
+
+a) Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần dưới 50 tấn; phương tiện có động cơ công suất máy chính dưới 05 mã lực hoặc bè;
+
+b) Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 50 tấn trở lên; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến dưới 50 mã lực, trừ những phương tiện quy định tại Điểm c Khoản 1 Điều này;
+
+c) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện có động cơ, tổng công suất máy chính từ 50 mã lực trở lên, phương tiện có tốc độ cao trên 30 km/h, phương tiện có động cơ chở khách, phương tiện đưa đón hoa tiêu, phương tiện thực hiện nhiệm vụ trên luồng, tàu cá, phương tiện chở hàng nguy hiểm, phương tiện chở người, động vật bị dịch bệnh, đoàn tàu lai hoặc phương tiện đang bị mắc cạn trên luồng.
+
+2. Xử phạt vi phạm hành chính đối với hành vi không bố trí hoặc bố trí không đúng tín hiệu của phương tiện theo quy định như sau:
+
+a) Phạt tiền từ 100.000 đồng đến 300.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần dưới 50 tấn; phương tiện có động cơ, công suất máy chính dưới 05 mã lực hoặc bè;
+
+b) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần từ 50 tấn trở lên; phương tiện có động cơ, tổng công suất máy chính từ 05 mã lực đến dưới 50 mã lực, trừ những phương tiện quy định tại Điểm c Khoản 2 Điều này;
+
+c) Phạt tiền từ 500.000 đồng đến 700.000 đồng đối với phương tiện có động cơ, tổng công suất máy chính từ 50 mã lực trở lên, phương tiện có động cơ chở khách, tàu cá, phương tiện có tốc độ cao trên 30 km/h, phương tiện đưa đón hoa tiêu, phương tiện chở hàng nguy hiểm, phương tiện chở người, súc vật bị dịch, phương tiện thực hiện nhiệm vụ trên luồng, đoàn tàu lai hoặc phương tiện đang bị mắc cạn trên luồng.
+
+**Mục 5**
+
+**VI PHẠM QUY ĐỊNH VỀ KHAI THÁC CẢNG, BẾN THỦY NỘI ĐỊA VÀ VẬN TẢI ĐƯỜNG THỦY NỘI ĐỊA**
+
+**Điều 51. Vi phạm quy định về khai thác cảng, bến thủy nội địa**
+
+1. Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với chủ cảng, bến thủy nội địa có một trong các hành vi vi phạm sau đây:
+
+a) Không có bảng nội quy đối với cảng, bến thủy nội địa theo quy định phải có bảng nội quy; cảng, bến khách không có bảng niêm yết giá vé theo quy định;
+
+b) Không bố trí, bố trí không đầy đủ hoặc không đảm bảo điều kiện an toàn của một trong các thiết bị đệm chống va, cầu cho người lên xuống, cột bích hoặc phao cho phương tiện buộc dây, đèn chiếu sáng ban đêm, không có nhà chờ cho hành khách;
+
+c) Bố trí người điều khiển thiết bị xếp, dỡ không có chứng chỉ chuyên môn theo quy định.
+
+2. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với chủ bến thủy nội địa có một trong các hành vi vi phạm sau đây:
+
+a) Khai thác bến thủy nội địa quá phạm vi vùng nước hoặc khai thác quá thời hạn cho phép; khai thác không đúng mục đích; tự ý thay đổi kết cấu, kích thước của bến thủy nội địa so với quy định trong giấy phép hoạt động;
+
+b) Không trang bị hoặc trang bị không đầy đủ thiết bị phòng cháy, chữa cháy theo quy định;
+
+c) Sử dụng thiết bị xếp, dỡ hàng hóa không có đăng ký, không bảo đảm tiêu chuẩn an toàn kỹ thuật theo quy định;
+
+d) Để hành khách xuống phương tiện quá sức chở của phương tiện hoặc xếp hàng hóa xuống phương tiện quá vạch dấu mớn nước an toàn của phương tiện;
+
+đ) Xếp, dỡ hàng hóa hoặc đón, trả hành khách khi phương tiện chưa được phép vào vị trí xếp, dỡ hàng hóa hoặc đón, trả hành khách;
+
+e) Tiếp nhận phương tiện có mớn nước thực chở hoặc kích thước lớn hơn so với quy định trong giấy phép của cơ quan có thẩm quyền.
+
+3. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi đưa bến thủy nội địa vào hoạt động mà không có giấy phép hoạt động bến thủy nội địa của cơ quan có thẩm quyền.
+
+4. Phạt tiền từ 3.000.000 đồng đến 4.000.000 đồng đối với chủ cảng thủy nội địa có một trong các hành vi sau đây:
+
+a) Khai thác cảng thủy nội địa không đúng mục đích; quá phạm vi vùng nước hoặc khai thác quá thời hạn cho phép so với quyết định công bố; thay đổi kết cấu, kích thước, chức năng của cảng mà chưa được cơ quan có thẩm quyền chấp thuận;
+
+b) Không trang bị hoặc trang bị không đầy đủ thiết bị phòng cháy, chữa cháy theo quy định;
+
+c) Sử dụng thiết bị xếp, dỡ hàng hóa không đủ tiêu chuẩn an toàn kỹ thuật theo quy định;
+
+d) Chuyên chở hành khách quá sức chở của phương tiện hoặc xếp, chuyên chở hàng hóa quá vạch dấu mớn nước an toàn của phương tiện;
+
+đ) Xếp, dỡ hàng hóa hoặc đón, trả hành khách khi phương tiện chưa được cơ quan có thẩm quyền tại cảng thủy nội địa cho phép vào vị trí xếp, dỡ hàng hóa theo quy định;
+
+e) Tiếp nhận phương tiện có mớn nước thực chở hoặc kích thước lớn hơn so với quy định trong quyết định công bố của cơ quan có thẩm quyền.
+
+5. Phạt tiền từ 5.000.000 đồng đến 6.000.000 đồng đối với hành vi đưa cảng vào khai thác mà chưa được cơ quan có thẩm quyền công bố.
+
+6. Biện pháp khắc phục hậu quả:
+
+Buộc đưa lên khỏi phương tiện số hành khách vượt quá sức chở, số hàng hóa chở quá vạch dấu mớn nước an toàn của phương tiện theo quy định đối với các hành vi vi phạm quy định tại Điểm d Khoản 2 và Điểm d Khoản 4 Điều này.
+
+**Điều 52. Vi phạm quy định về hoạt động của phương tiện trong phạm vi cảng, bến thủy nội địa**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 200.000 đồng đến 300.000 đồng đối với thuyền viên, người lái phương tiện không có động cơ, trọng tải toàn phần đến 15 tấn hoặc có sức chở đến 30 người; phương tiện có động cơ, tổng công suất máy chính đến 15 mã lực hoặc có sức chở đến 12 người có một trong các hành vi vi phạm sau đây:
+
+a) Vi phạm nội quy cảng, bến thủy nội địa hoặc gây mất trật tự tại cảng, bến thủy nội địa;
+
+b) Điều khiển phương tiện rời, vào cảng, bến thủy nội địa mà không có giấy phép rời, vào cảng, bến thủy nội địa theo quy định;
+
+c) Không thực hiện sự điều động của người có thẩm quyền huy động phương tiện để cứu người, phương tiện bị nạn;
+
+d) Tự ý di chuyển phương tiện hoặc neo đậu phương tiện không đúng nơi quy định trong phạm vi vùng nước cảng, bến thủy nội địa.
+
+2. Xử phạt vi phạm hành chính đối với một trong các hành vi vi phạm quy định tại Khoản 1 Điều này đối với mỗi loại phương tiện như sau:
+
+a) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn hoặc có sức chở trên 30 người đến 100 người; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực hoặc có sức chở trên 12 người đến 50 người;
+
+b) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn đến 500 tấn hoặc có sức chở trên 100 người; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực hoặc có sức chở trên 50 người đến 100 người hoặc đoàn tàu lai trọng tải toàn phần đến 1.000 tấn;
+
+c) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 500 tấn; phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực hoặc có sức chở trên 100 người hoặc đoàn tàu lai có trọng tải toàn phần trên 1.000 tấn.
+
+3. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi đưa phương tiện vào xếp, dỡ hàng hóa, đón trả hành khách tại cảng, bến thủy nội địa chưa được công bố hoặc chưa được cấp giấy phép hoạt động.
+
+**Điều 53. Vi phạm quy định về xếp, dỡ hàng hóa trên phương tiện**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với một trong các hành vi vi phạm sau đây đối với phương tiện không có động cơ, trọng tải toàn phần đến 15 tấn, phương tiện có động cơ, tổng công suất máy chính đến 15 mã lực:
+
+a) Xếp, dỡ hàng hóa làm nghiêng lệch phương tiện;
+
+b) Xếp hàng hóa che khuất tầm nhìn của người điều khiển phương tiện hoặc cản trở hoạt động của hệ thống lái, neo và các trang thiết bị an toàn khác;
+
+c) Xếp hàng hóa vượt quá kích thước chiều ngang, chiều dọc của phương tiện;
+
+d) Xếp hàng hóa trên nắp hầm hàng của phương tiện không đúng quy định.
+
+2. Xử phạt vi phạm hành chính đối với một trong các hành vi vi phạm quy định tại Khoản 1 Điều này áp dụng đối với mỗi loại phương tiện như sau:
+
+a) Phạt cảnh cáo hoặc phạt tiền từ 100.000 đồng đến 200.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 15 tấn đến 100 tấn; phương tiện có động cơ, tổng công suất máy chính trên 15 mã lực đến 100 mã lực;
+
+b) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện không có động cơ, trọng tải toàn phần trên 100 tấn; phương tiện có động cơ, tổng công suất máy chính trên 100 mã lực đến 400 mã lực, đoàn tàu lai trọng tải toàn phần đến 400 tấn;
+
+c) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện có động cơ, tổng công suất máy chính trên 400 mã lực, đoàn tàu lai trọng tải toàn phần trên 400 tấn đến 1.000 tấn;
+
+d) Phạt tiền từ 500.000 đồng đến 700.000 đồng đối với đoàn tàu lai trọng tải toàn phần trên 1.000 tấn.
+
+3. Biện pháp khắc phục hậu quả:
+
+Buộc sắp xếp hàng hóa theo đúng quy định đối với các hành vi vi phạm quy định tại Khoản 1 Điều này.
+
+**Điều 54. Vi phạm quy định về vận chuyển người, hành khách**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với người sử dụng phương tiện không có động cơ sức chở đến 12 người để vận chuyển người, hành khách có một trong các vi phạm sau đây:
+
+a) Không bố trí chỗ ngồi cho người, hành khách; để người, hành khách đứng trên phương tiện hoặc có hành vi khác làm mất an toàn của phương tiện; để người, hành khách ngồi trên mui hoặc hai bên mạn của phương tiện;
+
+b) Xếp người, hành khách, hàng hóa, hành lý, xe đạp, mô tô, xe máy, phương tiện khác làm nghiêng lệch phương tiện hoặc che khuất tầm nhìn của người điều khiển phương tiện;
+
+c) Không có nội quy an toàn hoặc không phổ biến nội quy an toàn, không hướng dẫn cách sử dụng thiết bị an toàn cho người, hành khách trên phương tiện;
+
+d) Chở động vật nhỏ mà không nhốt trong lồng, cũi hoặc chở động vật lớn cùng với người, hành khách trên phương tiện;
+
+đ) Không có bảo hiểm bắt buộc trách nhiệm dân sự theo quy định.
+
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người sử dụng phương tiện không có động cơ sức chở trên 12 người; phương tiện có động cơ, sức chở đến 12 người để vận chuyển người, hành khách có một trong các hành vi vi phạm sau đây:
+
+a) Đón, trả hành khách không đúng nơi quy định;
+
+b) Không bố trí chỗ ngồi cho người, hành khách; để người, hành khách đứng trên phương tiện hoặc có hành vi khác làm mất an toàn của phương tiện;
+
+c) Không có nội quy an toàn hoặc không phổ biến nội quy an toàn, không hướng dẫn cách sử dụng thiết bị an toàn cho người, hành khách trên phương tiện;
+
+d) Để người, hành khách đứng, ngồi trên mui hoặc hai bên mạn của phương tiện;
+
+đ) Không có danh sách hành khách trong mỗi chuyến hoặc có danh sách hành khách nhưng không đúng quy định, trừ vận chuyển hành khách ngang sông;
+
+c) Xếp hàng hóa, hành lý trên lối đi của hành khách;
+
+g) Chở động vật nhỏ mà không nhốt trong lồng, cũi hoặc chở động vật lớn cùng với người, hành khách;
+
+h) Không có bảo hiểm bắt buộc trách nhiệm dân sự theo quy định.
+
+3. Xử phạt vi phạm hành chính đối với người sử dụng phương tiện để vận chuyển hành khách có một trong các hành vi vi phạm quy định tại Khoản 2 Điều này hoặc chạy không đúng tuyến, trừ vận chuyển hành khách theo hợp đồng; bỏ chuyến đã đăng ký; chuyển nhượng hành khách sang phương tiện khác khi chưa được sự đồng ý của hành khách như sau:
+
+a) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện có động cơ sức chở trên 12 người đến 50 người;
+
+b) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện có động cơ sức chở trên 50 người đến 100 người;
+
+c) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện có động cơ sức chở trên 100 người.
+
+4. Xử phạt vi phạm hành chính đối với người sử dụng phương tiện tốc độ cao để vận chuyển hành khách có một trong các hành vi vi phạm quy định tại Khoản 2 Điều này hoặc chạy không đúng tuyến, trừ vận chuyển hành khách theo hợp đồng; bỏ chuyến đã đăng ký; chuyển nhượng hành khách sang phương tiện khác khi chưa được sự đồng ý của hành khách như sau:
+
+a) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện tốc độ cao thiết kế từ 30 km/h trở lên có sức chở dưới 05 người;
+
+b) Phạt tiền từ 500.000 đồng đến 700.000 đồng đối với phương tiện tốc độ cao thiết kế từ 30 km/h trở lên có sức chở từ 05 người đến 12 người;
+
+c) Phạt tiền từ 7.000.000 đồng đến 1.000.000 đồng đối với phương tiện tốc độ cao thiết kế từ 30 km/h trở lên có sức chở trên 12 người đến 50 người;
+
+d) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện tốc độ cao thiết kế từ 30 km/h trở lên có sức chở trên 50 người.
+
+5. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi chở hàng hóa độc hại, dễ cháy, dễ nổ, động vật lớn chung với hành khách.
+
+6. Xử phạt vi phạm hành chính đối với hành vi chở vượt quá sức chở người của phương tiện vận tải hành khách ngang sông, phương tiện vận tải hành khách theo hợp đồng như sau:
+
+a) Phạt tiền 50.000 đồng trên mỗi người chở vượt quá số người được phép chở, nếu chở vượt từ 5% đến 20% số người được phép chở;
+
+b) Phạt tiền 70.000 đồng trên mỗi người chở vượt quá số người được phép chở, nếu chở vượt trên 20% đến 50% số người được phép chở;
+
+c) Phạt tiền 100.000 đồng trên mỗi người chở vượt quá số người được phép chở, nếu chở vượt trên 50% số người được phép chở.
+
+7. Phạt tiền bằng từ 03 đến 05 lần giá vé trên mỗi hành khách chở vượt quá số người được phép chở đối với phương tiện vận tải hành khách theo tuyến cố định, phương tiện vận chuyển khách du lịch.
+
+8. Trường hợp phương tiện được phép chở người và chở hàng hóa, nếu chở người vượt quá sức chở của phương tiện thì bị xử phạt theo quy định tại Khoản 6, Khoản 7 Điều này; nếu chở hàng hóa quá vạch dấu mớn nước an toàn của phương tiện thì bị xử phạt theo quy định tại Điều 56 của Nghị định này.
+
+9. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng bằng thuyền trưởng, chứng chỉ lái phương tiện từ 01 tháng đến 02 tháng đối với hành vi vi phạm quy định tại Điểm c Khoản 6 Điều này hoặc hành vi vi phạm quy định tại Khoản 7 Điều này nếu chở vượt quá số người được phép chở từ 30% trở lên.
+
+10. Biện pháp khắc phục hậu quả:
+
+a) Buộc đưa lên khỏi phương tiện động vật lớn, chất dễ cháy, dễ nổ, chất độc hại đối với hành vi vi phạm quy định tại Điểm d Khoản 1, Điểm g Khoản 2 và Khoản 5 Điều này; buộc đưa lên khỏi phương tiện số người, hành khách vượt quá sức chở của phương tiện theo quy định đối với các hành vi vi phạm quy định tại Khoản 6 và Khoản 7 Điều này;
+
+b) Buộc đưa lên khỏi phương tiện và tiêu hủy động vật bị chết, bị dịch bệnh đối với hành vi vi phạm quy định tại Khoản 5 Điều này.
+
+**Điều 55. Vi phạm của hành khách**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với hành vi không chấp hành nội quy an toàn trên phương tiện, không chấp hành sự hướng dẫn của thuyền viên, người lái phương tiện.
+
+2. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi không mặc áo phao cứu sinh hoặc không mang dụng cụ nổi cứu sinh khi tham gia giao thông trên phương tiện vận tải hành khách ngang sông.
+
+3. Phạt tiền từ 200.000 đồng đến 500.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Mang hành lý thuộc loại hàng hóa mà pháp luật cấm vận tải chung với hành khách;
+
+b) Gây mất trật tự, an toàn trên phương tiện.
+
+4. Hình thức xử phạt bổ sung:
+
+Tịch thu hàng hóa đối với hành vi vi phạm quy định tại Điểm a Khoản 3 Điều này.
+
+**Điều 56. Vi phạm chở quá vạch dấu mớn nước an toàn của phương tiện**
+
+1. Phạt cảnh cáo hoặc phạt tiền từ 50.000 đồng đến 100.000 đồng đối với hành vi chở hàng hóa quá vạch dấu mớn nước an toàn đến 1/5 chiều cao mạn khô của phương tiện, kể cả một trong các phương tiện của đoàn tàu lai.
+
+2. Xử phạt vi phạm hành chính đối với hành vi chở hàng hóa quá vạch dấu mớn nước an toàn của phương tiện từ trên 1/5 đến 1/2 chiều cao mạn khô của phương tiện, kể cả một trong các phương tiện của đoàn tàu lai như sau:
+
+a) Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với phương tiện trọng tải toàn phần đến 15 tấn;
+
+b) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện trọng tải toàn phần từ trên 15 tấn đến 50 tấn;
+
+c) Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với phương tiện trọng tải toàn phần trên 50 tấn đến 100 tấn;
+
+d) Phạt tiền từ 400.000 đồng đến 500.000 đồng đối với phương tiện trọng tải toàn phần trên 100 tấn đến 150 tấn;
+
+đ) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện trọng tải toàn phần trên 150 tấn đến 300 tấn;
+
+e) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện trọng tải toàn phần trên 300 tấn đến 500 tấn hoặc đoàn tàu lai trọng tải toàn phần đến 400 tấn;
+
+g) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với phương tiện trọng tải toàn phần trên 500 tấn đến 1.000 tấn hoặc đoàn tàu lai trọng tải toàn phần từ trên 400 tấn đến 1.000 tấn;
+
+h) Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với phương tiện trọng tải toàn phần trên 1.000 tấn hoặc đoàn tàu lai trọng tải toàn phần trên 1.000 tấn đến 1.500 tấn;
+
+i) Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với đoàn tàu lai có trọng tải toàn phần trên 1.500 tấn.
+
+3. Xử phạt vi phạm hành chính đối với hành vi chở hàng hóa quá vạch dấu mớn nước an toàn trên 1/2 chiều cao mạn khô của phương tiện, kể cả một trong các phương tiện của đoàn tàu lai như sau:
+
+a) Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với phương tiện trọng tải toàn phần đến 15 tấn;
+
+b) Phạt tiền từ 300.000 đồng đến 500.000 đồng đối với phương tiện trọng tải toàn phần trên 15 tấn đến 50 tấn;
+
+c) Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với phương tiện trọng tải toàn phần trên 50 tấn đến 100 tấn;
+
+d) Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với phương tiện trọng tải toàn phần trên 100 tấn đến 150 tấn;
+
+đ) Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với phương tiện trọng tải toàn phần trên 150 tấn đến 300 tấn;
+
+e) Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với phương tiện trọng tải toàn phần trên 300 tấn đến 500 tấn hoặc đoàn tàu lai trọng tải toàn phần đến 400 tấn;
+
+g) Phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng đối với phương tiện trọng tải toàn phần trên 500 tấn đến 1.000 tấn hoặc đoàn tàu lai trọng tải toàn phần từ trên 400 tấn đến 1.000 tấn;
+
+h) Phạt tiền từ 5.000.000 đồng đến 7.000.000 đồng đối với phương tiện trọng tải toàn phần trên 1.000 tấn hoặc đoàn tàu lai trọng tải toàn phần trên 1.000 tấn đến 1.500 tấn;
+
+i) Phạt tiền từ 7.000.000 đồng đến 10.000.000 đồng đối với đoàn tàu lai trọng tải toàn phần trên 1.500 tấn.
+
+4. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng bằng thuyền trưởng từ 01 tháng đến 02 tháng đối với hành vi vi phạm quy định tại Khoản 3 Điều này.
+
+5. Biện pháp khắc phục hậu quả:
+
+Buộc phải hạ tải đến vạch dấu mớn nước an toàn của phương tiện đối với các hành vi vi phạm quy định tại Khoản 2 và Khoản 3 Điều này.
+
+**Điều 57. Vi phạm quy định về vận chuyển hàng hóa nguy hiểm**
+
+1. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm có một trong các vi phạm sau đây:
+
+a) Không thực hiện đầy đủ các quy định về vận chuyển hàng hóa nguy hiểm;
+
+b) Không chấp hành quy định về an toàn phòng, chống cháy, nổ, độc hại ghi trong giấy phép;
+
+c) Không có bảo hiểm bắt buộc trách nhiệm dân sự đối với hoạt động vận chuyển hàng hóa có quy định phải mua bảo hiểm bắt buộc trách nhiệm dân sự.
+
+2. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vận chuyển hàng hóa nguy hiểm có một trong các vi phạm sau đây:
+
+a) Không có giấy phép của cơ quan có thẩm quyền;
+
+b) Không trang bị phương tiện, dụng cụ phòng, chống cháy, nổ, độc hại hoặc không có phương án ứng cứu sự cố tràn dầu khi vận tải xăng, dầu;
+
+c) Phương tiện vận chuyển hàng hóa nguy hiểm không có biểu trưng hàng hóa nguy hiểm, báo hiệu nguy hiểm;
+
+d) Không thực hiện đúng quy trình làm sạch phương tiện vận chuyển hàng hóa nguy hiểm;
+
+đ) Làm sạch phương tiện vận chuyển hàng hóa nguy hiểm không đúng nơi quy định.
+
+3. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng bằng thuyền trưởng, chứng chỉ chuyên môn của thuyền trưởng, người lái phương tiện từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại Khoản 2 Điều này.
+
+4. Biện pháp khắc phục hậu quả:
+
+Buộc dọn sạch hàng hóa nguy hiểm đối với hành vi vi phạm quy định tại Điểm đ Khoản 2 Điều này.
+
+**Điều 58. Vi phạm quy định về vận chuyển động vật sống, hàng hóa siêu trường, siêu trọng**
+
+1. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với hành vi vận tải động vật bị cấm vận chuyển, động vật sống không bảo đảm vệ sinh, phòng dịch và bảo vệ môi trường theo quy định.
+
+2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi vận chuyển hàng hóa siêu trường, siêu trọng mà không có phương án bảo đảm an toàn được cơ quan nhà nước có thẩm quyền phê duyệt.
+
+3. Hình thức xử phạt bổ sung:
+
+Tước quyền sử dụng bằng thuyền trưởng từ 01 tháng đến 03 tháng đối với hành vi vi phạm quy định tại Khoản 1 và Khoản 2 Điều này.
+
+4. Biện pháp khắc phục hậu quả:
+
+a) Buộc thực hiện biện pháp bảo đảm vệ sinh, môi trường đối với hành vi vi phạm quy định tại Khoản 1 Điều này;
+
+b) Buộc thực hiện biện pháp bảo đảm an toàn đối với hành vi vi phạm quy định tại Khoản 2 Điều này.
+
+**Điều 59. Vi phạm quy định về hoa tiêu trên đường thủy nội địa**
+
+1. Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Dẫn tàu thuyền, phương tiện không có chứng chỉ chuyên môn hoa tiêu hoặc giấy chứng nhận khả năng hoa tiêu theo quy định;
+
+b) Hoa tiêu dẫn tàu thuyền, phương tiện không đúng vùng hoạt động của hoa tiêu theo quy định;
+
+c) Hoa tiêu dẫn tàu thuyền, phương tiện vào vị trí neo đậu không đúng vị trí chỉ định của Cảng vụ đường thủy nội địa;
+
+d) Hoa tiêu không thông báo những thay đổi của luồng cho Cảng vụ đường thủy nội địa;
+
+đ) Hoa tiêu tự ý rời tàu thuyền, phương tiện khi chưa được phép của thuyền trưởng.
+
+2. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Không sử dụng hoa tiêu theo quy định;
+
+b) Không thông báo hoặc thông báo không chính xác về tính năng và đặc điểm của tàu cho hoa tiêu;
+
+c) Không bảo đảm điều kiện làm việc cho hoa tiêu trong thời gian hoa tiêu ở trên tàu thuyền;
+
+d) Dẫn tàu thuyền, phương tiện trên tuyến luồng, vùng nước đường thủy nội địa mà không có giấy phép hoạt động hoa tiêu ở khu vực đó;
+
+đ) Ép buộc thuyền viên, người lái phương tiện phải thuê, mướn việc dẫn tàu thuyền, phương tiện tại khu vực không có chế độ hoa tiêu bắt buộc.
+
+**Chương IV**
+
+**THẨM QUYỀN LẬP BIÊN BẢN VI PHẠM HÀNH CHÍNH VÀ THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH**
+
+**Mục 1**
+
+**THẨM QUYỀN LẬP BIÊN BẢN VI PHẠM HÀNH CHÍNH**
+
+**Điều 60. Thẩm quyền lập biên bản vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa**
+
+Người có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực giao thông hàng hải, đường thủy nội địa; công chức, viên chức đang thi hành công vụ, nhiệm vụ thuộc phạm vi trách nhiệm của mình phát hiện hành vi vi phạm về giao thông hàng hải, đường thủy nội địa phải kịp thời ngăn chặn và lập biên bản vi phạm hành chính theo quy định. Đối với hành vi vi phạm hành chính xảy ra trên tàu biển thì thuyền trưởng có trách nhiệm tổ chức lập biên bản và chuyển ngay cho người có thẩm quyền xử phạt vi phạm hành chính khi tàu biển về đến bến cảng.
+
+**Mục 2**
+
+**THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG HÀNG HẢI**
+
+**Điều 61. Thẩm quyền của Thanh tra**
+
+1. Thanh tra viên thuộc thanh tra Bộ Giao thông vận tải, Thanh tra viên chuyên ngành hàng hải, người được giao thực hiện nhiệm vụ thanh tra chuyên ngành hàng hải đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 500.000 đồng;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+
+2. Chánh Thanh tra Cục Hàng hải Việt Nam, Trưởng đoàn thanh tra chuyên ngành Cục Hàng hải Việt Nam có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 50.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 50.000.000 đồng;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương II của Nghị định này.
+
+3. Trưởng đoàn thanh tra chuyên ngành Bộ Giao thông vận tải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 70.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 70.000.000 đồng;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương II của Nghị định này.
+
+4. Chánh Thanh tra Bộ Giao thông vận tải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 100.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương II của Nghị định này.
+
+**Điều 62. Thẩm quyền của Cảng vụ hàng hải**
+
+1. Trưởng đại diện Cảng vụ hàng hải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 10.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 10.000.000 đồng.
+
+2. Giám đốc Cảng vụ hàng hải, Trưởng đoàn thanh tra chuyên ngành của Cảng vụ hàng hải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 25.000.000 đồng;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, b, c, đ, i và k Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương II của Nghị định này.
+
+**Điều 63. Thẩm quyền của Cục trưởng Cục Hàng hải Việt Nam**
+
+Cục trưởng Cục Hàng hải Việt Nam có quyền:
+
+1. Phạt cảnh cáo;
+
+2. Phạt tiền đến 100.000.000 đồng;
+
+3. Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+4. Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+5. Áp dụng biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương II của Nghị định này.
+
+**Điều 64. Thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh**
+
+Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền:
+
+1. Phạt cảnh cáo;
+
+2. Phạt tiền đến 100.000.000 đồng;
+
+3. Tước quyền sử dụng giấy phép, chứng chỉ hành nghề có thời hạn hoặc đình chỉ hoạt động có thời hạn;
+
+4. Tịch thu tang vật, phương tiện vi phạm hành chính;
+
+5. Áp dụng biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương II của Nghị định này.
+
+**Điều 65. Thẩm quyền của lực lượng Công an nhân dân**
+
+1. Lực lượng Công an nhân dân có quyền xử phạt đối với những hành vi vi phạm hành chính có liên quan trực tiếp đến lĩnh vực ngành mình quản lý được quy định tại: Điểm d và Điểm e Khoản 1 Điều 9, Điều 10 và Điều 11 của Nghị định này.
+
+2. Mức phạt tiền tối đa và thẩm quyền xử phạt của lực lượng Công an nhân dân được thực hiện theo quy định tại Điểm đ Khoản 1 Điều 24 và Điều 39 của Luật Xử lý vi phạm hành chính.
+
+**Điều 66. Thẩm quyền của Cảnh sát biển**
+
+1. Lực lượng Cảnh sát biển có quyền xử phạt đối với những hành vi vi phạm hành chính phát hiện ngoài vùng nước cảng biển có liên quan trực tiếp đến lĩnh vực ngành mình quản lý được quy định tại Khoản 4 Điều 15, Điểm e Khoản 5 Điều 15, Khoản 6 Điều 15, các Điều 16, 17, 18, 19, 20 và 21 của Nghị định này.
+
+2. Mức phạt tiền tối đa và thẩm quyền xử phạt của lực lượng Cảnh sát biển thực hiện theo quy định tại Điểm đ Khoản 1 Điều 24 và Điều 41 của Luật Xử lý vi phạm hành chính.
+
+**Mục 3**
+
+**THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA**
+
+**Điều 67. Thẩm quyền của Chủ tịch Ủy ban nhân dân các cấp**
+
+Chủ tịch Ủy ban nhân dân các cấp xử phạt vi phạm hành chính đối với các hành vi vi phạm quy định tại Nghị định này trong phạm vi quản lý của địa phương mình theo thẩm quyền cụ thể như sau:
+
+1. Chủ tịch Ủy ban nhân dân cấp xã có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 5.000.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 5.000.000 đồng;
+
+d) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, b, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+
+2. Chủ tịch Ủy ban nhân dân cấp huyện có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 37.500.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 37.500.000 đồng;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, b, c, đ và i Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+3. Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 75.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+**Điều 68. Thẩm quyền của lực lượng Công an nhân dân**
+
+Lực lượng Công an nhân dân có quyền xử phạt vi phạm hành chính đối với các hành vi vi phạm quy định tại Nghị định này, trừ các hành vi vi phạm quy định tại Điều 43 của Nghị định này xảy ra tại cơ sở đóng mới, hoán cải, sửa chữa phục hồi phương tiện, các hành vi vi phạm quy định tại Điều 46 của Nghị định này xảy ra tại cơ sở đào tạo thuyền viên, người lái phương tiện và các hành vi vi phạm xảy ra trong phạm vi thuộc nhiệm vụ, quyền hạn của Cảng vụ đường thủy nội địa tại những cảng, bến thủy nội địa do Cảng vụ đường thủy nội địa quản lý. Thẩm quyền cụ thể như sau:
+
+1. Chiến sĩ công an nhân dân đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Đội trưởng, Trạm trưởng, Thủy đội trưởng Cảnh sát đường thủy có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 1.500.000 đồng.
+
+3. Trưởng Công an cấp xã có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 2.500.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 2.500.000 đồng;
+
+d) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+
+4. Trưởng Công an cấp huyện, Trưởng phòng Cảnh sát đường thủy, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát trật tự thuộc Công an cấp tỉnh, Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát đường thủy, Thủy đoàn trưởng Cảnh sát đường thủy có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 15.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 15.000.000 đồng;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+5. Giám đốc Công an cấp tỉnh có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 37.500.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 37.500.000 đồng;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, c, đ và i Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+6. Cục trưởng Cục Cảnh sát đường thủy, Cục trưởng Cục Cảnh sát Quản lý hành chính về trật tự xã hội có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 75.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, c, đ và i Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+**Điều 69. Thẩm quyền của Thanh tra giao thông**
+
+Thanh tra giao thông có quyền xử phạt vi phạm hành chính đối với hành vi vi phạm quy định về quản lý, bảo vệ công trình giao thông đường thủy nội địa; tiêu chuẩn kỹ thuật khai thác công trình giao thông đường thủy nội địa; vận tải đường thủy nội địa; cơ sở đào tạo thuyền viên, người lái phương tiện; đóng mới, hoán cải, sửa chữa phục hồi phương tiện tại cơ sở đóng mới, hoán cải, sửa chữa phục hồi phương tiện; phương tiện, thuyền viên, người lái phương tiện tại cảng, bến thủy nội địa hoặc nơi neo đậu phương tiện, trừ cảng, bến thủy nội địa thuộc phạm vi trách nhiệm của Cảng vụ đường thủy nội địa theo quy định tại Nghị định này, thẩm quyền cụ thể như sau:
+
+1. Thanh tra viên đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 500.000 đồng;
+
+d) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+
+2. Chánh Thanh tra Sở Giao thông vận tải, Trưởng đoàn thanh tra Sở Giao thông vận tải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 37.500.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 37.500.000 đồng;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Khoản 1; Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+3. Thẩm quyền của Trưởng đoàn thanh tra chuyên ngành Bộ Giao thông vận tải
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 52.500.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 52.500.000 đồng;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+4. Chánh Thanh tra Bộ Giao thông vận tải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 75.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+**Điều 70. Thẩm quyền của Cảng vụ đường thủy nội địa**
+
+Cảng vụ đường thủy nội địa có quyền xử phạt vi phạm hành chính đối với các hành vi vi phạm quy định tại Nghị định này trong phạm vi thuộc trách nhiệm quản lý của mình, thẩm quyền cụ thể như sau:
+
+1. Trưởng đại diện Cảng vụ đường thủy nội địa có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 10.000.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 10.000.000 đồng.
+
+2. Giám đốc Cảng vụ đường thủy nội địa thuộc Cục Đường thủy nội địa Việt Nam có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 25.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 25.000.000 đồng;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, b, c, đ, i và k Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+**Điều 71. Thẩm quyền của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành**
+
+1. Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành giao thông đường thủy nội địa đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng;
+
+c) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 500.000 đồng;
+
+d) Áp dụng các biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+
+2. Trưởng đoàn thanh tra Cảng vụ đường thủy nội địa thuộc Cục Đường thủy nội địa Việt Nam, Trưởng đoàn thanh tra Cục Đường thủy nội địa Việt Nam, Chi cục trưởng Chi cục Đường thủy nội địa thuộc Cục Đường thủy nội địa Việt Nam có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 37.500.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 37.500.000 đồng;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+3. Cục trưởng Cục Đường thủy nội địa Việt Nam có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 75.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền hoặc đình chỉ hoạt động;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+**Điều 72. Thẩm quyền của Bộ đội biên phòng**
+
+Bộ đội biên phòng có quyền xử phạt vi phạm hành chính đối với hành vi vi phạm quy định về bảo vệ công trình giao thông; phương tiện, thuyền viên, người lái phương tiện, vận tải đường thủy nội địa tại khu vực biên giới thuộc phạm vi trách nhiệm của Bộ đội biên phòng, trừ phạm vi trách nhiệm của Cảng vụ đường thủy nội địa theo quy định tại Nghị định này. Thẩm quyền cụ thể như sau:
+
+1. Chiến sĩ Bộ đội biên phòng đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 500.000 đồng.
+
+2. Đội trưởng, Trạm trưởng Trạm kiểm soát biên phòng có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 2.500.000 đồng.
+
+3. Đồn trưởng Đồn biên phòng, Hải đội trưởng Hải đội biên phòng có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 15.000.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 15.000.000 đồng;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+4. Chỉ huy trưởng Bộ đội biên phòng cấp tỉnh, Chỉ huy trưởng Hải đoàn biên phòng trực thuộc Bộ Tư lệnh Bộ đội biên phòng có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 75.000.000 đồng;
+
+c) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c, đ và i Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+**Điều 73. Thẩm quyền của Cảnh sát biển**
+
+Cảnh sát biển có quyền xử phạt vi phạm hành chính đối với hành vi vi phạm quy định về bảo vệ công trình giao thông; phương tiện, thuyền viên, vận tải thủy tại khu vực trách nhiệm của Cảnh sát biển, trừ phạm vi trách nhiệm của Cảng vụ đường thủy nội địa theo quy định tại Nghị định này. Thẩm quyền cụ thể như sau:
+
+1. Cảnh sát viên Cảnh sát biển đang thi hành công vụ có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 1.500.000 đồng.
+
+2. Tổ trưởng Tổ nghiệp vụ Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 3.750.000 đồng.
+
+3. Đội trưởng Đội nghiệp vụ Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 7.500.000 đồng;
+
+c) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính.
+
+4. Hải đội trưởng Hải đội Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 15.000.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 15.000.000 đồng;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c, d và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+5. Hải đoàn trưởng Hải đoàn Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 22.500.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 22.500.000 đồng;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c, d và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+6. Chỉ huy trưởng Vùng Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 37.500.000 đồng;
+
+c) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính có giá trị đến 37.500.000 đồng;
+
+d) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, c, d và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này, trừ biện pháp buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép.
+
+7. Cục trưởng Cục Cảnh sát biển có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 75.000.000 đồng;
+
+c) Tước quyền sử dụng giấy phép hoạt động, bằng, chứng chỉ chuyên môn hoặc chứng chỉ hành nghề khác thuộc thẩm quyền;
+
+d) Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Áp dụng biện pháp khắc phục hậu quả quy định tại các Điểm a, b, c, d và đ Khoản 1 Điều 28 của Luật Xử lý vi phạm hành chính và các biện pháp khắc phục hậu quả khác quy định tại Chương III của Nghị định này.
+
+**Chương V**
+
+**ĐIỀU KHOẢN THI HÀNH**
+
+**Điều 74. Hiệu lực thi hành**
+
+1. Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 10 năm 2013.
+
+2. Nghị định này thay thế các Nghị định số [48/2011/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=48/2011/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 21 tháng 6 năm 2011 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực hàng hải và số [60/2011/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=60/2011/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 20 tháng 7 năm 2011 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường thủy nội địa.
+
+**Điều 75. Tổ chức thực hiện**
+
+1. Bộ trưởng Bộ Giao thông vận tải có trách nhiệm tổ chức, hướng dẫn thực hiện Nghị định này.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+| TM. CHÍNH PHỦ |
+| Thủ trưởng |
+| *(Đã ký)* |
+| | | | |
+| Nguyễn Tấn Dũng |
+
+Tải file đính kèm
+
+* Bản PDF:
+ + [93\_2013\_NĐ-CP.pdf](javascript:downloadfile('VanBanGoc_93_2013_NĐ-CP.pdf','/FileData/TW/Lists/vbpq/Attachments/31731/VanBanGoc_93_2013_NĐ-CP.pdf');)
+* File đính kèm:
+ + [93.2013.ND.CP.doc](javascript:downloadfile('93.2013.ND.CP.doc','/TW/Lists/vbpq/Attachments/31731/93.2013.ND.CP.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/31731/93.2013.ND.CP.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

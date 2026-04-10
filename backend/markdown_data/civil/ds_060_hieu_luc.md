@@ -1,0 +1,46 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=3279*
+
+# Nghị quyết 615-NQ/HĐNN7
+
+* Hiệu lực:
+ Còn hiệu lực
+* Ngày có hiệu lực:
+ 10/04/1985
+
+| **HỘI ĐỒNG NHÀ NƯỚC** Số: 615-NQ/HĐNN7 |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 26 tháng 3 năm 1985* |
+
+**QUYẾT ĐỊNH**
+
+**CỦA HỘI ĐỒNG NHÀ NƯỚC SỐ 615-NQ/HĐNN7**
+
+**NGÀY 26 THÁNG 3 NĂM 1985**
+
+HỘI ĐỒNG NHÀ NƯỚC
+
+NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+*Căn cứ vào Điều 100 của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam;*
+
+*Theo đề nghị của Hội đồng bộ trưởng;*
+
+**QUYẾT ĐỊNH:**
+
+Phê chuẩn Hiệp định tương trợ tư pháp về các vấn đề dân sự, gia đình, lao động và
+
+hình sự giữa nước Cộng hoà xã hội chủ nghĩa Việt Nam và nước Cộng hoà Cu-ba, ký tại La Ha-ba-na ngày 30 tháng 11 năm 1984.
+
+| Chủ tịch |
+| *(Đã ký)* |
+| | | | |
+| Trường Chinh |
+
+Tải file đính kèm
+
+* Bản PDF:
+* File đính kèm:
+ + [615.NQ\_HDNN7\_36998.doc](javascript:downloadfile('615.NQ_HDNN7_36998.doc','/TW/Lists/vbpq/Attachments/3279/615.NQ_HDNN7_36998.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/3279/615.NQ_HDNN7_36998.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

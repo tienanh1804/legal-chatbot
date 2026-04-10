@@ -1,0 +1,46 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=3278*
+
+# Nghị quyết 616-NQ/HĐNN7
+
+* Hiệu lực:
+ Còn hiệu lực
+* Ngày có hiệu lực:
+ 10/04/1985
+
+| **HỘI ĐỒNG NHÀ NƯỚC** Số: 616-NQ/HĐNN7 |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 26 tháng 3 năm 1985* |
+
+-
+
+**QUYẾT ĐỊNH**
+
+**CỦA HỘI ĐỒNG NHÀ NƯỚC SỐ 616-NQ/HĐNN7**
+
+**NGÀY 26 THÁNG 3 NĂM 1985**
+
+HỘI ĐỒNG NHÀ NƯỚC
+
+NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+*Căn cứ vào Điều 100 của Hiến pháp nước cộng hoà xã hội chủ nghĩa Việt Nam;*
+
+*Theo đề nghị của Hội đồng bộ trưởng;*
+
+**QUYẾT ĐỊNH:**
+
+Phê chuẩn Hiệp định tương trợ tư pháp về các vấn đề dân sự, gia đình, lao động và hình sự giữa nước Cộng hoà xã hội chủ nghĩa Việt Nam và nước Cộng hoà nhân dân Hung-ga-ri, ký tại Bu-đa-pét ngày 18 tháng 1 năm 1985.
+
+| Chủ tịch |
+| *(Đã ký)* |
+| | | | |
+| Trường Chinh |
+
+Tải file đính kèm
+
+* Bản PDF:
+* File đính kèm:
+ + [616.NQ\_HDNN7\_36999.doc](javascript:downloadfile('616.NQ_HDNN7_36999.doc','/TW/Lists/vbpq/Attachments/3278/616.NQ_HDNN7_36999.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/3278/616.NQ_HDNN7_36999.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

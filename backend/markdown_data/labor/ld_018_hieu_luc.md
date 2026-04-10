@@ -1,0 +1,40 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=101374*
+
+# Nghị quyết 24/NQ-CP
+
+* Hiệu lực:
+ Còn hiệu lực
+* Ngày có hiệu lực:
+ 01/04/2016
+
+| **CHÍNH PHỦ** Số: 24/NQ-CP |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 1 tháng 4 năm 2016* |
+
+**NGHỊ QUYẾT**
+
+VỀ VIỆC PHÊ DUYỆT THỎA THUẬN GIỮA CHÍNH PHỦ NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM VÀ CHÍNH PHỦ Ô-XTƠ-RÂY-LI-A VỀ CHƯƠNG TRÌNH LAO ĐỘNG KẾT HỢP KỲ NGHỈ
+
+**CHÍNH PHỦ**
+
+*Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;*
+
+*Căn cứ Luật Ký kết, gia nhập và thực hiện điều ước quốc tế ngày 14 tháng 6 năm 2005;*
+
+*Căn cứ**Thông báo nội dung phiên họp thứ 45 của Ủ**y ban Thường vụ Quốc hội tại văn bản số[27/TB-TTKHQ](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=27/TB-TTKHQ&area=2&type=0&match=False&vc=True&lan=1) ngày 01 tháng 3 năm 2016;*
+
+*Xét đề nghị của Bộ Lao động - Thương binh và Xã hội tại Tờ trình số[34/TTr-LĐTBXH](http://thuvienphapluat.vn/phap-luat/tim-van-ban.aspx?keyword=34/TTr-L%C4%90TBXH&area=2&type=0&match=False&vc=True&lan=1) ngày 17 tháng 6 năm 2015,*
+
+**QUYẾT NGHỊ:**
+
+**Điều 1.** Đồng ý phê duyệt Thỏa thuận giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Ô-xtơ-rây-li-a về Chương trình lao động kết hợp kỳ nghỉ.
+
+**Điều 2.**Bộ Ngoại giao chủ trì, phối hợp với Bộ Lao động - Thương binh và Xã hội tiến hành các thủ tục đối ngoại cần thiết liên quan theo quy định./.
+
+| TM. CHÍNH PHỦ |
+| Thủ tướng Chính phủ |
+| *(Đã ký)* |
+| | | | |
+| Nguyễn Tấn Dũng |
+
+[Gửi phản hồi](javascript:void(0);)

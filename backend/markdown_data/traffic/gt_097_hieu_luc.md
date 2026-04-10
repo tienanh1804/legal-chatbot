@@ -1,0 +1,64 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=2518*
+
+# Nghị định 30/HĐBT
+
+* Hiệu lực:
+ Còn hiệu lực
+* Ngày có hiệu lực:
+ 01/04/1988
+
+| **HỘI ĐỒNG BỘ TRƯỞNG** Số: 30/HĐBT |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 10 tháng 3 năm 1988* |
+
+**NGHỊ ĐỊNH**
+
+**CỦA HỘI ĐỒNG BỘ TRƯỞNG SỐ 30/HĐBT NGÀY 10-3-1988**
+
+**VỀ CHẾ ĐỘ BẢO HIỂM TRÁCH NHIỆM DÂN SỰ**
+
+**CỦA CHỦ XE CƠ GIỚI**
+
+HỘI ĐỒNG BỘ TRƯỞNG
+
+*Căn cứ điều 107 mục 14 Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam.*
+
+*Căn cứ Luật Tổ chức Hội đồng Bộ trưởng ngày 4-7-1981.*
+
+*Theo đề nghị của Bộ trưởng Bộ Tài chính,*
+
+**NGHỊ ĐỊNH:**
+
+**Điều 1.** - Chủ xe cơ giới, kể cả chủ xe là người nước ngoài có giấy phép sử dụng xe cơ giới trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam đều phải tham gia bảo hiểm tại cơ quan bảo hiểm Nhà nước về trách nhiệm dân sự đối với những thiệt hại do hoạt động của xe cơ giới gây ra cho những người khác.
+
+Xe cơ giới nói ở đây là tất cả loại xe chạy trên đường bộ bằng động cơ của chính chiếc xe đó (trừ xe đạp máy).
+
+**Điều 2.** - Những người chấp hành đúng luật lệ giao thông mà bị thiệt hại về thân thể hoặc tài sản do xe cơ giới gây nên đều được cơ quan bảo hiểm Nhà nước trả tiền bồi thường thiệt hại kịp thời và thoả đáng theo quy định của pháp luật.
+
+**Điều 3.** - Các chủ xe cơ giới phải đóng phí bảo hiểm cho cơ quan bảo hiểm Nhà nước để thành lập quỹ bảo hiểm. Quỹ này chủ yếu để bồi thường thiệt hại, một phần chi cho công tác đề phòng, hạn chế tai nạn, một phần chi cho hoạt động của cơ quan bảo hiểm Nhà nước.
+
+**Điều 4.** - Đối với các đơn vị sản xuất kinh doanh, phí bảo hiểm được hạch toán vào giá thành hoặc phí lưu thông; đối với các đơn vị hành chính sự nghiệp được tính vào kinh phí do Nhà nước cấp phát.
+
+**Điều 5.** - Các chủ xe cơ giới phải đóng phí bảo hiểm đầy đủ và đúng kỳ hạn. Trường hợp đóng phí bảo hiểm chậm so với quy định thì chủ xe phải nộp tiền phạt từ 1 đến 3 lần phí bảo hiểm tuỳ theo mức độ vi phạm.
+
+Lái xe không có giấy chứng nhận bảo hiểm hợp lệ thì giấy phép lưu hành xe sẽ bị thu hồi tạm thời hay vĩnh viễn.
+
+**Điều 6.** - Bộ Tài chính ban hành quy tắc và biểu phí bảo hiểm, chỉ đạo Công ty bảo hiểm Việt Nam (Bảo Việt) thực hiện nhiệm vụ của cơ quan bảo hiểm Nhà nước nói ở điều 3 trên đây, và cùng các Bộ Giao thông vận tải, Quốc phòng, Nội vụ, Ngoại giao ra thông tư hướng dẫn cụ thể việc thi hành Nghị định này.
+
+**Điều 7.** - Nghị định này có hiệu lực thi hành từ ngày 1 tháng 4 năm 1988. Các quy định trước đây trái với Nghị định này đều bị bãi bỏ.
+
+**Điều 8.** - Các Bộ trưởng, Chủ nhiệm Uỷ ban Nhà nước, Thủ trưởng các cơ quan khác thuộc Hội đồng Bộ trưởng và Chủ tịch Uỷ ban Nhân dân các tỉnh, thành phố, đặc khu trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
+
+| Đang cập nhật |
+| *(Đã ký)* |
+| | | | |
+| Võ Văn Kiệt |
+
+Tải file đính kèm
+
+* Bản PDF:
+* File đính kèm:
+ + [30.HDBT.doc](javascript:downloadfile('30.HDBT.doc','/TW/Lists/vbpq/Attachments/2518/30.HDBT.doc');)
+ - **([Xem nhanh](/tw/_layouts/15/WopiFrame.aspx?sourcedoc=/TW/Lists/vbpq/Attachments/2518/30.HDBT.doc))**
+
+[Gửi phản hồi](javascript:void(0);)

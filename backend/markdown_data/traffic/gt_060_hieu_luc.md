@@ -1,0 +1,118 @@
+*Source: https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=13183*
+
+# Nghị định 156/2007/NĐ-CP
+
+* Hiệu lực:
+ Hết hiệu lực toàn bộ
+* Ngày có hiệu lực:
+ 15/11/2007
+* Ngày hết hiệu lực:
+ 01/01/2014
+
+| **CHÍNH PHỦ** Số: 156/2007/NĐ-CP |
+
+| **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM** **Độc lập - Tự do - Hạnh phúc** *Hà Nội, ngày 19 tháng 10 năm 2007* |
+
+# NGHỊ ĐỊNH
+
+**Sửa đổi, bổ sung một số điều của Nghị định số [09/2005/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=09/2005/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 27 tháng 01 năm 2005 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường thủy nội địa và Nghị định số [44/2006/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=44/2006/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 25 tháng 04 năm 2006 của Chính phủ về việc xử phạt vi phạm hành chính trong lĩnh vực giao thông vận tải đường sắt**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**CHÍNH PHỦ**
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 06 năm 2004;
+
+Căn cứ Luật Đường sắt ngày 14 tháng 06 năm 2005;
+
+Căn cứ Pháp lệnh Xử lý vi phạm hành chính ngày 02 tháng 07 năm 2002;
+
+Xét đề nghị của Bộ trưởng Bộ Giao thông vận tải,
+
+**NGHỊ ĐỊNH :**
+
+**Điều 1.** Sửa đổi, bổ sung một số điều của Nghị định số [09/2005/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=09/2005/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 27 tháng 01 năm 2005 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường thủy nội địa với nội dung sau đây:
+
+1. Sửa đổi Điều 5 như sau:
+
+a) Tên Điều 5 được sửa đổi như sau:
+
+**“Điều 5. Hình thức xử phạt vi phạm hành chính đối với thuyền viên, người lái phương tiện."**
+
+b) Bãi bỏ khoản 4 Điều 5.
+
+2. Sửa đổi, bổ sung khoản 2, khoản 3 Điều 35 như sau:
+
+“2. Chánh Thanh tra Sở Giao thông vận tải, Sở Giao thông công chính, Chánh Thanh tra Đường thủy nội địa có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 20.000.000 đồng;
+
+c) Tước quyền sử dụng có thời hạn đến sáu tháng hoặc không thời hạn bằng, chứng chỉ chuyên môn, giấy phép do cơ quan quản lý nhà nước về giao thông vận tải cấp. Trong trường hợp giấy tờ do cơ quan có thẩm quyền khác cấp thì ra quyết định đình chỉ hành vi vi phạm và kiến nghị cơ quan có thẩm quyền tước quyền sử dụng có thời hạn hoặc thu hồi các loại giấy tờ nói trên;
+
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do hành vi vi phạm hành chính gây ra hoặc buộc tháo dỡ công trình xây dựng trái phép; buộc thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường, lây lan dịch bệnh do hành vi vi phạm hành chính gây ra; buộc tiêu hủy vật phẩm gây hại cho sức khỏe con người, vật nuôi và cây trồng.
+
+3. Chánh Thanh tra Bộ Giao thông vận tải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 30.000.000 đồng;
+
+c) Tước quyền sử dụng có thời hạn đến sáu tháng hoặc không thời hạn bằng, chứng chỉ chuyên môn, giấy phép do cơ quan quản lý nhà nước về giao thông vận tải cấp. Trong trường hợp giấy tờ do cơ quan có thẩm quyền khác cấp thì ra quyết định đình chỉ hành vi vi phạm và kiến nghị cơ quan có thẩm quyền tước quyền sử dụng có thời hạn hoặc thu hồi các loại giấy tờ nói trên;
+
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do hành vi vi phạm hành chính gây ra hoặc buộc tháo dỡ công trình xây dựng trái phép; buộc thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường, lây lan dịch bệnh do hành vi vi phạm hành chính gây ra; buộc tiêu hủy vật phẩm gây hại cho sức khỏe con người, vật nuôi và cây trồng."
+
+**Điều 2.** Sửa đổi, bổ sung khoản 2, khoản 3 Điều 42 Nghị định số [44/2006/NĐ-CP](/tw/pages/vbpq-timkiem.aspx?type=0&s=1&Keyword=44/2006/NĐ-CP&SearchIn=Title,Title1&IsRec=1&pv=0) ngày 25 tháng 4 năm 2006 của Chính phủ về việc xử phạt vi phạm hành chính trong lĩnh vực giao thông vận tải đường sắt như sau:
+
+“2. Chánh Thanh tra Sở Giao thông vận tải, Sở Giao thông công chính, Chánh Thanh tra Đường sắt có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 20.000.000 đồng;
+
+c) Tước quyền sử dụng có thời hạn đến sáu tháng hoặc không thời hạn bằng, chứng chỉ chuyên môn, giấy phép do cơ quan quản lý nhà nước về giao thông vận tải cấp. Trong trường hợp giấy tờ do cơ quan có thẩm quyền khác cấp thì ra quyết định đình chỉ hành vi vi phạm và kiến nghị cơ quan có thẩm quyền tước quyền sử dụng có thời hạn hoặc thu hồi các loại giấy tờ nói trên;
+
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do hành vi vi phạm hành chính gây ra hoặc buộc tháo dỡ công trình xây dựng trái phép; buộc thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường, lây lan dịch bệnh do hành vi vi phạm hành chính gây ra; buộc tiêu hủy vật phẩm gây hại cho sức khỏe con người, vật nuôi và cây trồng.
+
+3. Chánh Thanh tra Bộ Giao thông vận tải có quyền:
+
+a) Phạt cảnh cáo;
+
+b) Phạt tiền đến 70.000.000 đồng;
+
+c) Tước quyền sử dụng có thời hạn đến sáu tháng hoặc không thời hạn bằng, chứng chỉ chuyên môn, giấy phép do cơ quan quản lý nhà nước về giao thông vận tải cấp. Trong trường hợp giấy tờ do cơ quan có thẩm quyền khác cấp thì ra quyết định đình chỉ hành vi vi phạm và kiến nghị cơ quan có thẩm quyền tước quyền sử dụng có thời hạn hoặc thu hồi các loại giấy tờ nói trên;
+
+d) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính;
+
+đ) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do hành vi vi phạm hành chính gây ra hoặc buộc tháo dỡ công trình xây dựng trái phép; buộc thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường, lây lan dịch bệnh do hành vi vi phạm hành chính gây ra; buộc tiêu hủy vật phẩm gây hại cho sức khỏe con người, vật nuôi và cây trồng."
+
+**Điều 3.** Điều khoản thi hành
+
+1. Nghị định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+
+2. Bộ trưởng Bộ Giao thông vận tải có trách nhiệm tổ chức thực hiện Nghị định này.
+
+3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+| TM. CHÍNH PHỦ |
+| Thủ tướng |
+| *(Đã ký)* |
+| | | | |
+| Nguyễn Tấn Dũng |
+
+Tải file đính kèm
+
+* Bản PDF:
+* File đính kèm:
+ + [ND156.2007.CP.rar](javascript:downloadfile('ND156.2007.CP.rar','/FileData/TW/Lists/vbpq/Attachments/13183/ND156.2007.CP.rar');)
+
+[Gửi phản hồi](javascript:void(0);)
