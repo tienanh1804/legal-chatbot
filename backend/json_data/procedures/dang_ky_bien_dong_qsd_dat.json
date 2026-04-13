@@ -1,0 +1,62 @@
+{
+  "id": "dang_ky_bien_dong_qsd_dat",
+  "title": "Đơn đăng ký biến động đất đai/tài sản gắn liền với đất (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đăng ký biến động; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "co_quan_tiep_nhan",
+      "label": "Cơ quan tiếp nhận",
+      "question": "Bạn nộp hồ sơ tại cơ quan nào (Văn phòng đăng ký đất đai/Chi nhánh, UBND…)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten",
+      "label": "Họ và tên người đề nghị",
+      "question": "Họ và tên người đề nghị (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_so",
+      "label": "CCCD/định danh",
+      "question": "Số CCCD/định danh cá nhân?",
+      "required": true
+    },
+    {
+      "key": "dia_chi",
+      "label": "Địa chỉ liên hệ",
+      "question": "Địa chỉ liên hệ (thường trú/tạm trú)?",
+      "required": true
+    },
+    {
+      "key": "thong_tin_thua_dat",
+      "label": "Thông tin thửa đất",
+      "question": "Thông tin thửa đất (thửa số, tờ bản đồ số, địa chỉ thửa đất, diện tích…) nếu có?",
+      "required": true
+    },
+    {
+      "key": "so_gcn",
+      "label": "Số GCN",
+      "question": "Số Giấy chứng nhận (GCN) quyền sử dụng đất (nếu có)? Nếu chưa có, ghi 'Chưa có'.",
+      "required": true
+    },
+    {
+      "key": "noi_dung_bien_dong",
+      "label": "Nội dung biến động",
+      "question": "Nội dung biến động cần đăng ký (chuyển nhượng/tặng cho/thừa kế/đính chính/thay đổi thông tin…)?",
+      "required": true
+    },
+    {
+      "key": "can_cu_bien_dong",
+      "label": "Căn cứ biến động",
+      "question": "Căn cứ phát sinh biến động (hợp đồng, bản án, văn bản thỏa thuận, quyết định…)?",
+      "required": true
+    },
+    {
+      "key": "de_nghi",
+      "label": "Đề nghị",
+      "question": "Bạn đề nghị cơ quan đăng ký xử lý nội dung gì (ghi rõ mong muốn)?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐĂNG KÝ BIẾN ĐỘNG ĐẤT ĐAI/TÀI SẢN GẮN LIỀN VỚI ĐẤT\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {co_quan_tiep_nhan}\n\nNgười đề nghị: {ho_ten}\nCCCD/Định danh: {cccd_so}\nĐịa chỉ liên hệ: {dia_chi}\n\nThông tin thửa đất: {thong_tin_thua_dat}\nSố GCN (nếu có): {so_gcn}\n\nNội dung biến động: {noi_dung_bien_dong}\nCăn cứ biến động: {can_cu_bien_dong}\n\nĐề nghị: {de_nghi}\n\nTôi cam đoan các thông tin kê khai là đúng sự thật và chịu trách nhiệm trước pháp luật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

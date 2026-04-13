@@ -1,0 +1,56 @@
+{
+  "id": "cap_gcn_qsd_dat_lan_dau",
+  "title": "Đơn đề nghị cấp Giấy chứng nhận lần đầu (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị cấp GCN lần đầu; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "co_quan_tiep_nhan",
+      "label": "Cơ quan tiếp nhận",
+      "question": "Bạn nộp hồ sơ tại cơ quan nào (Văn phòng đăng ký đất đai/Chi nhánh, UBND…)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten",
+      "label": "Họ và tên",
+      "question": "Họ và tên người đề nghị (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_so",
+      "label": "CCCD/định danh",
+      "question": "Số CCCD/định danh cá nhân?",
+      "required": true
+    },
+    {
+      "key": "dia_chi",
+      "label": "Địa chỉ",
+      "question": "Địa chỉ liên hệ?",
+      "required": true
+    },
+    {
+      "key": "thong_tin_thua_dat",
+      "label": "Thông tin thửa đất",
+      "question": "Thông tin thửa đất (thửa số, tờ bản đồ số, địa chỉ thửa đất, diện tích…) nếu có?",
+      "required": true
+    },
+    {
+      "key": "nguon_goc_su_dung",
+      "label": "Nguồn gốc sử dụng đất",
+      "question": "Nguồn gốc sử dụng đất (được giao/nhận chuyển nhượng/tặng cho/thừa kế/sử dụng ổn định...) và thời điểm bắt đầu sử dụng?",
+      "required": true
+    },
+    {
+      "key": "hien_trang_su_dung",
+      "label": "Hiện trạng sử dụng",
+      "question": "Hiện trạng sử dụng đất (mục đích sử dụng, có tranh chấp không, có nhà/công trình không...)?",
+      "required": true
+    },
+    {
+      "key": "de_nghi",
+      "label": "Đề nghị",
+      "question": "Bạn đề nghị cơ quan cấp GCN cho ai đứng tên và ghi nhận nội dung gì (nếu có)?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ CẤP GIẤY CHỨNG NHẬN LẦN ĐẦU\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {co_quan_tiep_nhan}\n\nTôi tên là: {ho_ten}\nCCCD/Định danh: {cccd_so}\nĐịa chỉ: {dia_chi}\n\nThông tin thửa đất: {thong_tin_thua_dat}\nNguồn gốc sử dụng đất: {nguon_goc_su_dung}\nHiện trạng sử dụng: {hien_trang_su_dung}\n\nĐề nghị: {de_nghi}\n\nTôi cam đoan thông tin kê khai là đúng sự thật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

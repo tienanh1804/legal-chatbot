@@ -1,0 +1,92 @@
+{
+  "id": "ly_hon_thuan_tinh",
+  "title": "Đơn yêu cầu công nhận thuận tình ly hôn (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn yêu cầu công nhận thuận tình ly hôn; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "toa_an",
+      "label": "Tòa án có thẩm quyền",
+      "question": "Bạn muốn nộp tại Tòa án nào (quận/huyện/tỉnh/TP)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_vo",
+      "label": "Họ tên vợ",
+      "question": "Họ và tên của vợ (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_vo",
+      "label": "CCCD vợ",
+      "question": "Số CCCD/định danh cá nhân của vợ?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_vo",
+      "label": "Địa chỉ vợ",
+      "question": "Địa chỉ cư trú hiện tại của vợ?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_chong",
+      "label": "Họ tên chồng",
+      "question": "Họ và tên của chồng (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_chong",
+      "label": "CCCD chồng",
+      "question": "Số CCCD/định danh cá nhân của chồng?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_chong",
+      "label": "Địa chỉ chồng",
+      "question": "Địa chỉ cư trú hiện tại của chồng?",
+      "required": true
+    },
+    {
+      "key": "ngay_dang_ky_ket_hon",
+      "label": "Ngày đăng ký kết hôn",
+      "question": "Ngày đăng ký kết hôn (dd/mm/yyyy)?",
+      "required": true
+    },
+    {
+      "key": "noi_dang_ky_ket_hon",
+      "label": "Nơi đăng ký kết hôn",
+      "question": "Nơi đăng ký kết hôn (UBND xã/phường nào)?",
+      "required": true
+    },
+    {
+      "key": "con_chung",
+      "label": "Con chung",
+      "question": "Vợ chồng có con chung không? Nếu có, ghi họ tên + ngày sinh của con (mỗi con một dòng); nếu không, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "thoa_thuan_nuoi_con",
+      "label": "Thỏa thuận nuôi con",
+      "question": "Nếu có con chung: thỏa thuận về người trực tiếp nuôi con và cấp dưỡng (ghi rõ). Nếu không có con: ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "tai_san_chung",
+      "label": "Tài sản chung",
+      "question": "Có tài sản chung không? Nếu có, mô tả và thỏa thuận phân chia; nếu không, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "no_chung",
+      "label": "Nợ chung",
+      "question": "Có nợ chung/nghĩa vụ tài chính chung không? Nếu có, mô tả và thỏa thuận; nếu không, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "ly_do",
+      "label": "Lý do ly hôn",
+      "question": "Bạn mô tả ngắn gọn lý do xin thuận tình ly hôn?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN YÊU CẦU CÔNG NHẬN THUẬN TÌNH LY HÔN\n(Và thỏa thuận về con chung, tài sản chung)\n\nKính gửi: {toa_an}\n\nChúng tôi gồm:\n1) Vợ: {ho_ten_vo} — CCCD: {cccd_vo}\nĐịa chỉ: {dia_chi_vo}\n\n2) Chồng: {ho_ten_chong} — CCCD: {cccd_chong}\nĐịa chỉ: {dia_chi_chong}\n\nChúng tôi đăng ký kết hôn ngày {ngay_dang_ky_ket_hon} tại {noi_dang_ky_ket_hon}.\n\nNay chúng tôi làm đơn này đề nghị Quý Tòa xem xét công nhận thuận tình ly hôn, với các nội dung thỏa thuận như sau:\n\n1. Lý do: {ly_do}\n\n2. Con chung: {con_chung}\nThỏa thuận về nuôi con/cấp dưỡng: {thoa_thuan_nuoi_con}\n\n3. Tài sản chung: {tai_san_chung}\n\n4. Nợ chung/nghĩa vụ tài chính: {no_chung}\n\nChúng tôi cam đoan những thông tin nêu trên là đúng sự thật, đề nghị Quý Tòa xem xét, giải quyết theo quy định.\n\n……., ngày … tháng … năm …\n\nNgười yêu cầu\n(Vợ)                          (Chồng)\n(ký, ghi rõ họ tên)            (ký, ghi rõ họ tên)\n"
+}

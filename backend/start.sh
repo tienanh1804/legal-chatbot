@@ -59,6 +59,11 @@ python scripts/build_search_resources.py
 
 # Khởi động ứng dụng
 echo "Starting the application..."
-# NOTE: Trên Docker (đặc biệt Windows bind mount), --reload có thể gây lỗi I/O khi quét /app.
-# Chạy không reload để ổn định.
-uvicorn api.main:app --host 0.0.0.0 --port 8000
+# UVICORN_RELOAD=1 hoặc true: bật tự tải lại khi sửa code (phù hợp dev).
+# Trên Docker + Windows bind mount đôi khi gặp I/O chậm — đặt UVICORN_RELOAD=0 trong .env nếu cần.
+if [ "${UVICORN_RELOAD}" = "1" ] || [ "${UVICORN_RELOAD}" = "true" ]; then
+  echo "Uvicorn --reload enabled"
+  exec uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload --reload-dir /app/api --reload-dir /app/auth --reload-dir /app/core --reload-dir /app/search --reload-dir /app/services
+else
+  exec uvicorn api.main:app --host 0.0.0.0 --port 8000
+fi

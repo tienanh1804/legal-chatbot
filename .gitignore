@@ -19,9 +19,28 @@ venv/
 .vscode/
 *.swp
 
-# Database cục bộ (không commit)
-*.db
-
 # OS
 .DS_Store
 Thumbs.db
+
+# User uploads / procedure exports (local & Docker bind mount)
+backend/user_data/
+
+# Bản markdown cá nhân (backup khi đồng bộ corpus từ origin/main)
+backend/markdown_data_local_backup/
+
+# Cache / artifacts (tạo lại bằng script)
+backend/cache/*.json
+backend/cache/*.pkl
+backend/cache/*.bin
+*.log
+
+# SQLite dev DB (Postgres trong Docker là nguồn chính)
+backend/ragapp.db
+
+# Cursor / tooling
+.cursor/
+
+# OS / editor
+*.tmp
+*.bak
