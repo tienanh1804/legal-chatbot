@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   db:
     image: postgres:13-alpine  # Sử dụng alpine version
@@ -25,6 +23,7 @@ services:
     volumes:
       - ./backend:/app
       - ./backend/cache:/app/cache  # Cache directory for .pkl files
+      - ./backend/user_data:/app/user_data  # Uploaded PDFs/DOCX/images + exports
       - backend_cache:/root/.cache  # Cache riêng cho pip và model
     ports:
       - "8002:8000"
@@ -37,6 +36,8 @@ services:
       - JWT_SECRET_KEY=${JWT_SECRET_KEY:-your-secret-key-for-jwt-please-change-in-production}
       - PYTHONDONTWRITEBYTECODE=1
       - PYTHONUNBUFFERED=1
+      # 1 = tự reload backend khi đổi .py (dev). Đặt 0 nếu Docker trên Windows bị chậm/đơ.
+      - UVICORN_RELOAD=${UVICORN_RELOAD:-1}
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]

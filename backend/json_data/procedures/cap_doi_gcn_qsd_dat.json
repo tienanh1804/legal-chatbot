@@ -1,0 +1,50 @@
+{
+  "id": "cap_doi_gcn_qsd_dat",
+  "title": "Đơn đề nghị cấp đổi Giấy chứng nhận (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị cấp đổi GCN; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "co_quan_tiep_nhan",
+      "label": "Cơ quan tiếp nhận",
+      "question": "Bạn nộp hồ sơ tại cơ quan nào (Văn phòng đăng ký đất đai/Chi nhánh, UBND…)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten",
+      "label": "Họ và tên",
+      "question": "Họ và tên người đề nghị (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_so",
+      "label": "CCCD/định danh",
+      "question": "Số CCCD/định danh cá nhân?",
+      "required": true
+    },
+    {
+      "key": "dia_chi",
+      "label": "Địa chỉ",
+      "question": "Địa chỉ liên hệ?",
+      "required": true
+    },
+    {
+      "key": "thong_tin_thua_dat",
+      "label": "Thông tin thửa đất",
+      "question": "Thông tin thửa đất (thửa số, tờ bản đồ số, địa chỉ thửa đất, diện tích…) nếu có?",
+      "required": true
+    },
+    {
+      "key": "so_gcn",
+      "label": "Số GCN",
+      "question": "Số GCN đang có (nếu biết)?",
+      "required": true
+    },
+    {
+      "key": "ly_do",
+      "label": "Lý do cấp đổi",
+      "question": "Lý do đề nghị cấp đổi (rách nát, mờ, thay đổi thông tin, đo đạc lại…)?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ CẤP ĐỔI GIẤY CHỨNG NHẬN\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {co_quan_tiep_nhan}\n\nTôi tên là: {ho_ten}\nCCCD/Định danh: {cccd_so}\nĐịa chỉ: {dia_chi}\n\nThông tin thửa đất: {thong_tin_thua_dat}\nSố GCN: {so_gcn}\n\nLý do đề nghị cấp đổi: {ly_do}\n\nTôi cam đoan các thông tin trên là đúng sự thật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

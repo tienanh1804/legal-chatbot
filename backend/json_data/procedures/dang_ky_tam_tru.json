@@ -1,0 +1,32 @@
+{
+  "id": "dang_ky_tam_tru",
+  "title": "Đơn đề nghị đăng ký tạm trú (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn văn bản đề nghị; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "ho_ten",
+      "label": "Họ và tên",
+      "question": "Vui lòng cho biết họ và tên đầy đủ theo giấy tờ tùy thân.",
+      "required": true
+    },
+    {
+      "key": "ngay_sinh",
+      "label": "Ngày sinh",
+      "question": "Ngày sinh của bạn (định dạng dd/mm/yyyy)?",
+      "required": true
+    },
+    {
+      "key": "cccd_so",
+      "label": "Số định danh cá nhân",
+      "question": "Số CCCD hoặc số định danh trên giấy tờ?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_tam_tru",
+      "label": "Địa chỉ tạm trú",
+      "question": "Địa chỉ nơi đề nghị đăng ký tạm trú (đầy đủ số nhà, đường, phường/xã, tỉnh/TP)?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ ĐĂNG KÝ TẠM TRÚ\n(Khai báo thông tin qua hệ thống hỗ trợ — bản mẫu)\n\nKính gửi: Cơ quan có thẩm quyền\n\nTôi tên là: {ho_ten}\nSinh ngày: {ngay_sinh}\nSố định danh: {cccd_so}\n\nĐề nghị đăng ký tạm trú tại địa chỉ:\n{dia_chi_tam_tru}\n\nTôi xin cam đoan các thông tin trên là đúng sự thật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

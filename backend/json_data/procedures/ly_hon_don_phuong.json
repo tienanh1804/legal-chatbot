@@ -1,0 +1,93 @@
+{
+  "id": "ly_hon_don_phuong",
+  "title": "Đơn khởi kiện/đơn xin ly hôn đơn phương (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn ly hôn đơn phương; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "docx_template": "ĐƠN XIN LY HÔN.docx",
+  "fields": [
+    {
+      "key": "toa_an",
+      "label": "Tòa án có thẩm quyền",
+      "question": "Bạn muốn nộp tại Tòa án nào (quận/huyện/tỉnh/TP)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nguoi_khoi_kien",
+      "label": "Họ tên người làm đơn",
+      "question": "Họ và tên người làm đơn (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_nguoi_khoi_kien",
+      "label": "CCCD người làm đơn",
+      "question": "Số CCCD/định danh cá nhân của người làm đơn?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_nguoi_khoi_kien",
+      "label": "Địa chỉ người làm đơn",
+      "question": "Địa chỉ cư trú hiện tại của người làm đơn?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_bi_don",
+      "label": "Họ tên người còn lại",
+      "question": "Họ và tên của người còn lại (bị đơn) (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_bi_don",
+      "label": "Địa chỉ bị đơn",
+      "question": "Địa chỉ cư trú hiện tại (hoặc nơi làm việc) của bị đơn?",
+      "required": true
+    },
+    {
+      "key": "ngay_dang_ky_ket_hon",
+      "label": "Ngày đăng ký kết hôn",
+      "question": "Ngày đăng ký kết hôn (dd/mm/yyyy)?",
+      "required": true
+    },
+    {
+      "key": "noi_dang_ky_ket_hon",
+      "label": "Nơi đăng ký kết hôn",
+      "question": "Nơi đăng ký kết hôn (UBND xã/phường nào)?",
+      "required": true
+    },
+    {
+      "key": "ly_do",
+      "label": "Lý do ly hôn",
+      "question": "Bạn mô tả cụ thể tình trạng hôn nhân và lý do xin ly hôn (bạo lực, mâu thuẫn kéo dài, ly thân...)?",
+      "required": true
+    },
+    {
+      "key": "con_chung",
+      "label": "Con chung",
+      "question": "Có con chung không? Nếu có, ghi họ tên + ngày sinh của con (mỗi con một dòng); nếu không, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "yeu_cau_nuoi_con",
+      "label": "Yêu cầu nuôi con/cấp dưỡng",
+      "question": "Nếu có con: bạn yêu cầu ai nuôi con? yêu cầu cấp dưỡng thế nào? Nếu không có con: ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "tai_san_chung",
+      "label": "Tài sản chung",
+      "question": "Có tài sản chung không? Nếu có, liệt kê và yêu cầu phân chia (hoặc ghi 'Tự thỏa thuận'). Nếu không, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "no_chung",
+      "label": "Nợ chung",
+      "question": "Có nợ chung/nghĩa vụ tài chính chung không? Nếu có, mô tả và yêu cầu giải quyết. Nếu không, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "yeu_cau_khac",
+      "label": "Yêu cầu khác",
+      "question": "Có yêu cầu nào khác không (ví dụ: án phí, chi phí, xác minh…)? Nếu không, ghi 'Không'.",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN XIN LY HÔN (ĐƠN PHƯƠNG)\n\nKính gửi: {toa_an}\n\nNgười làm đơn: {ho_ten_nguoi_khoi_kien}\nCCCD: {cccd_nguoi_khoi_kien}\nĐịa chỉ: {dia_chi_nguoi_khoi_kien}\n\nNgười còn lại (bị đơn): {ho_ten_bi_don}\nĐịa chỉ: {dia_chi_bi_don}\n\nTôi và ông/bà {ho_ten_bi_don} đăng ký kết hôn ngày {ngay_dang_ky_ket_hon} tại {noi_dang_ky_ket_hon}.\n\nNay tôi làm đơn này đề nghị Quý Tòa giải quyết cho tôi được ly hôn với các nội dung sau:\n\n1. Lý do xin ly hôn: {ly_do}\n\n2. Con chung: {con_chung}\nYêu cầu về nuôi con/cấp dưỡng: {yeu_cau_nuoi_con}\n\n3. Tài sản chung: {tai_san_chung}\n\n4. Nợ chung/nghĩa vụ tài chính: {no_chung}\n\n5. Yêu cầu khác: {yeu_cau_khac}\n\nTôi cam đoan nội dung trình bày là đúng sự thật và chịu trách nhiệm trước pháp luật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

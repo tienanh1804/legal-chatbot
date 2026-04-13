@@ -1,9 +1,8 @@
-import json
-import logging
+﻿import logging
 from typing import Dict, Optional
 
-from api import history, users
-from auth.auth import get_current_active_user
+from api import documents, history, procedures, users
+from auth.auth import get_current_active_user, get_current_active_user_optional
 from core.config import CLASS_NAME, DB_PATH, TOP_K
 from core.database import Base, engine, get_db
 from core.models import QueryHistory, User
@@ -13,173 +12,103 @@ from pydantic import BaseModel
 from search.query_vectordb import format_answer, format_sources, rag_answer_gemini
 from sqlalchemy.orm import Session
 
-# Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-# Create database tables
 Base.metadata.create_all(bind=engine)
-
-app = FastAPI(
-    title="RAG API",
-    description="Retrieval-Augmented Generation API with user authentication and history tracking",
-    version="1.0.0",
-)
-
-# Configure CORS
+app = FastAPI(title="RAG API", version="1.0.0")
 origins = [
     "http://localhost",
     "http://localhost:80",
     "http://localhost:3000",
-    "http://localhost:5500",  # Live Server default port
-    "http://localhost:5501",  # Live Server alternative port
-    "http://localhost:5502",  # Live Server alternative port
+    "http://localhost:5500",
+    "http://localhost:5501",
+    "http://localhost:5502",
     "http://localhost:8000",
-    "http://localhost:8002",  # Backend port
-    "http://localhost:8088",  # Frontend Docker port
+    "http://localhost:8002",
+    "http://localhost:8088",
     "http://127.0.0.1",
     "http://127.0.0.1:80",
     "http://127.0.0.1:3000",
-    "http://127.0.0.1:5500",  # Live Server default port
-    "http://127.0.0.1:5501",  # Live Server alternative port
-    "http://127.0.0.1:5502",  # Live Server alternative port
+    "http://127.0.0.1:5500",
+    "http://127.0.0.1:5501",
+    "http://127.0.0.1:5502",
     "http://127.0.0.1:8000",
-    "http://127.0.0.1:8002",  # Backend port
-    "http://127.0.0.1:8088",  # Frontend Docker port
+    "http://127.0.0.1:8002",
+    "http://127.0.0.1:8088",
 ]
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
+app.add_middleware(CORSMiddleware, allow_origins=origins, allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
 
 class QueryRequest(BaseModel):
     query: str
     conversation_id: Optional[int] = None
-
+    include_user_documents: bool = True
+    # True: chỉ dùng đoạn trích file đã tải, không truy vấn kho VBQPPL (tránh lẫn nội dung)
+    user_documents_only: bool = False
+    user_document_id: Optional[int] = None  # file vừa gắn; None thì dùng tài liệu mới nhất
 
 @app.post("/query")
 async def handle_query(
     request: QueryRequest,
     db: Session = Depends(get_db),
-    current_user: Optional[User] = Depends(get_current_active_user),
+    current_user: Optional[User] = Depends(get_current_active_user_optional),
 ) -> Dict:
-    """Handle incoming query requests."""
+    def _get_or_create_conversation_id(conversation_id: Optional[int]) -> int:
+        if conversation_id is not None:
+            return conversation_id
+        max_id_result = db.query(QueryHistory).order_by(QueryHistory.id.desc()).first()
+        return 1 if max_id_result is None else max_id_result.id + 1
+    def _save_history(conversation_id: int, answer_text: str, sources_text: str) -> None:
+        db.add(QueryHistory(user_id=current_user.id, query_text=request.query, answer_text=answer_text, sources=sources_text, conversation_id=conversation_id))
+        db.commit()
     try:
         if not request.query.strip():
             raise ValueError("Query cannot be empty")
-
-        logger.info(f"Received query: {request.query}")
-
-        # Gọi hàm RAG với các tham số cấu hình
+        if request.user_documents_only and not current_user:
+            raise ValueError(
+                "Cần đăng nhập để trả lời chỉ trong phạm vi tài liệu đã tải lên."
+            )
         results = rag_answer_gemini(
             query=request.query,
             collection_name=CLASS_NAME,
             top_k=TOP_K,
             db_path=DB_PATH,
-            conversation_id=request.conversation_id,  # Truyền conversation_id để lấy lịch sử trò chuyện
+            conversation_id=request.conversation_id,
+            db=db,
+            user_id=current_user.id if current_user else None,
+            include_user_documents=request.include_user_documents,
+            user_documents_only=request.user_documents_only,
+            user_document_id=request.user_document_id,
         )
-
-        # Ghi log thông tin về API key đã sử dụng (nếu có)
-        if "api_key_index" in results:
-            logger.info(
-                f"Query processed using API key index: {results['api_key_index']}"
-            )
-
-        # Ghi log thời gian thực thi
-        if "execution_time" in results:
-            logger.info(
-                f"Query execution time: {results['execution_time']:.2f} seconds"
-            )
-
-        response = {
-            "response": {
-                "answer": format_answer(results),
-                "sources": format_sources(results),
-                "referenced_doc_ids": results.get(
-                    "referenced_doc_ids", []
-                ),  # Thêm referenced_doc_ids vào response
-            },
-            "raw_results": {
-                "query": results["query"],
-                "answer": results["answer"],
-                "sources": results["sources"],
-                "model": results["model"],
-                "execution_time": results.get("execution_time", 0),
-                "referenced_doc_ids": results.get(
-                    "referenced_doc_ids", []
-                ),  # Thêm referenced_doc_ids vào raw_results
-            },
-        }
-
-        # Save query to history if user is authenticated
+        response = {"response": {"answer": format_answer(results), "sources": format_sources(results), "referenced_doc_ids": results.get("referenced_doc_ids", []), "referenced_user_refs": results.get("referenced_user_refs", []), "user_sources": results.get("user_sources", []), "answer_mode": results.get("answer_mode")}, "raw_results": {"query": results["query"], "answer": results["answer"], "sources": results["sources"], "user_sources": results.get("user_sources", []), "model": results["model"], "execution_time": results.get("execution_time", 0), "referenced_doc_ids": results.get("referenced_doc_ids", []), "referenced_user_refs": results.get("referenced_user_refs", []), "answer_mode": results.get("answer_mode")}}
         if current_user:
-            # Kiểm tra xem có conversation_id không
-            conversation_id = request.conversation_id
-
-            # Nếu không có conversation_id, tạo một cuộc hội thoại mới
-            if conversation_id is None:
-                # Tìm ID lớn nhất hiện tại để tạo conversation_id mới
-                max_id_result = (
-                    db.query(QueryHistory).order_by(QueryHistory.id.desc()).first()
-                )
-                next_id = 1 if max_id_result is None else max_id_result.id + 1
-                conversation_id = next_id
-
-            # Lấy nguồn tham khảo đã được định dạng
-            formatted_sources = format_sources(results)
-
-            query_history = QueryHistory(
-                user_id=current_user.id,
-                query_text=request.query,
-                answer_text=format_answer(results),
-                sources=formatted_sources,
-                conversation_id=conversation_id,
-            )
-            db.add(query_history)
-            db.commit()
-
-            # Thêm conversation_id vào response
-            response["conversation_id"] = conversation_id
-
+            cid = _get_or_create_conversation_id(request.conversation_id)
+            _save_history(cid, format_answer(results), format_sources(results))
+            response["conversation_id"] = cid
         return response
-
     except ValueError as ve:
-        logger.error(f"Validation error: {str(ve)}")
+        if current_user:
+            cid = _get_or_create_conversation_id(request.conversation_id)
+            _save_history(cid, str(ve), "")
         raise HTTPException(status_code=400, detail=str(ve))
     except Exception as e:
-        logger.error(f"Error processing query: {str(e)}")
+        logger.error("%s", e)
         raise HTTPException(status_code=500, detail="Internal server error")
-
-
-@app.get("/health")
-async def health_check():
-    """Health check endpoint."""
-    return {"status": "healthy"}
-
 
 @app.get("/auth/verify")
 async def verify_token(current_user: User = Depends(get_current_active_user)):
-    """Verify authentication token."""
     return {"status": "valid", "username": current_user.username}
 
-
-# Include routers
 app.include_router(users.router)
 app.include_router(history.router)
+app.include_router(documents.router)
+app.include_router(procedures.router)
 
-
-@app.get("/health", tags=["health"])
+@app.get("/health")
 def health_check():
-    """Health check endpoint for Docker healthcheck"""
     return {"status": "ok"}
-
 
 if __name__ == "__main__":
     import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8001)
 
-    uvicorn.run(app, host="0.0.0.0", port=8001)  # Sử dụng cổng 8001 thay vì 8000
+

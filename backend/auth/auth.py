@@ -16,6 +16,9 @@ pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 # OAuth2 scheme for token
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
+oauth2_scheme_optional = OAuth2PasswordBearer(
+    tokenUrl="token", auto_error=False
+)
 
 
 class Token(BaseModel):
@@ -96,6 +99,33 @@ async def get_current_user(
 
 async def get_current_active_user(current_user=Depends(get_current_user)):
     """Get current active user."""
+    if not current_user.is_active:
+        raise HTTPException(status_code=400, detail="Inactive user")
+    return current_user
+
+
+async def get_current_user_optional(
+    token: Optional[str] = Depends(oauth2_scheme_optional),
+    db: Session = Depends(get_db),
+) -> Optional[models.User]:
+    """Return user if Bearer token valid; otherwise None (no 401)."""
+    if not token:
+        return None
+    try:
+        payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])
+        username: Optional[str] = payload.get("sub")
+        if username is None:
+            return None
+    except JWTError:
+        return None
+    return get_user(db, username=username)
+
+
+async def get_current_active_user_optional(
+    current_user: Optional[models.User] = Depends(get_current_user_optional),
+) -> Optional[models.User]:
+    if current_user is None:
+        return None
     if not current_user.is_active:
         raise HTTPException(status_code=400, detail="Inactive user")
     return current_user
