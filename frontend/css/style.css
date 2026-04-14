@@ -133,35 +133,3 @@ body {
     max-height: 50vh;
   }
 }
-
-.history-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.history-item {
-  border: 1px solid #e5e7eb;
-  border-radius: 12px !important;
-  padding: 0.75rem 0.9rem;
-}
-
-.history-item-title {
-  font-weight: 600;
-  color: #1f2937;
-  font-size: 0.95rem;
-  line-height: 1.35;
-}
-
-.history-item-meta {
-  margin-top: 0.2rem;
-  font-size: 0.78rem;
-  color: #6b7280;
-}
-
-.history-empty {
-  background: #f8fafc;
-  border: 1px dashed #cbd5e1;
-  border-radius: 12px;
-  padding: 0.9rem;
-}

@@ -1,0 +1,50 @@
+{
+  "id": "xac_nhan_thong_tin_cu_tru",
+  "title": "Đơn đề nghị xác nhận thông tin cư trú (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị xác nhận thông tin cư trú; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "co_quan",
+      "label": "Cơ quan tiếp nhận",
+      "question": "Bạn đề nghị cơ quan nào xác nhận (Công an xã/phường…)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten",
+      "label": "Họ và tên",
+      "question": "Họ và tên đầy đủ theo giấy tờ tùy thân?",
+      "required": true
+    },
+    {
+      "key": "ngay_sinh",
+      "label": "Ngày sinh",
+      "question": "Ngày sinh (dd/mm/yyyy)?",
+      "required": true
+    },
+    {
+      "key": "cccd_so",
+      "label": "Số định danh cá nhân",
+      "question": "Số CCCD/định danh cá nhân?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_cu_tru",
+      "label": "Địa chỉ cư trú",
+      "question": "Địa chỉ cư trú cần xác nhận (đầy đủ số nhà, đường, phường/xã, quận/huyện, tỉnh/TP)?",
+      "required": true
+    },
+    {
+      "key": "thoi_gian_cu_tru",
+      "label": "Thời gian cư trú",
+      "question": "Thời gian cư trú cần xác nhận (từ ngày... đến ngày... hoặc ghi 'hiện nay')?",
+      "required": true
+    },
+    {
+      "key": "muc_dich",
+      "label": "Mục đích xin xác nhận",
+      "question": "Mục đích xin xác nhận (làm hồ sơ, thủ tục, giao dịch...) ?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ XÁC NHẬN THÔNG TIN CƯ TRÚ\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {co_quan}\n\nTôi tên là: {ho_ten}\nSinh ngày: {ngay_sinh}\nSố định danh/CCCD: {cccd_so}\n\nNay tôi đề nghị xác nhận thông tin cư trú tại:\n{dia_chi_cu_tru}\nThời gian cư trú: {thoi_gian_cu_tru}\n\nMục đích: {muc_dich}\n\nTôi xin cam đoan thông tin cung cấp là đúng sự thật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

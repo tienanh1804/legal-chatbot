@@ -41,6 +41,18 @@ JSON_DATA_DIR = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "json_data"
 )
 
+# User-uploaded files and per-user indexes (not committed to git by default)
+USER_DATA_DIR = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "user_data"
+)
+PROCEDURES_TEMPLATE_DIR = os.path.join(JSON_DATA_DIR, "procedures")
+
+# Upload limits
+MAX_UPLOAD_BYTES = int(os.getenv("MAX_UPLOAD_BYTES", str(20 * 1024 * 1024)))
+USER_RAG_TOP_K = int(os.getenv("USER_RAG_TOP_K", "4"))
+TEXT_CHUNK_SIZE = int(os.getenv("TEXT_CHUNK_SIZE", "900"))
+TEXT_CHUNK_OVERLAP = int(os.getenv("TEXT_CHUNK_OVERLAP", "120"))
+
 # Search configuration
 TOP_K = 5
 
@@ -53,7 +65,7 @@ USE_FAISS = True  # Whether to use FAISS for vector search if available
 # Gemini configuration
 # Ưu tiên lấy từ ENV để dễ cấu hình khi deploy.
 # Mặc định dùng model ổn định, tương thích rộng với API `generateContent`.
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 GEMINI_TEMPERATURE = 0.2
 GEMINI_MAX_TOKENS = 1024
 

@@ -1,0 +1,86 @@
+{
+  "id": "dang_ky_khai_sinh",
+  "title": "Đơn đề nghị đăng ký khai sinh (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị đăng ký khai sinh; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "ubnd",
+      "label": "UBND tiếp nhận",
+      "question": "Bạn đăng ký tại UBND xã/phường nào?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nguoi_yeu_cau",
+      "label": "Người đi đăng ký",
+      "question": "Họ và tên người đi đăng ký khai sinh (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_nguoi_yeu_cau",
+      "label": "CCCD người đi đăng ký",
+      "question": "Số CCCD/định danh cá nhân của người đi đăng ký?",
+      "required": true
+    },
+    {
+      "key": "quan_he_voi_tre",
+      "label": "Quan hệ với trẻ",
+      "question": "Bạn là quan hệ gì với trẻ (cha/mẹ/ông/bà/người giám hộ…)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_tre",
+      "label": "Họ tên trẻ",
+      "question": "Họ và tên dự định khai sinh cho trẻ?",
+      "required": true
+    },
+    {
+      "key": "ngay_sinh_tre",
+      "label": "Ngày sinh trẻ",
+      "question": "Ngày sinh của trẻ (dd/mm/yyyy)?",
+      "required": true
+    },
+    {
+      "key": "noi_sinh_tre",
+      "label": "Nơi sinh",
+      "question": "Nơi sinh của trẻ (bệnh viện/địa chỉ)?",
+      "required": true
+    },
+    {
+      "key": "gioi_tinh_tre",
+      "label": "Giới tính",
+      "question": "Giới tính của trẻ?",
+      "required": true
+    },
+    {
+      "key": "dan_toc_tre",
+      "label": "Dân tộc",
+      "question": "Dân tộc của trẻ?",
+      "required": true
+    },
+    {
+      "key": "quoc_tich_tre",
+      "label": "Quốc tịch",
+      "question": "Quốc tịch của trẻ?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_cha",
+      "label": "Họ tên cha",
+      "question": "Họ và tên của cha (theo CCCD)? Nếu không có/không khai, ghi 'Không'.",
+      "required": true
+    },
+    {
+      "key": "ho_ten_me",
+      "label": "Họ tên mẹ",
+      "question": "Họ và tên của mẹ (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_cu_tru",
+      "label": "Địa chỉ cư trú",
+      "question": "Địa chỉ cư trú của cha/mẹ (hoặc của trẻ) để ghi trong khai sinh?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ ĐĂNG KÝ KHAI SINH\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {ubnd}\n\nTôi tên là: {ho_ten_nguoi_yeu_cau}\nCCCD/Định danh: {cccd_nguoi_yeu_cau}\nQuan hệ với trẻ: {quan_he_voi_tre}\n\nNay tôi đề nghị đăng ký khai sinh cho trẻ với thông tin:\n- Họ và tên: {ho_ten_tre}\n- Ngày sinh: {ngay_sinh_tre}\n- Nơi sinh: {noi_sinh_tre}\n- Giới tính: {gioi_tinh_tre}\n- Dân tộc: {dan_toc_tre}\n- Quốc tịch: {quoc_tich_tre}\n- Cha: {ho_ten_cha}\n- Mẹ: {ho_ten_me}\n- Địa chỉ cư trú: {dia_chi_cu_tru}\n\nKính đề nghị Quý cơ quan xem xét, giải quyết theo quy định.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

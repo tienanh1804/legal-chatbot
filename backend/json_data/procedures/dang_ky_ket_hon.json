@@ -1,0 +1,62 @@
+{
+  "id": "dang_ky_ket_hon",
+  "title": "Đơn đề nghị đăng ký kết hôn (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị đăng ký kết hôn; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "ubnd",
+      "label": "UBND tiếp nhận",
+      "question": "Bạn đăng ký tại UBND xã/phường nào?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nam",
+      "label": "Họ tên nam",
+      "question": "Họ và tên bên nam (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_nam",
+      "label": "CCCD nam",
+      "question": "Số CCCD/định danh cá nhân của bên nam?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_nam",
+      "label": "Địa chỉ nam",
+      "question": "Địa chỉ cư trú hiện tại của bên nam?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nu",
+      "label": "Họ tên nữ",
+      "question": "Họ và tên bên nữ (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_nu",
+      "label": "CCCD nữ",
+      "question": "Số CCCD/định danh cá nhân của bên nữ?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_nu",
+      "label": "Địa chỉ nữ",
+      "question": "Địa chỉ cư trú hiện tại của bên nữ?",
+      "required": true
+    },
+    {
+      "key": "tinh_trang_hon_nhan",
+      "label": "Tình trạng hôn nhân",
+      "question": "Xác nhận tình trạng hôn nhân của hai bên (độc thân/đã ly hôn/…)?",
+      "required": true
+    },
+    {
+      "key": "de_nghi",
+      "label": "Đề nghị",
+      "question": "Bạn có đề nghị gì thêm không? Nếu không, ghi 'Không'.",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ ĐĂNG KÝ KẾT HÔN\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {ubnd}\n\nChúng tôi gồm:\n1) Bên nam: {ho_ten_nam} — CCCD: {cccd_nam}\nĐịa chỉ: {dia_chi_nam}\n\n2) Bên nữ: {ho_ten_nu} — CCCD: {cccd_nu}\nĐịa chỉ: {dia_chi_nu}\n\nTình trạng hôn nhân: {tinh_trang_hon_nhan}\n\nNay chúng tôi tự nguyện đề nghị đăng ký kết hôn theo quy định.\nĐề nghị khác (nếu có): {de_nghi}\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(Bên nam)                      (Bên nữ)\n(ký, ghi rõ họ tên)             (ký, ghi rõ họ tên)\n"
+}

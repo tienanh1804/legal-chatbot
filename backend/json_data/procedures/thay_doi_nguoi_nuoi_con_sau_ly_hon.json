@@ -1,0 +1,68 @@
+{
+  "id": "thay_doi_nguoi_nuoi_con_sau_ly_hon",
+  "title": "Đơn yêu cầu thay đổi người trực tiếp nuôi con sau ly hôn (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn yêu cầu thay đổi người trực tiếp nuôi con; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "toa_an",
+      "label": "Tòa án có thẩm quyền",
+      "question": "Bạn muốn nộp tại Tòa án nào (quận/huyện/tỉnh/TP)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nguoi_yeu_cau",
+      "label": "Người yêu cầu",
+      "question": "Họ và tên người yêu cầu (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_nguoi_yeu_cau",
+      "label": "CCCD người yêu cầu",
+      "question": "Số CCCD/định danh cá nhân của người yêu cầu?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_nguoi_yeu_cau",
+      "label": "Địa chỉ người yêu cầu",
+      "question": "Địa chỉ cư trú hiện tại của người yêu cầu?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nguoi_dang_nuoi_con",
+      "label": "Người đang trực tiếp nuôi con",
+      "question": "Họ tên người đang trực tiếp nuôi con hiện tại?",
+      "required": true
+    },
+    {
+      "key": "dia_chi_nguoi_dang_nuoi_con",
+      "label": "Địa chỉ người đang nuôi con",
+      "question": "Địa chỉ cư trú của người đang trực tiếp nuôi con?",
+      "required": true
+    },
+    {
+      "key": "thong_tin_ban_an",
+      "label": "Thông tin bản án/quyết định ly hôn",
+      "question": "Thông tin bản án/quyết định ly hôn (số, ngày, Tòa án ban hành) mà đang giao con cho ai nuôi?",
+      "required": true
+    },
+    {
+      "key": "con_chung",
+      "label": "Thông tin con",
+      "question": "Thông tin con cần thay đổi người nuôi (họ tên + ngày sinh; nếu nhiều con, mỗi con một dòng).",
+      "required": true
+    },
+    {
+      "key": "ly_do_thay_doi",
+      "label": "Lý do thay đổi",
+      "question": "Lý do đề nghị thay đổi người trực tiếp nuôi con (ví dụ: điều kiện nuôi dưỡng, môi trường sống, sức khỏe, học tập...)?",
+      "required": true
+    },
+    {
+      "key": "yeu_cau_cu_the",
+      "label": "Yêu cầu cụ thể",
+      "question": "Bạn yêu cầu giao con cho ai trực tiếp nuôi? Có yêu cầu cấp dưỡng/điều chỉnh cấp dưỡng không? (ghi rõ)",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN YÊU CẦU\nThay đổi người trực tiếp nuôi con sau ly hôn\n\nKính gửi: {toa_an}\n\nNgười yêu cầu: {ho_ten_nguoi_yeu_cau}\nCCCD: {cccd_nguoi_yeu_cau}\nĐịa chỉ: {dia_chi_nguoi_yeu_cau}\n\nNgười đang trực tiếp nuôi con: {ho_ten_nguoi_dang_nuoi_con}\nĐịa chỉ: {dia_chi_nguoi_dang_nuoi_con}\n\nCăn cứ thông tin bản án/quyết định ly hôn: {thong_tin_ban_an}\n\nThông tin con chung: {con_chung}\n\nNay tôi làm đơn này đề nghị Quý Tòa xem xét thay đổi người trực tiếp nuôi con vì các lý do sau:\n{ly_do_thay_doi}\n\nYêu cầu cụ thể của tôi:\n{yeu_cau_cu_the}\n\nTôi cam đoan nội dung trình bày là đúng sự thật và chịu trách nhiệm trước pháp luật.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

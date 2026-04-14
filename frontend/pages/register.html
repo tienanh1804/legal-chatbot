@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Đăng nhập</title>
+  <title>Đăng ký</title>
   <link rel="icon" type="image/png" href="/assets/icon.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
@@ -16,27 +16,31 @@
           <div class="card-body p-4 p-md-5">
             <div class="text-center mb-4">
               <img src="/assets/icon.png" alt="Legal Chatbot" class="auth-logo mb-3">
-              <h2 class="fw-bold mb-2">Đăng nhập</h2>
-              <p class="text-muted mb-0">Hệ thống hỏi đáp và tra cứu pháp luật</p>
+              <h2 class="fw-bold mb-2">Đăng ký</h2>
+              <p class="text-muted mb-0">Tạo tài khoản để sử dụng hệ thống</p>
             </div>
 
             <div id="auth-alert"></div>
 
-            <form id="login-form">
+            <form id="register-form">
               <div class="mb-3">
                 <label class="form-label">Tên đăng nhập</label>
-                <input type="text" id="login-username" class="form-control" placeholder="Nhập tên đăng nhập" required>
+                <input type="text" id="register-name" class="form-control" placeholder="Nhập tên đăng nhập" required>
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Email</label>
+                <input type="email" id="register-email" class="form-control" placeholder="Nhập email" required>
               </div>
               <div class="mb-3">
                 <label class="form-label">Mật khẩu</label>
-                <input type="password" id="login-password" class="form-control" placeholder="Nhập mật khẩu" required>
+                <input type="password" id="register-password" class="form-control" placeholder="Nhập mật khẩu" required>
               </div>
-              <button class="btn btn-primary w-100" type="submit">Đăng nhập</button>
+              <button class="btn btn-primary w-100" type="submit">Đăng ký</button>
             </form>
 
             <div class="text-center mt-3">
-              <span class="text-muted">Chưa có tài khoản?</span>
-              <a href="/register.html">Đăng ký</a>
+              <span class="text-muted">Đã có tài khoản?</span>
+              <a href="/login.html">Đăng nhập</a>
             </div>
             <div class="text-center mt-2">
               <a href="/">Quay lại trang chat</a>
@@ -51,3 +55,4 @@
   <script src="/js/auth.js"></script>
 </body>
 </html>
+

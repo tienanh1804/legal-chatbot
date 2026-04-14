@@ -1,0 +1,62 @@
+{
+  "id": "cai_chinh_ho_tich",
+  "title": "Đơn đề nghị cải chính hộ tịch (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị cải chính hộ tịch; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "ubnd",
+      "label": "UBND tiếp nhận",
+      "question": "Bạn nộp hồ sơ tại UBND xã/phường nào?",
+      "required": true
+    },
+    {
+      "key": "ho_ten_nguoi_yeu_cau",
+      "label": "Người yêu cầu",
+      "question": "Họ và tên người yêu cầu (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_nguoi_yeu_cau",
+      "label": "CCCD người yêu cầu",
+      "question": "Số CCCD/định danh cá nhân của người yêu cầu?",
+      "required": true
+    },
+    {
+      "key": "dia_chi",
+      "label": "Địa chỉ",
+      "question": "Địa chỉ liên hệ của bạn?",
+      "required": true
+    },
+    {
+      "key": "doi_tuong",
+      "label": "Đối tượng cải chính",
+      "question": "Bạn cải chính hộ tịch cho ai (họ tên người cần cải chính)?",
+      "required": true
+    },
+    {
+      "key": "giay_to_ho_tich",
+      "label": "Giấy tờ hộ tịch",
+      "question": "Giấy tờ hộ tịch liên quan (khai sinh/kết hôn/…): số quyển/số đăng ký/năm đăng ký (nếu có)? Nếu không rõ, ghi 'Không rõ'.",
+      "required": true
+    },
+    {
+      "key": "noi_dung_sai",
+      "label": "Nội dung sai",
+      "question": "Nội dung hiện đang ghi sai (ghi đúng như trong giấy tờ)?",
+      "required": true
+    },
+    {
+      "key": "noi_dung_de_nghi",
+      "label": "Nội dung đề nghị",
+      "question": "Bạn đề nghị cải chính thành nội dung gì?",
+      "required": true
+    },
+    {
+      "key": "ly_do",
+      "label": "Lý do",
+      "question": "Lý do đề nghị cải chính (sai sót khi đăng ký, thay đổi thông tin…)?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ CẢI CHÍNH HỘ TỊCH\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {ubnd}\n\nTôi tên là: {ho_ten_nguoi_yeu_cau}\nCCCD/Định danh: {cccd_nguoi_yeu_cau}\nĐịa chỉ: {dia_chi}\n\nNay tôi đề nghị cải chính hộ tịch cho: {doi_tuong}\nGiấy tờ hộ tịch liên quan: {giay_to_ho_tich}\n\nNội dung đang ghi sai: {noi_dung_sai}\nNội dung đề nghị cải chính thành: {noi_dung_de_nghi}\nLý do: {ly_do}\n\nKính đề nghị Quý cơ quan xem xét, giải quyết theo quy định.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}

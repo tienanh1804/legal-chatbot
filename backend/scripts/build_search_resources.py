@@ -7,6 +7,7 @@ This script builds and caches all necessary resources for hybrid search:
 2. BM25 index - for lexical search
 3. Document embeddings - for vector search
 4. Document metadata - for result formatting
+5. FAISS index (when USE_FAISS is true) - fast vector search
 
 Run this script after updating the document collection to rebuild the cache.
 """
@@ -16,8 +17,11 @@ import os
 import time
 from typing import Any, Dict, List
 
-from core.config import EMBEDDING_MODEL, MARKDOWN_DIR
+from core.config import EMBEDDING_MODEL, MARKDOWN_DIR, USE_FAISS
 from search.hybrid_search import (
+    FAISS_INDEX_PATH,
+    FAISS_MAPPING_PATH,
+    create_faiss_index,
     load_or_create_bm25_index,
     load_or_create_document_cache,
     load_or_create_embeddings,
@@ -53,6 +57,24 @@ def build_search_resources(force_rebuild: bool = False) -> None:
     start_time = time.time()
     logger.info("Starting to build search resources...")
 
+    if force_rebuild:
+        # Ensure load_or_create_* helpers don't reuse stale caches.
+        # We delete only known cache artifacts, and let the helpers recreate them.
+        for cache_path in [
+            BM25_CACHE_PATH,
+            EMBEDDINGS_CACHE_PATH,
+            METADATA_CACHE_PATH,
+            DOCUMENT_CACHE_PATH,
+            FAISS_INDEX_PATH,
+            FAISS_MAPPING_PATH,
+        ]:
+            try:
+                if os.path.exists(cache_path):
+                    os.remove(cache_path)
+                    logger.info(f"Deleted cache: {cache_path}")
+            except Exception as e:
+                logger.warning(f"Could not delete cache {cache_path}: {e}")
+
     # Step 1: Load or create document cache
     logger.info("Building document cache...")
     documents = load_or_create_document_cache(MARKDOWN_DIR, DOCUMENT_CACHE_PATH)
@@ -76,6 +98,14 @@ def build_search_resources(force_rebuild: bool = False) -> None:
         logger.info(
             f"Document embeddings built for {len(document_embeddings)} documents"
         )
+        if USE_FAISS and document_embeddings:
+            logger.info("Building FAISS index from embeddings...")
+            if create_faiss_index(
+                document_embeddings, FAISS_INDEX_PATH, FAISS_MAPPING_PATH
+            ):
+                logger.info("FAISS index ready.")
+            else:
+                logger.warning("FAISS index build failed; vector search may fall back.")
     except Exception as e:
         logger.error(f"Error building document embeddings: {e}")
         logger.warning("Hybrid search will fall back to BM25 only")

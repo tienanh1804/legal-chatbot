@@ -1,0 +1,50 @@
+{
+  "id": "cung_cap_thong_tin_dat_dai",
+  "title": "Đơn đề nghị cung cấp thông tin đất đai (mẫu minh họa)",
+  "description": "Thu thập thông tin cơ bản để soạn đơn đề nghị cung cấp thông tin đất đai; nội dung chỉ mang tính thử nghiệm hệ thống.",
+  "fields": [
+    {
+      "key": "co_quan_cung_cap",
+      "label": "Cơ quan cung cấp",
+      "question": "Bạn đề nghị cơ quan nào cung cấp thông tin (Văn phòng đăng ký đất đai/Chi nhánh…)?",
+      "required": true
+    },
+    {
+      "key": "ho_ten",
+      "label": "Họ và tên",
+      "question": "Họ và tên người đề nghị (theo CCCD)?",
+      "required": true
+    },
+    {
+      "key": "cccd_so",
+      "label": "CCCD/định danh",
+      "question": "Số CCCD/định danh cá nhân?",
+      "required": true
+    },
+    {
+      "key": "dia_chi",
+      "label": "Địa chỉ",
+      "question": "Địa chỉ liên hệ?",
+      "required": true
+    },
+    {
+      "key": "noi_dung_de_nghi",
+      "label": "Nội dung đề nghị cung cấp",
+      "question": "Bạn cần cung cấp thông tin gì (quy hoạch, trích lục hồ sơ, tình trạng pháp lý, biến động…)?",
+      "required": true
+    },
+    {
+      "key": "thong_tin_thua_dat",
+      "label": "Thông tin thửa đất (nếu có)",
+      "question": "Thông tin thửa đất liên quan (thửa số, tờ bản đồ số, địa chỉ thửa đất, số GCN…) nếu có; nếu không, ghi 'Không rõ'.",
+      "required": true
+    },
+    {
+      "key": "muc_dich_su_dung",
+      "label": "Mục đích sử dụng thông tin",
+      "question": "Mục đích sử dụng thông tin (làm hồ sơ, giao dịch, khiếu nại, tố tụng…)?",
+      "required": true
+    }
+  ],
+  "output_template": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n\nĐƠN ĐỀ NGHỊ CUNG CẤP THÔNG TIN ĐẤT ĐAI\n(Bản mẫu minh họa qua hệ thống)\n\nKính gửi: {co_quan_cung_cap}\n\nTôi tên là: {ho_ten}\nCCCD/Định danh: {cccd_so}\nĐịa chỉ: {dia_chi}\n\nNội dung đề nghị cung cấp: {noi_dung_de_nghi}\nThông tin thửa đất (nếu có): {thong_tin_thua_dat}\nMục đích sử dụng thông tin: {muc_dich_su_dung}\n\nKính đề nghị Quý cơ quan xem xét, cung cấp thông tin theo quy định.\n\n……., ngày … tháng … năm …\nNgười làm đơn\n(ký, ghi rõ họ tên)\n"
+}
