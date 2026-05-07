@@ -3,7 +3,7 @@ fastapi==0.95.2
 uvicorn==0.22.0
 python-dotenv==1.0.0
 sqlalchemy==2.0.15
-psycopg2-binary==2.9.6
+psycopg2-binary==2.9.11
 alembic==1.11.1
 
 # Authentication
@@ -15,10 +15,12 @@ python-multipart==0.0.6
 # AI/ML dependencies
 fasttext==0.9.3
 sentence-transformers==3.4.1
-google-generativeai==0.3.2
+# >=0.8 + protobuf mới: tương thích Python 3.14 (bản 0.3.x gây lỗi metaclass/protobuf)
+google-generativeai==0.8.6
+protobuf>=5.29.0,<6
 numpy==1.26.4
-torch==2.1.2+cpu
 -f https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.2+cpu
 transformers==4.41.0
 huggingface-hub==0.23.0
 safetensors==0.4.1
