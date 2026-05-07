@@ -37,12 +37,9 @@ services:
     environment:
       - DATABASE_URL=postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@db:5432/${POSTGRES_DB:-ragapp}
       # Không set GEMINI_API_KEY ở đây: nếu ${GEMINI_API_KEY} trống trên host sẽ ghi đè key trong env_file.
-      - JWT_SECRET_KEY=${JWT_SECRET_KEY:-your-secret-key-for-jwt-please-change-in-production}
       - PYTHONDONTWRITEBYTECODE=1
       - PYTHONUNBUFFERED=1
-      # Mặc định tắt reload trong Docker để tránh lỗi I/O/restart loop trên Windows.
-      # Nếu cần hot-reload khi dev, set UVICORN_RELOAD=1 trong backend/.env.
-      - UVICORN_RELOAD=${UVICORN_RELOAD:-0}
+      # JWT_SECRET_KEY và UVICORN_RELOAD được nạp từ backend/.env thông qua env_file.
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
