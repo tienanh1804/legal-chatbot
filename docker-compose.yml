@@ -20,6 +20,10 @@ services:
     build:
       context: ./backend
       dockerfile: Dockerfile
+    env_file:
+      # Nạp GEMINI và các biến từ backend/.env (Compose interpolation không đọc file này).
+      # Biến trong `environment` bên dưới vẫn ghi đè cùng tên (DATABASE_URL, JWT, ...).
+      - ./backend/.env
     volumes:
       - ./backend:/app
       - ./backend/cache:/app/cache  # Cache directory for .pkl files
@@ -32,12 +36,10 @@ services:
         condition: service_healthy
     environment:
       - DATABASE_URL=postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@db:5432/${POSTGRES_DB:-ragapp}
-      - GEMINI_API_KEY=${GEMINI_API_KEY}
-      - JWT_SECRET_KEY=${JWT_SECRET_KEY:-your-secret-key-for-jwt-please-change-in-production}
+      # Không set GEMINI_API_KEY ở đây: nếu ${GEMINI_API_KEY} trống trên host sẽ ghi đè key trong env_file.
       - PYTHONDONTWRITEBYTECODE=1
       - PYTHONUNBUFFERED=1
-      # 1 = tự reload backend khi đổi .py (dev). Đặt 0 nếu Docker trên Windows bị chậm/đơ.
-      - UVICORN_RELOAD=${UVICORN_RELOAD:-1}
+      # JWT_SECRET_KEY và UVICORN_RELOAD được nạp từ backend/.env thông qua env_file.
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]

@@ -29,6 +29,12 @@ backend/user_data/
 # Bản markdown cá nhân (backup khi đồng bộ corpus từ origin/main)
 backend/markdown_data_local_backup/
 
+# Sinh QA từ Gemini (file tạm khi --resume)
+backend/json_data/_qa_pairs_partial.jsonl
+backend/json_data/.qa_generation_done_basenames.txt
+backend/json_data/.generate_qa_partial.jsonl
+backend/json_data/.generate_qa_done.txt
+
 # Cache / artifacts (tạo lại bằng script)
 backend/cache/*.json
 backend/cache/*.pkl
