@@ -1,0 +1,93 @@
+{
+    "id": "don_to_giac_toi_pham",
+    "title": "Đơn tố giác tội phạm",
+    "description": "Mẫu đơn trình báo, tố giác tội phạm gửi cơ quan Cảnh sát điều tra, Công an cấp xã/phường/quận.",
+    "docx_template": "don_to_giac_toi_pham_template.docx",
+    "fields": [
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        },
+        {
+            "key": "hanh_vi_vi_pham",
+            "label": "Hành vi vi phạm",
+            "question": "Nhập hành vi phạm tội cần tố giác (Ví dụ: cướp giật tài sản, cố ý gây thương tích...):",
+            "required": true
+        },
+        {
+            "key": "cong_an_xa_phuong",
+            "label": "Cơ quan công an nhận đơn",
+            "question": "Kính gửi Công an xã/phường/thị trấn nào?",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_lam_don",
+            "label": "Họ tên người làm đơn",
+            "question": "Nhập Họ và tên đầy đủ của bạn (người tố giác):",
+            "required": true
+        },
+        {
+            "key": "sinh_nam_nguoi_lam_don",
+            "label": "Năm sinh của bạn",
+            "question": "Nhập năm sinh của bạn (Ví dụ: 1993):",
+            "required": true
+        },
+        {
+            "key": "cccd_nguoi_lam_don",
+            "label": "CCCD của bạn",
+            "question": "Nhập số CCCD của bạn:",
+            "required": true
+        },
+        {
+            "key": "cap_boi_nguoi_lam_don",
+            "label": "Nơi cấp CCCD",
+            "question": "CCCD của bạn do cơ quan nào cấp?",
+            "required": true
+        },
+        {
+            "key": "ngay_cap_cccd_nguoi_lam_don",
+            "label": "Ngày cấp CCCD",
+            "question": "Nhập ngày cấp CCCD của bạn (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "noi_thuong_tru_nguoi_lam_don",
+            "label": "Nơi thường trú của bạn",
+            "question": "Nhập địa chỉ đăng ký thường trú của bạn:",
+            "required": true
+        },
+        {
+            "key": "tam_tru_nguoi_lam_don",
+            "label": "Địa chỉ cư trú hiện tại",
+            "question": "Địa chỉ nơi bạn đang sinh sống, cư ngụ hiện nay:",
+            "required": true
+        },
+        {
+            "key": "ho_ten_doi_tuong",
+            "label": "Tên đối tượng bị tố giác",
+            "question": "Nhập Họ và tên đối tượng vi phạm (nếu không rõ, ghi 'Chưa rõ nhân thân'):",
+            "required": true
+        },
+        {
+            "key": "dia_chi_doi_tuong",
+            "label": "Địa chỉ đối tượng",
+            "question": "Nhập địa chỉ cư trú của đối tượng vi phạm (nếu biết, nếu không ghi 'Không rõ'):",
+            "required": true
+        },
+        {
+            "key": "chi_tiet_hanh_vi",
+            "label": "Mô tả chi tiết hành vi phạm tội",
+            "question": "Mô tả chi tiết diễn biến vụ việc và hành vi vi phạm pháp luật của đối tượng:",
+            "required": true
+        },
+        {
+            "key": "chung_cu",
+            "label": "Chứng cứ kèm theo",
+            "question": "Nhập các tài liệu, chứng cứ kèm theo để chứng minh (nếu có):",
+            "required": false
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn tố giác tội phạm.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

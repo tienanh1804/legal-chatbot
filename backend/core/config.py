@@ -13,7 +13,7 @@ if not os.path.exists("/.dockerenv"):
 COLLECTION_NAME = "legal_documents"
 
 # Embedding model configuration
-EMBEDDING_MODEL = "TienAn1812/legal-embedding-model"
+EMBEDDING_MODEL = "TienAn1812/embedding_model_legal"
 VECTOR_SIZE = 768
 
 # Relational Database configuration
@@ -67,7 +67,7 @@ USE_FAISS = True  # Whether to use FAISS for vector search if available
 # Mặc định dùng model ổn định, tương thích rộng với API `generateContent`.
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 GEMINI_TEMPERATURE = 0.2
-GEMINI_MAX_TOKENS = 1024
+GEMINI_MAX_TOKENS = 2048
 
 # Danh sách API key dự phòng
 # Lấy từ biến môi trường hoặc sử dụng giá trị mặc định

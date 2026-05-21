@@ -1,0 +1,105 @@
+{
+    "id": "don_khieu_nai",
+    "title": "Đơn khiếu nại (Mẫu số 01)",
+    "description": "Mẫu đơn khiếu nại hành chính chính thức (Mẫu số 01) dùng để khiếu nại quyết định hoặc hành vi hành chính.",
+    "docx_template": "don_khieu_nai_template.docx",
+    "fields": [
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        },
+        {
+            "key": "kinh_gui",
+            "label": "Cơ quan giải quyết khiếu nại",
+            "question": "Nhập tên cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại (Kính gửi ai?):",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_khieu_nai",
+            "label": "Họ tên người khiếu nại",
+            "question": "Nhập Họ và tên đầy đủ của người khiếu nại:",
+            "required": true
+        },
+        {
+            "key": "dia_chi_nguoi_khieu_nai",
+            "label": "Địa chỉ người khiếu nại",
+            "question": "Nhập địa chỉ của người khiếu nại:",
+            "required": true
+        },
+        {
+            "key": "cccd_nguoi_khieu_nai",
+            "label": "CCCD người khiếu nại",
+            "question": "Nhập số CCCD/Định danh cá nhân của người khiếu nại:",
+            "required": true
+        },
+        {
+            "key": "ngay_cap_cccd_nguoi_khieu_nai",
+            "label": "Ngày cấp CCCD",
+            "question": "Nhập ngày cấp CCCD (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "noi_cap_cccd_nguoi_khieu_nai",
+            "label": "Nơi cấp CCCD",
+            "question": "CCCD do đơn vị nào cấp (Ví dụ: Cục CSQLHC về trật tự xã hội):",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_uy_quyen",
+            "label": "Họ tên người được ủy quyền (nếu có)",
+            "question": "Nhập Họ tên người được ủy quyền khiếu nại (bỏ qua nếu tự khiếu nại):",
+            "required": false
+        },
+        {
+            "key": "dia_chi_nguoi_uy_quyen",
+            "label": "Địa chỉ người ủy quyền (nếu có)",
+            "question": "Địa chỉ người được ủy quyền (nếu có):",
+            "required": false
+        },
+        {
+            "key": "cccd_nguoi_uy_quyen",
+            "label": "CCCD người ủy quyền (nếu có)",
+            "question": "Số CCCD người được ủy quyền (nếu có):",
+            "required": false
+        },
+        {
+            "key": "ngay_cap_cccd_nguoi_uy_quyen",
+            "label": "Ngày cấp CCCD người ủy quyền",
+            "question": "Ngày cấp CCCD người ủy quyền (nếu có):",
+            "required": false
+        },
+        {
+            "key": "noi_cap_cccd_nguoi_uy_quyen",
+            "label": "Nơi cấp CCCD người ủy quyền",
+            "question": "Nơi cấp CCCD người ủy quyền (nếu có):",
+            "required": false
+        },
+        {
+            "key": "ten_bi_khieu_nai",
+            "label": "Bên bị khiếu nại",
+            "question": "Nhập tên của cơ quan, tổ chức hoặc cá nhân bị khiếu nại:",
+            "required": true
+        },
+        {
+            "key": "dia_chi_bi_khieu_nai",
+            "label": "Địa chỉ bên bị khiếu nại",
+            "question": "Nhập địa chỉ của bên bị khiếu nại:",
+            "required": true
+        },
+        {
+            "key": "khieu_nai_ve_viec",
+            "label": "Khiếu nại về việc",
+            "question": "Nội dung khiếu nại về quyết định/hành vi hành chính gì? (Ví dụ: Quyết định thu hồi đất số 123/QĐ-UBND):",
+            "required": true
+        },
+        {
+            "key": "noi_dung_khieu_nai",
+            "label": "Nội dung khiếu nại",
+            "question": "Trình bày chi tiết lý do bạn khiếu nại và các yêu cầu cụ thể giải quyết khiếu nại:",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn khiếu nại (Mẫu số 01).\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

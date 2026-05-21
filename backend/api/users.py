@@ -52,6 +52,10 @@ class ChangePasswordRequest(BaseModel):
     new_password: str
 
 
+class ChangeUsernameRequest(BaseModel):
+    new_username: str
+
+
 class DeleteAccountRequest(BaseModel):
     password: str
 
@@ -96,7 +100,7 @@ async def login_for_access_token(
             detail="Incorrect username or password",
             headers={"WWW-Authenticate": "Bearer"},
         )
-    access_token = auth.create_access_token(data={"sub": user.username})
+    access_token = auth.create_access_token(data={"sub": str(user.id)})
     return {"access_token": access_token, "token_type": "bearer"}
 
 
@@ -122,6 +126,32 @@ def change_password(
     current_user.hashed_password = get_password_hash(req.new_password)
     db.commit()
     return {"msg": "Đổi mật khẩu thành công"}
+
+
+@router.post("/update-username")
+def update_username(
+    req: ChangeUsernameRequest,
+    db: Session = Depends(get_db),
+    current_user=Depends(get_current_active_user),
+):
+    """Thay đổi tên tài khoản (username)"""
+    new_username = req.new_username.strip()
+    if not new_username:
+        raise HTTPException(status_code=400, detail="Tên người dùng không được để trống")
+
+    # Kiểm tra xem tên mới đã tồn tại chưa
+    if new_username == current_user.username:
+        return {"msg": "Tên mới trùng với tên cũ"}
+
+    existing_user = (
+        db.query(models.User).filter(models.User.username == new_username).first()
+    )
+    if existing_user:
+        raise HTTPException(status_code=400, detail="Tên người dùng đã tồn tại")
+
+    current_user.username = new_username
+    db.commit()
+    return {"msg": "Đổi tên tài khoản thành công", "new_username": new_username}
 
 
 @router.post("/delete-account")

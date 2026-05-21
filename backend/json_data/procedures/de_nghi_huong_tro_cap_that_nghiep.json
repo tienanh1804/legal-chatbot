@@ -1,0 +1,147 @@
+{
+    "id": "de_nghi_huong_tro_cap_that_nghiep",
+    "title": "Đơn đề nghị hưởng trợ cấp thất nghiệp",
+    "description": "Mẫu số 10 đề nghị hưởng trợ cấp thất nghiệp chính thức gửi đến Trung tâm Dịch vụ việc làm.",
+    "docx_template": "de_nghi_huong_tro_cap_that_nghiep_template.docx",
+    "fields": [
+        {
+            "key": "dich_vu_viec_lam",
+            "label": "Trung tâm Dịch vụ việc làm",
+            "question": "Kính gửi Trung tâm Dịch vụ việc làm tỉnh/thành phố nào?",
+            "required": true
+        },
+        {
+            "key": "ho_ten",
+            "label": "Họ và tên người lao động",
+            "question": "Nhập Họ và tên đầy đủ của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_sinh",
+            "label": "Ngày sinh",
+            "question": "Nhập ngày tháng năm sinh của bạn (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "so_cccd",
+            "label": "Số định danh / CCCD",
+            "question": "Nhập số CCCD/định danh cá nhân của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_cap_cccd",
+            "label": "Ngày cấp CCCD",
+            "question": "CCCD được cấp vào ngày nào (dd/mm/yyyy)?",
+            "required": true
+        },
+        {
+            "key": "sdt",
+            "label": "Số điện thoại",
+            "question": "Nhập số điện thoại liên lạc của bạn:",
+            "required": true
+        },
+        {
+            "key": "email",
+            "label": "Email",
+            "question": "Nhập email của bạn (nếu có):",
+            "required": false
+        },
+        {
+            "key": "trinh_do_dao_tao",
+            "label": "Trình độ đào tạo",
+            "question": "Trình độ đào tạo của bạn (Ví dụ: Đại học, Cao đẳng, Phổ thông...):",
+            "required": true
+        },
+        {
+            "key": "chuyen_nganh_dao_tao",
+            "label": "Chuyên ngành đào tạo",
+            "question": "Chuyên ngành đào tạo của bạn (Ví dụ: Công nghệ thông tin...):",
+            "required": true
+        },
+        {
+            "key": "noi_thuong_tru",
+            "label": "Nơi thường trú",
+            "question": "Nhập địa chỉ nơi thường trú theo hộ khẩu/CCCD:",
+            "required": true
+        },
+        {
+            "key": "noi_o_hien_nay",
+            "label": "Nơi ở hiện nay",
+            "question": "Nhập địa chỉ nơi cư trú hiện tại của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_cham_dut_hdld",
+            "label": "Ngày chấm dứt hợp đồng",
+            "question": "Ngày chấm dứt hợp đồng lao động là ngày nào (dd/mm/yyyy)?",
+            "required": true
+        },
+        {
+            "key": "ten_don_vi",
+            "label": "Tên công ty cũ",
+            "question": "Tên công ty/đơn vị cũ nơi bạn vừa thôi việc:",
+            "required": true
+        },
+        {
+            "key": "dia_chi_don_vi",
+            "label": "Địa chỉ công ty cũ",
+            "question": "Nhập địa chỉ trụ sở của công ty/đơn vị cũ:",
+            "required": true
+        },
+        {
+            "key": "ly_do_cham_dut",
+            "label": "Lý do chấm dứt hợp đồng",
+            "question": "Nhập lý do chấm dứt hợp đồng (Ví dụ: Hết hạn hợp đồng, Đơn phương xin nghỉ...):",
+            "required": true
+        },
+        {
+            "key": "loai_hdld",
+            "label": "Loại hợp đồng lao động",
+            "question": "Loại hợp đồng lao động của bạn (Ví dụ: Không xác định thời hạn, 12 tháng...):",
+            "required": true
+        },
+        {
+            "key": "so_thang_dong_bhtn",
+            "label": "Số tháng đóng BHTN",
+            "question": "Tổng số tháng bạn đóng Bảo hiểm thất nghiệp là bao nhiêu?",
+            "required": true
+        },
+        {
+            "key": "ten_chu_tk",
+            "label": "Tên chủ tài khoản ngân hàng",
+            "question": "Nhập tên chủ tài khoản nhận trợ cấp (Ví dụ: NGUYEN VAN A):",
+            "required": true
+        },
+        {
+            "key": "so_tk",
+            "label": "Số tài khoản ngân hàng",
+            "question": "Nhập số tài khoản ngân hàng:",
+            "required": true
+        },
+        {
+            "key": "ngan_hang",
+            "label": "Tên ngân hàng",
+            "question": "Nhập tên ngân hàng (Ví dụ: Vietcombank chi nhánh Hà Nội):",
+            "required": true
+        },
+        {
+            "key": "nhan_tien_mat_tai",
+            "label": "Nơi nhận tiền mặt",
+            "question": "Nếu không nhận qua thẻ, bạn muốn nhận tiền mặt tại BHXH quận/huyện nào?",
+            "required": false
+        },
+        {
+            "key": "noi_kham_chua_benh_ban_dau",
+            "label": "Nơi đăng ký KCB ban đầu",
+            "question": "Nhập nơi đăng ký khám chữa bệnh ban đầu ghi trên thẻ BHYT của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn đề nghị hưởng trợ cấp thất nghiệp.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

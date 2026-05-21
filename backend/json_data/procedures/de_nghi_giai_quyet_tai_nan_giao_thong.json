@@ -1,0 +1,81 @@
+{
+    "id": "de_nghi_giai_quyet_tai_nan_giao_thong",
+    "title": "Đơn đề nghị giải quyết tai nạn giao thông",
+    "description": "Đơn trình báo và yêu cầu cơ quan Công an tiến hành điều tra, giải quyết vụ tai nạn giao thông xảy ra đối với bạn.",
+    "docx_template": "de_nghi_giai_quyet_tai_nan_giao_thong_template.docx",
+    "fields": [
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        },
+        {
+            "key": "kinh_gui",
+            "label": "Cơ quan công an giải quyết",
+            "question": "Kính gửi Đội Cảnh sát giao thông / Công an quận/huyện nào?",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_de_nghi",
+            "label": "Họ tên người đề nghị",
+            "question": "Nhập Họ và tên đầy đủ của bạn (người đề nghị giải quyết):",
+            "required": true
+        },
+        {
+            "key": "sinh_nam",
+            "label": "Năm sinh",
+            "question": "Nhập năm sinh của bạn:",
+            "required": true
+        },
+        {
+            "key": "cmnd_so",
+            "label": "Số CMND/CCCD của bạn",
+            "question": "Nhập số CMND/CCCD của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_cap",
+            "label": "Ngày cấp",
+            "question": "Nhập ngày cấp CMND/CCCD (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "noi_cap",
+            "label": "Nơi cấp",
+            "question": "Nhập nơi cấp CMND/CCCD (Ví dụ: Cục Cảnh sát QLHC về trật tự xã hội):",
+            "required": true
+        },
+        {
+            "key": "dia_chi_cu_tru",
+            "label": "Địa chỉ cư trú",
+            "question": "Nhập địa chỉ cư trú đầy đủ hiện tại của bạn:",
+            "required": true
+        },
+        {
+            "key": "sdt",
+            "label": "Số điện thoại",
+            "question": "Nhập số điện thoại liên lạc của bạn:",
+            "required": true
+        },
+        {
+            "key": "noi_dung_su_viec",
+            "label": "Nội dung vụ tai nạn",
+            "question": "Trình bày chi tiết vụ việc tai nạn giao thông (thời gian, địa điểm, diễn biến vụ việc...):",
+            "required": true
+        },
+        {
+            "key": "nguoi_gay_tai_nan",
+            "label": "Người gây tai nạn",
+            "question": "Nhập Họ tên đối tượng gây ra tai nạn giao thông (nếu không rõ, ghi 'Chưa rõ danh tính'):",
+            "required": true
+        },
+        {
+            "key": "hanh_vi_vi_pham",
+            "label": "Hành vi vi phạm",
+            "question": "Hành vi vi phạm của đối tượng (Ví dụ: đi không đúng làn đường gây tai nạn, chạy quá tốc độ...):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn đề nghị giải quyết tai nạn giao thông.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

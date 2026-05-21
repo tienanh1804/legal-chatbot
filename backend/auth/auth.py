@@ -85,13 +85,12 @@ async def get_current_user(
     )
     try:
         payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])
-        username: str = payload.get("sub")
-        if username is None:
+        user_id: str = payload.get("sub")
+        if user_id is None:
             raise credentials_exception
-        token_data = TokenData(username=username)
     except JWTError:
         raise credentials_exception
-    user = get_user(db, username=token_data.username)
+    user = db.query(models.User).filter(models.User.id == int(user_id)).first()
     if user is None:
         raise credentials_exception
     return user
@@ -113,12 +112,12 @@ async def get_current_user_optional(
         return None
     try:
         payload = jwt.decode(token, JWT_SECRET_KEY, algorithms=[JWT_ALGORITHM])
-        username: Optional[str] = payload.get("sub")
-        if username is None:
+        user_id: Optional[str] = payload.get("sub")
+        if user_id is None:
             return None
     except JWTError:
         return None
-    return get_user(db, username=username)
+    return db.query(models.User).filter(models.User.id == int(user_id)).first()
 
 
 async def get_current_active_user_optional(

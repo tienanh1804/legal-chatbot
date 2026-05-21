@@ -766,17 +766,19 @@ def load_or_create_embeddings(
     logger.info("Creating new document embeddings...")
     embeddings = {}
 
-    # Process documents in batches to avoid memory issues
-    batch_size = 32
+    # Process documents in batches - larger batches = much faster on CPU
+    batch_size = 512
     doc_ids = list(documents.keys())
+    logger.info(f"Encoding {len(doc_ids)} document chunks in batches of {batch_size}...")
 
     for i in range(0, len(doc_ids), batch_size):
         batch_ids = doc_ids[i : i + batch_size]
         batch_texts = [documents[doc_id] for doc_id in batch_ids]
 
+        logger.info(f"Encoding batch {i//batch_size + 1}/{(len(doc_ids)-1)//batch_size + 1} ({len(batch_ids)} docs)...")
         # Encode batch
         batch_embeddings = model.encode(
-            batch_texts, show_progress_bar=True, convert_to_tensor=False
+            batch_texts, show_progress_bar=False, convert_to_tensor=False
         )
 
         # Store embeddings
@@ -1011,7 +1013,11 @@ def load_or_create_document_cache(
 
     # Read documents from directory
     logger.info(f"Reading documents from directory: {directory}")
-    documents = read_markdown_files(directory)
+    raw_documents = read_markdown_files(directory)
+    
+    # Chunk documents before caching to prevent huge API prompts
+    logger.info("Chunking documents...")
+    documents = chunk_documents(raw_documents, chunk_size=1500, overlap=300)
 
     # Save to cache
     try:
@@ -1183,53 +1189,84 @@ def format_hybrid_results(hybrid_results, documents, doc_metadata):
                 logger.warning(f"No content found for document ID: {original_doc_id}")
                 continue  # Skip this document
 
-        # Get metadata
+        # Get metadata - handle chunk IDs like "ds_1.md#chunk0" -> base "ds_1"
         metadata = doc_metadata.get(actual_doc_id, {})
 
-        # If metadata is empty, try to find metadata with a similar ID
+        # If metadata is empty, try chunk-aware ID variations
         if not metadata:
-            # Try all possible variations
-            for possible_id in doc_metadata.keys():
-                # Check if the document ID contains the original ID or vice versa
-                if original_doc_id in possible_id or possible_id in original_doc_id:
-                    metadata = doc_metadata.get(possible_id, {})
-                    if metadata:
-                        logger.info(
-                            f"Found metadata using similar ID: {possible_id} for {original_doc_id}"
-                        )
-                        break
+            # Strip chunk suffix: "ds_1.md#chunk0" -> "ds_1.md" -> "ds_1"
+            base_id = actual_doc_id
+            if "#chunk" in base_id:
+                base_id = base_id.split("#chunk")[0]  # e.g. "ds_1.md"
+            if base_id.endswith(".md"):
+                base_id = base_id[:-3]  # e.g. "ds_1"
 
-            # If still no metadata, log warning and create default metadata from content
+            # Try the base_id directly
+            metadata = doc_metadata.get(base_id, {})
+
+            # Also try original_doc_id stripped the same way
             if not metadata:
-                logger.warning(
-                    f"No metadata found for document ID: {original_doc_id}, creating default metadata"
+                orig_base = original_doc_id
+                if "#chunk" in orig_base:
+                    orig_base = orig_base.split("#chunk")[0]
+                if orig_base.endswith(".md"):
+                    orig_base = orig_base[:-3]
+                metadata = doc_metadata.get(orig_base, {})
+
+            # Fuzzy fallback: check all metadata keys
+            if not metadata:
+                for possible_id in doc_metadata.keys():
+                    if orig_base in possible_id or possible_id in orig_base:
+                        metadata = doc_metadata.get(possible_id, {})
+                        if metadata:
+                            logger.info(
+                                f"Found metadata using similar ID: {possible_id} for {original_doc_id}"
+                            )
+                            break
+
+        # Map CSV schema (Content/Number/Source) to internal schema if needed
+        if metadata and "document_title" not in metadata:
+            metadata = {
+                "document_title": metadata.get("Content") or metadata.get("content", ""),
+                "decision_number": metadata.get("Number;;;;") or metadata.get("Number") or metadata.get("number", ""),
+                "source": metadata.get("Source") or metadata.get("source", ""),
+                "agency": metadata.get("agency", ""),
+                "context": metadata.get("context", ""),
+                "date": metadata.get("date", ""),
+            }
+
+        # If still no metadata, build default from content
+        if not metadata:
+            logger.warning(
+                f"No metadata found for document ID: {original_doc_id}, creating default metadata"
+            )
+            # Extract title from content (first line that starts with #)
+            lines = content.split("\n")
+            document_title = ""
+            for line in lines:
+                if line.strip().startswith("#"):
+                    document_title = line.strip().replace("#", "").strip()
+                    break
+
+            # If no title found, use first 50 characters of content
+            if not document_title and content:
+                document_title = (
+                    content[:50] + "..." if len(content) > 50 else content
                 )
-                # Extract title from content (first line that starts with #)
-                lines = content.split("\n")
-                document_title = ""
-                for line in lines:
-                    if line.strip().startswith("#"):
-                        document_title = line.strip().replace("#", "").strip()
-                        break
 
-                # If no title found, use first 50 characters of content
-                if not document_title and content:
-                    document_title = (
-                        content[:50] + "..." if len(content) > 50 else content
-                    )
-
-                # Create default metadata
-                metadata = {
-                    "document_title": document_title,
-                    "context": "",
-                    "agency": "",
-                    "decision_number": "",
-                    "date": "",
-                    "source": f"Document ID: {original_doc_id}",
-                }
+            # Create default metadata
+            metadata = {
+                "document_title": document_title,
+                "context": "",
+                "agency": "",
+                "decision_number": "",
+                "date": "",
+                "source": f"Document ID: {original_doc_id}",
+            }
 
         # Format result
         formatted_doc = {
+            "id": original_doc_id,
             "content": content,
             "metadata": {
                 "document_title": metadata.get("document_title", ""),

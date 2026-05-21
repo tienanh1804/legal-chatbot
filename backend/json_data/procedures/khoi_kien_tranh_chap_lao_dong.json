@@ -1,0 +1,111 @@
+{
+    "id": "khoi_kien_tranh_chap_lao_dong",
+    "title": "Đơn khởi kiện tranh chấp lao động",
+    "description": "Đơn khởi kiện vụ án tranh chấp lao động (Mẫu số 23-DS) gửi Tòa án nhân dân giải quyết.",
+    "docx_template": "khoi_kien_tranh_chap_lao_dong_template.docx",
+    "fields": [
+        {
+            "key": "dia_diem_ngay",
+            "label": "Địa điểm và ngày làm đơn",
+            "question": "Nhập địa điểm và ngày tháng năm làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        },
+        {
+            "key": "toa_an",
+            "label": "Tòa án có thẩm quyền",
+            "question": "Kính gửi Tòa án nhân dân quận/huyện/tỉnh nào?",
+            "required": true
+        },
+        {
+            "key": "nguoi_khoi_kien",
+            "label": "Họ tên người khởi kiện",
+            "question": "Nhập Họ và tên của người khởi kiện (bạn):",
+            "required": true
+        },
+        {
+            "key": "dia_chi_khoi_kien",
+            "label": "Địa chỉ người khởi kiện",
+            "question": "Nhập địa chỉ cư trú đầy đủ của người khởi kiện:",
+            "required": true
+        },
+        {
+            "key": "sdt_khoi_kien",
+            "label": "SĐT người khởi kiện",
+            "question": "Nhập số điện thoại của người khởi kiện:",
+            "required": true
+        },
+        {
+            "key": "email_khoi_kien",
+            "label": "Email người khởi kiện",
+            "question": "Nhập địa chỉ email của người khởi kiện (nếu có):",
+            "required": false
+        },
+        {
+            "key": "nguoi_bi_kien",
+            "label": "Họ tên người bị kiện",
+            "question": "Nhập Họ và tên (hoặc tên Công ty/Đơn vị) của người bị kiện:",
+            "required": true
+        },
+        {
+            "key": "dia_chi_bi_kien",
+            "label": "Địa chỉ người bị kiện",
+            "question": "Nhập địa chỉ của người bị kiện (hoặc trụ sở công ty bị kiện):",
+            "required": true
+        },
+        {
+            "key": "nguoi_duoc_bao_ve",
+            "label": "Người được bảo vệ (nếu có)",
+            "question": "Nhập Họ tên người có quyền lợi ích được bảo vệ (nếu có):",
+            "required": false
+        },
+        {
+            "key": "dia_chi_duoc_bao_ve",
+            "label": "Địa chỉ người được bảo vệ",
+            "question": "Địa chỉ người được bảo vệ (nếu có):",
+            "required": false
+        },
+        {
+            "key": "nguoi_lien_quan",
+            "label": "Người có quyền lợi nghĩa vụ liên quan",
+            "question": "Họ tên người có quyền lợi, nghĩa vụ liên quan (nếu có):",
+            "required": false
+        },
+        {
+            "key": "dia_chi_lien_quan",
+            "label": "Địa chỉ người liên quan",
+            "question": "Địa chỉ người có quyền lợi nghĩa vụ liên quan (nếu có):",
+            "required": false
+        },
+        {
+            "key": "yeu_cau_toa_an",
+            "label": "Nội dung yêu cầu giải quyết",
+            "question": "Nhập các nội dung yêu cầu Tòa án giải quyết (Ví dụ: Buộc công ty thanh toán tiền lương còn nợ và bồi thường hợp đồng...):",
+            "required": true
+        },
+        {
+            "key": "nguoi_lam_chung",
+            "label": "Người làm chứng (nếu có)",
+            "question": "Họ tên người làm chứng (nếu có):",
+            "required": false
+        },
+        {
+            "key": "dia_chi_lam_chung",
+            "label": "Địa chỉ người làm chứng",
+            "question": "Địa chỉ người làm chứng (nếu có):",
+            "required": false
+        },
+        {
+            "key": "danh_muc_tai_lieu",
+            "label": "Danh mục tài liệu chứng cứ",
+            "question": "Nhập các tài liệu, chứng cứ kèm theo đơn (Ví dụ: Bản sao Hợp đồng lao động, Bảng thanh toán lương...):",
+            "required": true
+        },
+        {
+            "key": "thong_tin_khac",
+            "label": "Các thông tin khác",
+            "question": "Các thông tin khác xét thấy cần thiết (nếu có):",
+            "required": false
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn khởi kiện tranh chấp lao động.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}
