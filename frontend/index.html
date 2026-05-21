@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
@@ -7,8 +7,8 @@
   <link rel="icon" type="image/png" href="/assets/icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/chatgpt.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/chatgpt.css?v=20260518">
 </head>
 <body>
   <div class="app-shell">
@@ -23,7 +23,7 @@
       <div class="sidebar-header">
         <button id="new-chat-btn" class="new-chat-btn" type="button">+ New Chat</button>
         <div class="search">
-          <input id="chat-search" type="text" placeholder="Tìm chat theo tiêu đề..." autocomplete="off">
+          <input id="chat-search" type="text" placeholder="Tìm chat theo tiêu đề..." autocomplete="new-password" name="legal_search_query">
         </div>
       </div>
 
@@ -61,12 +61,18 @@
               <div class="account-dropdown-section" id="login-state">Chưa đăng nhập</div>
               <a class="dropdown-link d-none" href="/login.html" id="login-link">Đăng nhập</a>
               <a class="dropdown-link d-none" href="/register.html" id="register-link">Đăng ký</a>
-              <button class="dropdown-link danger-btn d-none" id="delete-account-btn" type="button">
+              <a class="dropdown-link" id="change-name-btn" href="javascript:void(0)" role="button">
+                Đổi tên tài khoản
+              </a>
+              <a class="dropdown-link" id="change-password-btn" href="javascript:void(0)" role="button">
+                Đổi mật khẩu
+              </a>
+              <a class="dropdown-link danger-btn" id="delete-account-btn" href="javascript:void(0)" role="button">
                 Xóa tài khoản
-              </button>
-              <button class="dropdown-link d-none" id="logout-btn" type="button">
+              </a>
+              <a class="dropdown-link" id="logout-btn" href="javascript:void(0)" role="button">
                 Đăng xuất
-              </button>
+              </a>
             </div>
           </div>
 
@@ -109,6 +115,53 @@
     </div>
   </div>
 
+  <!-- Settings Modal -->
+  <div id="settings-modal" class="doc-preview-modal d-none" role="dialog" aria-modal="true">
+    <div class="doc-preview-backdrop" id="settings-backdrop"></div>
+    <div class="settings-panel">
+      <div class="settings-header">
+        <span id="settings-title" class="settings-title-text">Cài đặt tài khoản</span>
+        <button type="button" id="settings-close" class="settings-close" aria-label="Đóng">×</button>
+      </div>
+      <div class="settings-content">
+        <!-- Change Name Section -->
+        <div id="change-name-section" class="settings-section d-none">
+          <h3>Đổi tên tài khoản</h3>
+          <div class="form-group">
+            <label for="new-username-input">Tên mới</label>
+            <input type="text" id="new-username-input" placeholder="Nhập tên mới...">
+          </div>
+          <button type="button" id="submit-change-name" class="primary-btn">Cập nhật tên</button>
+        </div>
+
+        <!-- Change Password Section -->
+        <div id="change-password-section" class="settings-section d-none">
+          <h3>Đổi mật khẩu</h3>
+          <div class="form-group">
+            <label for="old-password-input">Mật khẩu cũ</label>
+            <input type="password" id="old-password-input" placeholder="Nhập mật khẩu cũ...">
+          </div>
+          <div class="form-group">
+            <label for="new-password-input">Mật khẩu mới</label>
+            <input type="password" id="new-password-input" placeholder="Nhập mật khẩu mới...">
+          </div>
+          <button type="button" id="submit-change-password" class="primary-btn">Đổi mật khẩu</button>
+        </div>
+
+        <!-- Delete Account Confirmation -->
+        <div id="delete-account-section" class="settings-section d-none">
+          <h3 class="danger-text">Xóa tài khoản</h3>
+          <p>Hành động này không thể hoàn tác. Vui lòng nhập mật khẩu để xác nhận.</p>
+          <div class="form-group">
+            <label for="delete-password-input">Mật khẩu xác nhận</label>
+            <input type="password" id="delete-password-input" placeholder="Nhập mật khẩu...">
+          </div>
+          <button type="button" id="submit-delete-account" class="danger-btn">Xác nhận xóa tài khoản</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div id="doc-preview-modal" class="doc-preview-modal d-none" role="dialog" aria-modal="true">
     <div class="doc-preview-backdrop" id="doc-preview-backdrop"></div>
     <div class="doc-preview-panel">
@@ -121,7 +174,7 @@
     </div>
   </div>
 
-  <script src="/js/api.js"></script>
-  <script src="/js/chatgpt.js"></script>
+  <script src="/js/api.js?v=20260518"></script>
+  <script src="/js/chatgpt.js?v=20260518"></script>
 </body>
 </html>

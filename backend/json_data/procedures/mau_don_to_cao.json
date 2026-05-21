@@ -1,0 +1,141 @@
+{
+    "id": "mau_don_to_cao",
+    "title": "Đơn tố cáo hành vi lừa đảo",
+    "description": "Đơn tố cáo gửi cơ quan Công an có thẩm quyền về hành vi lừa đảo chiếm đoạt tài sản.",
+    "docx_template": "mau_don_to_cao_template.docx",
+    "fields": [
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        },
+        {
+            "key": "ten_nguoi_bi_to_cao_tieu_de",
+            "label": "Tên người bị tố cáo (tiêu đề)",
+            "question": "Nhập Họ tên của người bị tố cáo (Ví dụ: Nguyễn Văn B):",
+            "required": true
+        },
+        {
+            "key": "cong_an_tinh_tp",
+            "label": "Cơ quan Công an tiếp nhận",
+            "question": "Kính gửi Công an Tỉnh/Thành phố nào?",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_to_cao",
+            "label": "Họ tên người tố cáo",
+            "question": "Họ và tên đầy đủ của bạn (người tố cáo):",
+            "required": true
+        },
+        {
+            "key": "ngay_sinh_nguoi_to_cao",
+            "label": "Ngày sinh người tố cáo",
+            "question": "Ngày sinh của bạn (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "cccd_nguoi_to_cao",
+            "label": "CCCD người tố cáo",
+            "question": "Số CCCD/Định danh cá nhân của bạn:",
+            "required": true
+        },
+        {
+            "key": "dia_chi_thuong_tru_nguoi_to_cao",
+            "label": "Địa chỉ người tố cáo",
+            "question": "Địa chỉ thường trú đầy đủ của bạn:",
+            "required": true
+        },
+        {
+            "key": "sdt_nguoi_to_cao",
+            "label": "Số điện thoại của bạn",
+            "question": "Số điện thoại liên lạc của bạn:",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_bi_to_cao",
+            "label": "Họ tên người bị tố cáo",
+            "question": "Nhập Họ và tên đầy đủ của người bị tố cáo:",
+            "required": true
+        },
+        {
+            "key": "ngay_sinh_nguoi_bi_to_cao",
+            "label": "Ngày sinh người bị tố cáo",
+            "question": "Ngày sinh người bị tố cáo (nếu biết, nếu không ghi 'Không rõ'):",
+            "required": false
+        },
+        {
+            "key": "dia_chi_nguoi_bi_to_cao",
+            "label": "Địa chỉ người bị tố cáo",
+            "question": "Địa chỉ cư trú hoặc trụ sở làm việc của người bị tố cáo (nếu biết):",
+            "required": true
+        },
+        {
+            "key": "thong_tin_khac_nguoi_bi_to_cao",
+            "label": "Thông tin liên lạc khác",
+            "question": "Số điện thoại, tài khoản ngân hàng, link Facebook... của người bị tố cáo:",
+            "required": false
+        },
+        {
+            "key": "ho_ten_nguoi_bi_to_cao_2",
+            "label": "Xác nhận tên người bị tố cáo",
+            "question": "Xác nhận lại tên người bị tố cáo một lần nữa:",
+            "required": true
+        },
+        {
+            "key": "ngay_dau",
+            "label": "Bắt đầu từ ngày",
+            "question": "Hành vi lừa đảo diễn ra từ ngày nào (dd/mm/yyyy)?",
+            "required": true
+        },
+        {
+            "key": "ngay_cuoi",
+            "label": "Đến ngày",
+            "question": "Đến ngày nào (dd/mm/yyyy)?",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_bi_to_cao_3",
+            "label": "Tên người bị tố cáo (hành vi)",
+            "question": "Xác nhận lại tên người bị tố cáo (cho mục diễn giải hành vi):",
+            "required": true
+        },
+        {
+            "key": "hanh_vi_gian_doi",
+            "label": "Chi tiết hành vi gian dối",
+            "question": "Mô tả chi tiết các thủ đoạn, hành vi lừa đảo của đối tượng (Ví dụ: hứa hẹn xin việc, bán đất khống...):",
+            "required": true
+        },
+        {
+            "key": "so_tien_thiet_hai",
+            "label": "Số tiền bị lừa",
+            "question": "Nhập số tiền hoặc mô tả tài sản bạn đã chuyển giao bị đối tượng chiếm đoạt:",
+            "required": true
+        },
+        {
+            "key": "hinh_thuc_chuyen",
+            "label": "Hình thức chuyển tiền",
+            "question": "Hình thức chuyển giao tài sản (Ví dụ: chuyển khoản ngân hàng, tiền mặt...):",
+            "required": true
+        },
+        {
+            "key": "tong_gia_tri_thiet_hai",
+            "label": "Tổng giá trị thiệt hại",
+            "question": "Tổng giá trị thiệt hại bằng tiền (Ví dụ: 200.000.000 đồng):",
+            "required": true
+        },
+        {
+            "key": "ho_ten_nguoi_bi_to_cao_4",
+            "label": "Tên người bị tố cáo (sau nhận tiền)",
+            "question": "Xác nhận lại tên người bị tố cáo (cho mục sau khi nhận tài sản):",
+            "required": true
+        },
+        {
+            "key": "tai_lieu_khac",
+            "label": "Tài liệu chứng cứ khác",
+            "question": "Nhập tên các tài liệu, chứng cứ kèm theo đơn (sao kê tài khoản, tin nhắn...):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn tố cáo hành vi lừa đảo.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

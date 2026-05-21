@@ -36,6 +36,8 @@ const mobileSidebarToggleBtn = document.getElementById(
 
 const accountToggleBtn = document.getElementById("account-toggle-btn");
 const accountDropdownEl = document.getElementById("account-dropdown");
+const changeNameBtnEl = document.getElementById("change-name-btn");
+const changePasswordBtnEl = document.getElementById("change-password-btn");
 const deleteAccountBtnEl = document.getElementById("delete-account-btn");
 const accountToggleNameEl = document.getElementById("account-toggle-name");
 
@@ -414,10 +416,24 @@ function updateAuthStateUI() {
 
   if (token) {
     loginStateEl.textContent = "Đã đăng nhập";
+    // Show account actions
+    changeNameBtnEl?.classList.remove("d-none");
+    changePasswordBtnEl?.classList.remove("d-none");
+    deleteAccountBtnEl?.classList.remove("d-none");
     logoutBtn?.classList.remove("d-none");
+    
+    // Hide auth links
     loginLinkEl?.classList.add("d-none");
     registerLinkEl?.classList.add("d-none");
-    deleteAccountBtnEl?.classList.remove("d-none");
+    if (loginLinkEl) loginLinkEl.style.display = "none";
+    if (registerLinkEl) registerLinkEl.style.display = "none";
+    
+    // Force display style
+    if (changeNameBtnEl) changeNameBtnEl.style.display = "flex";
+    if (changePasswordBtnEl) changePasswordBtnEl.style.display = "flex";
+    if (deleteAccountBtnEl) deleteAccountBtnEl.style.display = "flex";
+    if (logoutBtn) logoutBtn.style.display = "flex";
+
     if (accountToggleNameEl) {
       accountToggleNameEl.textContent = state.username ?? "Tài khoản";
     }
@@ -426,7 +442,18 @@ function updateAuthStateUI() {
     logoutBtn?.classList.add("d-none");
     loginLinkEl?.classList.remove("d-none");
     registerLinkEl?.classList.remove("d-none");
+    if (loginLinkEl) loginLinkEl.style.display = "flex";
+    if (registerLinkEl) registerLinkEl.style.display = "flex";
+    
+    // Hide account actions
+    changeNameBtnEl?.classList.add("d-none");
+    changePasswordBtnEl?.classList.add("d-none");
     deleteAccountBtnEl?.classList.add("d-none");
+    
+    if (changeNameBtnEl) changeNameBtnEl.style.display = "none";
+    if (changePasswordBtnEl) changePasswordBtnEl.style.display = "none";
+    if (deleteAccountBtnEl) deleteAccountBtnEl.style.display = "none";
+    if (logoutBtn) logoutBtn.style.display = "none";
     if (accountToggleNameEl) {
       accountToggleNameEl.textContent = "Tài khoản";
     }
@@ -586,6 +613,8 @@ function createMessageElement(message) {
   } else if (!hasText && message.attachment && message.role === "user") {
     contentEl.style.display = "none";
     contentEl.innerHTML = "";
+  } else if (message.isHtml) {
+    contentEl.innerHTML = message.content ?? "";
   } else {
     contentEl.innerHTML = markdownToHtml(message.content ?? "");
   }
@@ -1007,7 +1036,7 @@ async function downloadWithAuth(url, filenameFallback) {
   setTimeout(() => URL.revokeObjectURL(objectUrl), 1500);
 }
 
-function upsertProcedureDownloadActions(bubbleEl, sessionId) {
+function upsertProcedureDownloadActions(bubbleEl, sessionId, templateId) {
   if (!bubbleEl) return;
   const existing = bubbleEl.querySelector(".procedure-download-actions");
   if (existing) existing.remove();
@@ -1015,30 +1044,186 @@ function upsertProcedureDownloadActions(bubbleEl, sessionId) {
 
   const box = document.createElement("div");
   box.className = "procedure-download-actions";
-  box.style.display = "flex";
-  box.style.gap = "8px";
-  box.style.marginTop = "10px";
 
-  const mkBtn = (label) => {
+  const mkBtn = (label, typeClass) => {
     const b = document.createElement("button");
     b.type = "button";
-    b.className = "icon-btn";
+    b.className = `procedure-btn ${typeClass}`;
     b.textContent = label;
     return b;
   };
 
   const base = `${getApiBaseUrl()}/procedures/sessions/${sessionId}/export`;
-  const docxBtn = mkBtn("Tải DOCX");
+  const docxBtn = mkBtn("Tải DOCX", "docx");
   docxBtn.addEventListener("click", () =>
     downloadWithAuth(`${base}?format=docx`, `procedure_${sessionId}.docx`)
   );
-  const pdfBtn = mkBtn("Tải PDF");
-  pdfBtn.addEventListener("click", () =>
-    downloadWithAuth(`${base}?format=pdf`, `procedure_${sessionId}.pdf`)
-  );
+
   box.appendChild(docxBtn);
-  box.appendChild(pdfBtn);
+
+  if (templateId) {
+    const blankBtn = mkBtn("Tải biểu mẫu trống", "blank");
+    blankBtn.addEventListener("click", () =>
+      downloadWithAuth(
+        `${getApiBaseUrl()}/procedures/templates/${templateId}/download-blank`,
+        `${templateId}_trong.docx`
+      )
+    );
+    box.appendChild(blankBtn);
+  }
+
   bubbleEl.appendChild(box);
+}
+
+const CATEGORY_MAP = {
+  giao_thong: {
+    label: "🚗 Giao thông",
+    templates: [
+      { id: "de_nghi_giai_quyet_tai_nan_giao_thong", title: "Đơn đề nghị giải quyết tai nạn giao thông" },
+      { id: "khoi_kien_gay_tai_nan_giao_thong", title: "Đơn khởi kiện vụ án giao thông" }
+    ]
+  },
+  dan_su: {
+    label: "⚖️ Dân sự",
+    templates: [
+      { id: "don_khieu_nai", title: "Đơn khiếu nại (Mẫu số 01)" },
+      { id: "don_xin_tam_hoan_nvqs", title: "Đơn xin tạm hoãn nghĩa vụ quân sự" },
+      { id: "mau_don_to_cao", title: "Đơn tố cáo hành vi lừa đảo" },
+      { id: "don_to_giac_toi_pham", title: "Đơn tố giác tội phạm" }
+    ]
+  },
+  lao_dong: {
+    label: "💼 Lao động",
+    templates: [
+      { id: "khoi_kien_tranh_chap_lao_dong", title: "Đơn khởi kiện tranh chấp lao động" },
+      { id: "de_nghi_ki_tiep_hop_dong_lao_dong", title: "Đơn đề nghị ký tiếp hợp đồng lao động" },
+      { id: "de_nghi_huong_tro_cap_that_nghiep", title: "Đơn đề nghị hưởng trợ cấp thất nghiệp" }
+    ]
+  },
+  khac: {
+    label: "📁 Khác",
+    templates: [
+      { id: "don_thuan_tinh_ly_hon_mau", title: "Đơn thuận tình ly hôn chính thức" },
+      { id: "don_xin_hoc_them", title: "Đơn xin học lớp bồi dưỡng kiến thức" },
+      { id: "don_xin_xac_nhan_gia_dinh_kho_khan", title: "Đơn xin xác nhận hoàn cảnh khó khăn" },
+      { id: "don_ly_hon_don_phuong_mau", title: "Đơn ly hôn đơn phương chính thức" }
+    ]
+  }
+};
+
+function renderCategoryMenuHtml() {
+  return `
+    <div style="margin-bottom: 8px;">Chào bạn! Vui lòng chọn nhóm thủ tục hành chính bạn cần thực hiện dưới đây:</div>
+    <div class="procedure-menu-box">
+      <button type="button" class="procedure-cat-btn" data-cat="giao_thong">🚗 Giao thông</button>
+      <button type="button" class="procedure-cat-btn" data-cat="dan_su">⚖️ Dân sự</button>
+      <button type="button" class="procedure-cat-btn" data-cat="lao_dong">💼 Lao động</button>
+      <button type="button" class="procedure-cat-btn" data-cat="khac">📁 Khác</button>
+    </div>
+  `;
+}
+
+function renderTemplateMenuHtml(catKey) {
+  const cat = CATEGORY_MAP[catKey];
+  if (!cat) return renderCategoryMenuHtml();
+  
+  const buttonsHtml = cat.templates.map(t => {
+    return `<button type="button" class="procedure-tmpl-btn" data-tid="${t.id}">📄 ${t.title}</button>`;
+  }).join("");
+  
+  return `
+    <div style="margin-bottom: 8px;">Bạn đã chọn lĩnh vực <strong>${cat.label}</strong>. Vui lòng chọn biểu mẫu cần lập:</div>
+    <div class="procedure-menu-box">
+      ${buttonsHtml}
+      <button type="button" class="procedure-back-btn">⬅️ Quay lại</button>
+    </div>
+  `;
+}
+
+function updateLastAiMessage(html) {
+  const cid = state.currentConversationId;
+  const messages = getCachedMessages(cid);
+  if (messages.length === 0) return;
+  
+  let lastAiIdx = -1;
+  for (let i = messages.length - 1; i >= 0; i--) {
+    if (messages[i].role === "ai") {
+      lastAiIdx = i;
+      break;
+    }
+  }
+  
+  if (lastAiIdx !== -1) {
+    messages[lastAiIdx].content = html;
+    messages[lastAiIdx].isHtml = true;
+    setCachedMessages(cid, messages);
+    
+    const aiRows = messagesEl.querySelectorAll(".message-row.ai");
+    if (aiRows.length > 0) {
+      const lastAiRow = aiRows[aiRows.length - 1];
+      const bubbleEl = lastAiRow.querySelector(".message-bubble");
+      const contentEl = bubbleEl.querySelector(".content");
+      if (contentEl) {
+        contentEl.innerHTML = html;
+      }
+    }
+  }
+}
+
+async function startProcedureFromMenu(tid) {
+  const token = state.token;
+  if (!token) {
+    appendInlineError("Bạn cần đăng nhập để làm thủ tục.");
+    return;
+  }
+
+  state.isLoading = true;
+  setSendEnabled(false);
+  showTyping(true);
+
+  try {
+    const templates = await loadProcedureTemplates(token);
+    const selectedTemplate = templates.find(x => x.id === tid) || { title: tid };
+
+    updateLastAiMessage(`Đã chọn biểu mẫu: <strong>${selectedTemplate.title}</strong>`);
+
+    const started = await apiRequest(
+      "/procedures/sessions",
+      "POST",
+      JSON.stringify({ template_id: tid }),
+      token,
+      "application/json"
+    );
+
+    setProcedureSession({
+      sessionId: started?.session_id,
+      templateId: started?.template_id ?? tid,
+      title: selectedTemplate.title,
+    });
+
+    const firstQuestion = started?.question || "Câu hỏi đầu tiên chưa sẵn sàng.";
+    const answer = `Bắt đầu thủ tục: **${selectedTemplate.title}**\n\nMình sẽ hỏi lần lượt để bạn điền thông tin. (Gõ "hủy" để dừng)\n\n${firstQuestion}`;
+    
+    const cid = state.currentConversationId;
+    const messages = getCachedMessages(cid);
+    const newAiMsg = { role: "ai", content: answer, references: [] };
+    const next = [...messages, newAiMsg];
+    
+    setCachedMessages(cid, next);
+    showTyping(false);
+    
+    const row = appendMessageToDom(newAiMsg);
+    const bubbleEl = row.querySelector(".message-bubble");
+    if (bubbleEl) {
+      await revealStreamingText(bubbleEl, answer);
+    }
+  } catch (e) {
+    appendInlineError(`Không thể khởi tạo thủ tục: ${e?.message ?? e}`);
+  } finally {
+    state.isLoading = false;
+    setSendEnabled(true);
+    showTyping(false);
+  }
 }
 
 async function handleSend(question) {
@@ -1072,53 +1257,34 @@ async function handleSend(question) {
     const att = getAttachedDocument();
     const activeProc = getProcedureSession();
 
-    // Switch procedure intent:
-    // If a procedure session is active but the user asks to start another procedure,
-    // start the new one immediately in the same chat.
-    if (activeProc && activeProc.sessionId && isProcedureStartIntent(trimmed)) {
-      const templates = await loadProcedureTemplates(token);
-      const tid = matchProcedureTemplateId(trimmed, templates);
-      if (tid && tid !== activeProc.templateId) {
-        const started = await apiRequest(
-          "/procedures/sessions",
-          "POST",
-          JSON.stringify({ template_id: tid }),
-          token,
-          "application/json"
-        );
-        setProcedureSession({
-          sessionId: started?.session_id,
-          templateId: started?.template_id ?? tid,
-          title: (templates.find((x) => x.id === tid)?.title) || tid,
-        });
+    // Start or Switch procedure intent:
+    if (isProcedureStartIntent(trimmed)) {
+      setProcedureSession(null); // Clear active session
 
-        const answer =
-          `Đã chuyển sang thủ tục mới: ${tid}\n\n` +
-          `${started?.question || "Câu hỏi đầu tiên chưa sẵn sàng."}`;
-        const references = [];
-        const beforeMessages = getCachedMessages(prevCid);
-        const next = beforeMessages.map((m, idx) => {
-          const isLastAiSkeleton = m.role === "ai" && m.isSkeleton;
-          if (idx === beforeMessages.length - 1 && isLastAiSkeleton) {
-            return { role: "ai", content: answer, references: references };
-          }
-          return m;
-        });
-        setCachedMessages(state.currentConversationId, next);
-        showTyping(false);
-        const lastAiRow = Array.from(messagesEl.querySelectorAll(".message-row.ai")).pop();
-        const lastBubbleEl = lastAiRow?.querySelector(".message-bubble");
-        if (lastBubbleEl) {
-          await revealStreamingText(lastBubbleEl, answer);
-          upsertReferencesInBubble(lastBubbleEl, references);
+      const answer = renderCategoryMenuHtml();
+      const beforeMessages = getCachedMessages(prevCid);
+      const next = beforeMessages.map((m, idx) => {
+        const isLastAiSkeleton = m.role === "ai" && m.isSkeleton;
+        if (idx === beforeMessages.length - 1 && isLastAiSkeleton) {
+          return { role: "ai", content: answer, isHtml: true, references: [] };
         }
-        await reloadSidebar();
-        if (state.currentConversationId != null) renderConversationsList();
-        state.isLoading = false;
-        setSendEnabled(true);
-        showTyping(false);
-        return;
+        return m;
+      });
+      setCachedMessages(state.currentConversationId, next);
+      showTyping(false);
+      const lastAiRow = Array.from(messagesEl.querySelectorAll(".message-row.ai")).pop();
+      const lastBubbleEl = lastAiRow?.querySelector(".message-bubble");
+      if (lastBubbleEl) {
+        updateSkeletonToText(lastBubbleEl, answer, { final: true });
+        const contentEl = lastBubbleEl.querySelector(".content");
+        if (contentEl) contentEl.innerHTML = answer;
       }
+      await reloadSidebar();
+      if (state.currentConversationId != null) renderConversationsList();
+      state.isLoading = false;
+      setSendEnabled(true);
+      showTyping(false);
+      return;
     }
 
     // Cancel procedure flow
@@ -1183,7 +1349,7 @@ async function handleSend(question) {
         await revealStreamingText(lastBubbleEl, answer);
         upsertReferencesInBubble(lastBubbleEl, references);
         if (done) {
-          upsertProcedureDownloadActions(lastBubbleEl, activeProc.sessionId);
+          upsertProcedureDownloadActions(lastBubbleEl, activeProc.sessionId, activeProc.templateId);
           // Auto-exit procedure mode after completion so subsequent messages go to /query.
           setProcedureSession(null);
         }
@@ -1196,83 +1362,7 @@ async function handleSend(question) {
       return;
     }
 
-    // Start procedure wizard if user intent suggests it.
-    if (isProcedureStartIntent(trimmed)) {
-      const templates = await loadProcedureTemplates(token);
-      const tid = matchProcedureTemplateId(trimmed, templates);
-      if (tid) {
-        const started = await apiRequest(
-          "/procedures/sessions",
-          "POST",
-          JSON.stringify({ template_id: tid }),
-          token,
-          "application/json"
-        );
-        setProcedureSession({
-          sessionId: started?.session_id,
-          templateId: started?.template_id ?? tid,
-          title: (templates.find((x) => x.id === tid)?.title) || tid,
-        });
-        const answer =
-          `Bắt đầu thủ tục: ${tid}\n\n` +
-          `Mình sẽ hỏi lần lượt để bạn điền thông tin. (Gõ \"hủy thủ tục\" để dừng)\n\n` +
-          `${started?.question || "Câu hỏi đầu tiên chưa sẵn sàng."}`;
-        const references = [];
-        const beforeMessages = getCachedMessages(prevCid);
-        const next = beforeMessages.map((m, idx) => {
-          const isLastAiSkeleton = m.role === "ai" && m.isSkeleton;
-          if (idx === beforeMessages.length - 1 && isLastAiSkeleton) {
-            return { role: "ai", content: answer, references: references };
-          }
-          return m;
-        });
-        setCachedMessages(state.currentConversationId, next);
-        showTyping(false);
-        const lastAiRow = Array.from(messagesEl.querySelectorAll(".message-row.ai")).pop();
-        const lastBubbleEl = lastAiRow?.querySelector(".message-bubble");
-        if (lastBubbleEl) {
-          await revealStreamingText(lastBubbleEl, answer);
-          upsertReferencesInBubble(lastBubbleEl, references);
-        }
-        await reloadSidebar();
-        if (state.currentConversationId != null) renderConversationsList();
-        state.isLoading = false;
-        setSendEnabled(true);
-        showTyping(false);
-        return;
-      }
-      // No template matched -> explain how to start
-      const answer =
-        "Bạn muốn làm thủ tục nào? Ví dụ:\n" +
-        '- "làm thủ tục ly hôn thuận tình"\n' +
-        '- "làm thủ tục ly hôn đơn phương"\n' +
-        '- "làm thủ tục cấp đổi sổ đỏ"\n' +
-        '- "làm thủ tục đăng ký khai sinh"\n' +
-        '- Hoặc gõ: /thu_tuc <template_id>\n';
-      const references = [];
-      const beforeMessages = getCachedMessages(prevCid);
-      const next = beforeMessages.map((m, idx) => {
-        const isLastAiSkeleton = m.role === "ai" && m.isSkeleton;
-        if (idx === beforeMessages.length - 1 && isLastAiSkeleton) {
-          return { role: "ai", content: answer, references: references };
-        }
-        return m;
-      });
-      setCachedMessages(state.currentConversationId, next);
-      showTyping(false);
-      const lastAiRow = Array.from(messagesEl.querySelectorAll(".message-row.ai")).pop();
-      const lastBubbleEl = lastAiRow?.querySelector(".message-bubble");
-      if (lastBubbleEl) {
-        await revealStreamingText(lastBubbleEl, answer);
-        upsertReferencesInBubble(lastBubbleEl, references);
-      }
-      await reloadSidebar();
-      if (state.currentConversationId != null) renderConversationsList();
-      state.isLoading = false;
-      setSendEnabled(true);
-      showTyping(false);
-      return;
-    }
+
 
     const payload = {
       query: trimmed,
@@ -1400,6 +1490,35 @@ function appendInlineError(text) {
 // Event binding
 // ----------------------------
 function bindUI() {
+  // Bind click listener for interactive procedure menu
+  messagesEl?.addEventListener("click", async (e) => {
+    const catBtn = e.target.closest(".procedure-cat-btn");
+    const tmplBtn = e.target.closest(".procedure-tmpl-btn");
+    const backBtn = e.target.closest(".procedure-back-btn");
+
+    if (catBtn) {
+      e.stopPropagation();
+      const cat = catBtn.getAttribute("data-cat");
+      const html = renderTemplateMenuHtml(cat);
+      updateLastAiMessage(html);
+      return;
+    }
+
+    if (backBtn) {
+      e.stopPropagation();
+      const html = renderCategoryMenuHtml();
+      updateLastAiMessage(html);
+      return;
+    }
+
+    if (tmplBtn) {
+      e.stopPropagation();
+      const tid = tmplBtn.getAttribute("data-tid");
+      await startProcedureFromMenu(tid);
+      return;
+    }
+  });
+
   themeToggleBtn?.addEventListener("click", () => {
     const next = state.theme === "dark" ? "light" : "dark";
     setTheme(next);
@@ -1437,33 +1556,6 @@ function bindUI() {
     accountDropdownEl?.classList.add("d-none");
   });
 
-  deleteAccountBtnEl?.addEventListener("click", async () => {
-    if (!state.token) return;
-
-    const password = window.prompt(
-      "Nhập mật khẩu để xóa tài khoản:"
-    );
-    if (!password) return;
-
-    try {
-      await apiRequest(
-        "/users/delete-account",
-        "POST",
-        JSON.stringify({ password }),
-        state.token,
-        "application/json"
-      );
-
-      localStorage.removeItem("token");
-      state.token = null;
-      state.username = null;
-      updateAuthStateUI();
-      accountDropdownEl?.classList.add("d-none");
-      startNewChat();
-    } catch (err) {
-      appendInlineError(`Không thể xóa tài khoản: ${err.message}`);
-    }
-  });
 
   // Sidebar suggestions (2-3 questions)
   const sidebarSuggestions =
@@ -1610,3 +1702,88 @@ init().catch((e) => {
   setSendEnabled(true);
 });
 
+// ----------------------------
+// Settings Modal Logic
+// ----------------------------
+const settingsModal = document.getElementById("settings-modal");
+const settingsClose = document.getElementById("settings-close");
+const settingsBackdrop = document.getElementById("settings-backdrop");
+
+function closeSettings() {
+  settingsModal?.classList.add("d-none");
+  // Clear inputs
+  document.getElementById("new-username-input").value = "";
+  document.getElementById("old-password-input").value = "";
+  document.getElementById("new-password-input").value = "";
+  document.getElementById("delete-password-input").value = "";
+}
+
+function openSettings(sectionId) {
+  // Hide all sections
+  document.querySelectorAll(".settings-section").forEach((s) => s.classList.add("d-none"));
+  // Show target section
+  document.getElementById(sectionId)?.classList.remove("d-none");
+  // Update title
+  const titles = {
+    "change-name-section": "Đổi tên tài khoản",
+    "change-password-section": "Đổi mật khẩu",
+    "delete-account-section": "Xóa tài khoản",
+  };
+  const titleEl = document.getElementById("settings-title");
+  if (titleEl) titleEl.textContent = titles[sectionId] || "Cài đặt";
+
+  settingsModal?.classList.remove("d-none");
+  accountDropdownEl?.classList.add("d-none");
+}
+
+settingsClose?.addEventListener("click", closeSettings);
+settingsBackdrop?.addEventListener("click", closeSettings);
+
+changeNameBtnEl?.addEventListener("click", () => openSettings("change-name-section"));
+changePasswordBtnEl?.addEventListener("click", () => openSettings("change-password-section"));
+deleteAccountBtnEl?.addEventListener("click", () => openSettings("delete-account-section"));
+
+document.getElementById("submit-change-name")?.addEventListener("click", async () => {
+  const newUsername = document.getElementById("new-username-input").value.trim();
+  if (!newUsername) return alert("Vui lòng nhập tên mới");
+
+  try {
+    const data = await apiRequest("/users/update-username", "POST", JSON.stringify({ new_username: newUsername }), state.token);
+    state.username = data.new_username;
+    updateAuthStateUI();
+    alert("Đổi tên thành công");
+    closeSettings();
+  } catch (e) {
+    alert(e.message);
+  }
+});
+
+document.getElementById("submit-change-password")?.addEventListener("click", async () => {
+  const oldPassword = document.getElementById("old-password-input").value;
+  const newPassword = document.getElementById("new-password-input").value;
+  if (!oldPassword || !newPassword) return alert("Vui lòng nhập đầy đủ thông tin");
+
+  try {
+    await apiRequest("/users/change-password", "POST", JSON.stringify({ old_password: oldPassword, new_password: newPassword }), state.token);
+    alert("Đổi mật khẩu thành công");
+    closeSettings();
+  } catch (e) {
+    alert(e.message);
+  }
+});
+
+document.getElementById("submit-delete-account")?.addEventListener("click", async () => {
+  const password = document.getElementById("delete-password-input").value;
+  if (!password) return alert("Vui lòng nhập mật khẩu để xác nhận");
+
+  if (!confirm("Bạn có chắc chắn muốn xóa tài khoản? Hành động này không thể hoàn tác.")) return;
+
+  try {
+    await apiRequest("/users/delete-account", "POST", JSON.stringify({ password }), state.token);
+    alert("Tài khoản đã được xóa");
+    localStorage.removeItem("token");
+    window.location.reload();
+  } catch (e) {
+    alert(e.message);
+  }
+});

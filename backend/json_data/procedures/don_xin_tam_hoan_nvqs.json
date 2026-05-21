@@ -1,0 +1,129 @@
+{
+    "id": "don_xin_tam_hoan_nvqs",
+    "title": "Đơn xin tạm hoãn nghĩa vụ quân sự",
+    "description": "Đơn đề nghị Hội đồng nghĩa vụ quân sự xem xét tạm hoãn gọi nhập ngũ theo Luật Nghĩa vụ quân sự 2015.",
+    "docx_template": "don_xin_tam_hoan_nvqs_template.docx",
+    "fields": [
+        {
+            "key": "huyen_quan",
+            "label": "Huyện/Quận",
+            "question": "Nhập tên Quận/Huyện của Hội đồng NVQS tiếp nhận đơn:",
+            "required": true
+        },
+        {
+            "key": "xa_phuong",
+            "label": "Xã/Phường",
+            "question": "Nhập tên Xã/Phường của Hội đồng NVQS tiếp nhận đơn:",
+            "required": true
+        },
+        {
+            "key": "ho_ten",
+            "label": "Họ và tên của bạn",
+            "question": "Nhập Họ và tên đầy đủ của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_sinh",
+            "label": "Ngày sinh",
+            "question": "Nhập ngày tháng năm sinh của bạn (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "so_cccd",
+            "label": "Số CCCD",
+            "question": "Nhập số CCCD của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_cap_cccd",
+            "label": "Ngày cấp CCCD",
+            "question": "Nhập ngày cấp CCCD (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "noi_cap_cccd",
+            "label": "Nơi cấp CCCD",
+            "question": "Nhập nơi cấp CCCD (Ví dụ: Cục Cảnh sát QLHC về trật tự xã hội):",
+            "required": true
+        },
+        {
+            "key": "sdt",
+            "label": "Số điện thoại",
+            "question": "Nhập số điện thoại của bạn:",
+            "required": true
+        },
+        {
+            "key": "que_quan",
+            "label": "Quê quán",
+            "question": "Nhập quê quán của bạn (Tỉnh/Thành phố):",
+            "required": true
+        },
+        {
+            "key": "noi_thuong_tru",
+            "label": "Nơi thường trú",
+            "question": "Nhập địa chỉ nơi đăng ký thường trú của bạn:",
+            "required": true
+        },
+        {
+            "key": "noi_o_hien_nay",
+            "label": "Nơi ở hiện nay",
+            "question": "Nhập địa chỉ nơi ở hiện nay của bạn:",
+            "required": true
+        },
+        {
+            "key": "nam_nhap_ngu",
+            "label": "Năm gọi nhập ngũ",
+            "question": "Nhập năm tuyển quân bạn muốn hoãn gọi nhập ngũ (Ví dụ: 2026):",
+            "required": true
+        },
+        {
+            "key": "ly_do",
+            "label": "Lý do hoãn nghĩa vụ",
+            "question": "Lý do xin tạm hoãn của bạn (Ví dụ: Đang là sinh viên theo học hệ đào tạo chính quy):",
+            "required": true
+        },
+        {
+            "key": "truong_hoc",
+            "label": "Tên trường đại học/cao đẳng",
+            "question": "Nhập tên trường bạn đang theo học (nếu hoãn do đi học):",
+            "required": false
+        },
+        {
+            "key": "ms_sinh_vien",
+            "label": "Mã số sinh viên",
+            "question": "Nhập mã số sinh viên của bạn (nếu có):",
+            "required": false
+        },
+        {
+            "key": "lop",
+            "label": "Lớp học",
+            "question": "Nhập tên lớp học hiện tại của bạn:",
+            "required": false
+        },
+        {
+            "key": "khoa",
+            "label": "Khoa",
+            "question": "Nhập tên khoa đào tạo của bạn:",
+            "required": false
+        },
+        {
+            "key": "nam_bat_dau_dao_tao",
+            "label": "Năm bắt đầu học",
+            "question": "Hai số cuối của năm bắt đầu khóa học (Ví dụ: 22 cho năm 2022):",
+            "required": false
+        },
+        {
+            "key": "nam_ket_thuc_dao_tao",
+            "label": "Năm kết thúc học",
+            "question": "Hai số cuối của năm kết thúc khóa học (Ví dụ: 26 cho năm 2026):",
+            "required": false
+        },
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn xin tạm hoãn nghĩa vụ quân sự.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

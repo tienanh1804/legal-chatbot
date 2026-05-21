@@ -1,0 +1,69 @@
+{
+    "id": "de_nghi_ki_tiep_hop_dong_lao_dong",
+    "title": "Đơn đề nghị ký tiếp hợp đồng lao động",
+    "description": "Đơn đề xuất ban lãnh đạo công ty xem xét gia hạn, ký tiếp hợp đồng lao động mới khi hợp đồng cũ sắp hết hạn.",
+    "docx_template": "de_nghi_ki_tiep_hop_dong_lao_dong_template.docx",
+    "fields": [
+        {
+            "key": "cong_ty",
+            "label": "Tên công ty",
+            "question": "Nhập tên Công ty nơi bạn đang làm việc:",
+            "required": true
+        },
+        {
+            "key": "ho_ten",
+            "label": "Họ và tên của bạn",
+            "question": "Nhập Họ và tên đầy đủ của bạn:",
+            "required": true
+        },
+        {
+            "key": "sinh_nam",
+            "label": "Năm sinh",
+            "question": "Nhập năm sinh của bạn (Ví dụ: 1995):",
+            "required": true
+        },
+        {
+            "key": "chuc_vu",
+            "label": "Chức vụ hiện tại",
+            "question": "Nhập chức vụ/vị trí hiện tại của bạn:",
+            "required": true
+        },
+        {
+            "key": "tu_ngay",
+            "label": "Hợp đồng từ ngày",
+            "question": "Hợp đồng lao động hiện tại ký từ ngày nào (dd/mm/yyyy)?",
+            "required": true
+        },
+        {
+            "key": "den_ngay",
+            "label": "Hợp đồng đến ngày",
+            "question": "Hợp đồng lao động hiện tại hết hạn vào ngày nào (dd/mm/yyyy)?",
+            "required": true
+        },
+        {
+            "key": "so_hdld",
+            "label": "Số hợp đồng lao động",
+            "question": "Nhập số Hợp đồng lao động hiện tại của bạn:",
+            "required": true
+        },
+        {
+            "key": "cong_viec_dat_duoc",
+            "label": "Thành tích, công việc đã đạt được",
+            "question": "Nhập tóm tắt các kết quả, công việc nổi bật bạn đã đạt được tại công ty:",
+            "required": true
+        },
+        {
+            "key": "cong_viec_mong_muon",
+            "label": "Công việc mong muốn tiếp tục làm",
+            "question": "Nhập vị trí/công việc bạn muốn tiếp tục làm (Ví dụ: Nhân viên kỹ thuật):",
+            "required": true
+        },
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn đề nghị ký tiếp hợp đồng lao động.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

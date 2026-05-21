@@ -1,0 +1,93 @@
+{
+    "id": "don_thuan_tinh_ly_hon_mau",
+    "title": "Đơn thuận tình ly hôn chính thức",
+    "description": "Đơn yêu cầu công nhận thuận tình ly hôn, thỏa thuận nuôi con và chia tài sản (Mẫu đơn chuẩn gửi Tòa án).",
+    "docx_template": "don_thuan_tinh_ly_hon_mau_template.docx",
+    "fields": [
+        {
+            "key": "toa_an",
+            "label": "Tòa án có thẩm quyền",
+            "question": "Kính gửi Tòa án nhân dân quận/huyện/tỉnh nào giải quyết việc ly hôn?",
+            "required": true
+        },
+        {
+            "key": "ho_ten_vo_chong",
+            "label": "Họ tên vợ và chồng",
+            "question": "Nhập Họ tên vợ và Họ tên chồng (Ngăn cách bởi dấu phẩy, Ví dụ: Nguyễn Văn A, Trần Thị B):",
+            "required": true
+        },
+        {
+            "key": "dia_chi",
+            "label": "Địa chỉ cư trú của vợ chồng",
+            "question": "Nhập địa chỉ cư trú đầy đủ hiện tại của hai vợ chồng:",
+            "required": true
+        },
+        {
+            "key": "sdt",
+            "label": "Số điện thoại liên lạc",
+            "question": "Nhập số điện thoại liên lạc của hai vợ chồng:",
+            "required": true
+        },
+        {
+            "key": "email",
+            "label": "Email liên lạc",
+            "question": "Nhập địa chỉ thư điện tử của hai vợ chồng (nếu có):",
+            "required": false
+        },
+        {
+            "key": "yeu_cau_toa_an",
+            "label": "Các vấn đề yêu cầu giải quyết",
+            "question": "Nhập các vấn đề yêu cầu Tòa án giải quyết (Ví dụ: Công nhận thuận tình ly hôn; Thỏa thuận quyền nuôi con; Thỏa thuận phân chia tài sản chung...):",
+            "required": true
+        },
+        {
+            "key": "ly_do_yeu_cau",
+            "label": "Lý do và căn cứ ly hôn",
+            "question": "Trình bày tóm tắt lý do ly hôn (Ví dụ: Vợ chồng bất đồng quan điểm, mục đích hôn nhân không đạt được...):",
+            "required": true
+        },
+        {
+            "key": "nguoi_lien_quan",
+            "label": "Người liên quan (nếu có)",
+            "question": "Họ tên và địa chỉ của những người có liên quan (Ví dụ: các con chung...):",
+            "required": false
+        },
+        {
+            "key": "thong_tin_khac",
+            "label": "Các thông tin khác",
+            "question": "Các thông tin khác cần trình bày (nếu có):",
+            "required": false
+        },
+        {
+            "key": "chung_cu_kem_theo",
+            "label": "Tài liệu chứng cứ kèm theo",
+            "question": "Mô tả chung các chứng cứ tài liệu kèm theo (Ví dụ: Đăng ký kết hôn bản gốc, CCCD bản sao...):",
+            "required": true
+        },
+        {
+            "key": "chung_cu_1",
+            "label": "Chứng cứ kèm theo 1",
+            "question": "Nhập tài liệu chứng cứ kèm theo số 1 (Ví dụ: Bản chính Giấy chứng nhận đăng ký kết hôn):",
+            "required": true
+        },
+        {
+            "key": "chung_cu_2",
+            "label": "Chứng cứ kèm theo 2",
+            "question": "Nhập tài liệu chứng cứ kèm theo số 2 (Ví dụ: Bản sao CCCD của vợ và chồng):",
+            "required": true
+        },
+        {
+            "key": "chung_cu_3",
+            "label": "Chứng cứ kèm theo 3",
+            "question": "Nhập tài liệu chứng cứ kèm theo số 3 (Ví dụ: Bản sao Giấy khai sinh của các con):",
+            "required": false
+        },
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn thuận tình ly hôn chính thức.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

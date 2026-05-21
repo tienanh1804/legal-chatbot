@@ -291,3 +291,43 @@ def export_session(
         filename=f"{template.get('id', 'procedure')}{ext}",
         media_type=media,
     )
+
+
+RAW_MAUDON_MAPPING = {
+    "khoi_kien_tranh_chap_lao_dong": ("lao_dong", "Mẫu đơn khởi kiện tranh chấp lao động.docx"),
+    "de_nghi_ki_tiep_hop_dong_lao_dong": ("lao_dong", "Mẫu đơn đề nghị kí tiếp hợp đồng lao động.docx"),
+    "de_nghi_huong_tro_cap_that_nghiep": ("lao_dong", "Đơn đề nghị hưởng trợ cấp thật nghiệp.docx"),
+    "don_khieu_nai": ("dan_su", "Mau-don-khieu-nai.docx"),
+    "don_xin_tam_hoan_nvqs": ("dan_su", "don-xin-tam-hoan-nvqs.docx"),
+    "mau_don_to_cao": ("dan_su", "mau-don-to-cao-1.docx"),
+    "don_to_giac_toi_pham": ("dan_su", "ĐƠN TỐ GIÁC TỘI PHẠM.docx"),
+    "de_nghi_giai_quyet_tai_nan_giao_thong": ("giao_thong", "MAU DON DE NGHI GIAI QUYET TAI NAN GIAO THONG.docx"),
+    "khoi_kien_gay_tai_nan_giao_thong": ("giao_thong", "mau-don-khoi-kien-gui-gay-tai-nan-giao-thong.docx"),
+    "don_thuan_tinh_ly_hon_mau": ("khac", "don-thuan-tinh-ly-hon.docx"),
+    "don_xin_hoc_them": ("khac", "don-xin-hoc-them-mon-hoc (1).docx"),
+    "don_xin_xac_nhan_gia_dinh_kho_khan": ("khac", "mau-don-xin-xac-nhan-gia-dinh-kho-khan.docx"),
+    "don_ly_hon_don_phuong_mau": ("khac", "Đơn ly hôn đơn phương.docx")
+}
+
+
+@router.get("/templates/{template_id}/download-blank")
+def download_blank_template(
+    template_id: str,
+    current_user: User = Depends(get_current_active_user),
+):
+    if template_id not in RAW_MAUDON_MAPPING:
+        raise HTTPException(status_code=404, detail="Template raw file not mapped")
+    cat, file_name = RAW_MAUDON_MAPPING[template_id]
+    
+    # Base dir for raw templates should be resolved dynamically relative to this file
+    backend_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    raw_path = os.path.join(backend_dir, "pdf_maudon", cat, file_name)
+    if not os.path.isfile(raw_path):
+        raise HTTPException(status_code=404, detail=f"Raw template file not found: {raw_path}")
+        
+    return FileResponse(
+        raw_path,
+        filename=file_name,
+        media_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    )
+

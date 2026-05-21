@@ -219,15 +219,58 @@ def _replace_placeholders_in_paragraph(paragraph: Any, data: Dict[str, Any]) -> 
       may not be replaced reliably. In practice, typing {{key}} normally usually
       keeps it within one run.
     """
+    from docx.shared import Pt, Cm
+    from docx.oxml.ns import qn
+
+    is_kinh_gui = False
+    p_text = (paragraph.text or "").strip().lower()
+    if p_text.startswith("kính gửi:") or p_text.startswith("kinh gui:"):
+        is_kinh_gui = True
+        paragraph.alignment = 1 # Center alignment
+
+    is_list_p = paragraph.style.name == "List Paragraph"
+
     for run in paragraph.runs:
         txt = run.text or ""
-        if "{{" not in txt:
-            continue
-        for k, v in data.items():
-            ph = "{{" + str(k) + "}}"
-            if ph in txt:
-                txt = txt.replace(ph, str(v))
-        run.text = txt
+        replaced = False
+        if "{{" in txt:
+            for k, v in data.items():
+                ph = "{{" + str(k) + "}}"
+                if ph in txt:
+                    txt = txt.replace(ph, str(v))
+                    replaced = True
+            if replaced:
+                run.text = txt
+
+        # Force standard legal styling (Times New Roman 13pt) on replaced runs or all runs in Kính gửi
+        if replaced or is_kinh_gui:
+            run.font.name = "Times New Roman"
+            r = run._element
+            rPr = r.get_or_add_rPr()
+            rFonts = rPr.get_or_add_rFonts()
+            rFonts.set(qn("w:ascii"), "Times New Roman")
+            rFonts.set(qn("w:hAnsi"), "Times New Roman")
+            rFonts.set(qn("w:cs"), "Times New Roman")
+            
+            run.font.size = Pt(13)
+            if is_kinh_gui:
+                run.bold = True
+
+            # If it's a list paragraph that was replaced, change to Normal style to remove bullet and keep indent
+            if replaced and is_list_p:
+                paragraph.style = "Normal"
+                paragraph.paragraph_format.left_indent = Cm(1.27)
+                
+                # Explicitly remove numbering properties (w:numPr) XML element to prevent MS Word from drawing any list bullet
+                try:
+                    pPr = paragraph._element.get_or_add_pPr()
+                    numPr = pPr.find(qn('w:numPr'))
+                    if numPr is not None:
+                        pPr.remove(numPr)
+                except Exception as ex:
+                    logger.warning("Failed to remove w:numPr XML element: %s", ex)
+
+
 
 
 def export_docx_from_template(template_path: str, data: Dict[str, Any], out_path: str) -> None:
@@ -237,11 +280,22 @@ def export_docx_from_template(template_path: str, data: Dict[str, Any], out_path
     The template should use placeholders like: {{field_key}} matching the JSON field keys.
     """
     import docx
+    import re
 
     if not os.path.isfile(template_path):
         raise FileNotFoundError(f"DOCX template not found: {template_path}")
 
     safe_data = {str(k): "" if v is None else str(v) for k, v in (data or {}).items()}
+    
+    # Sanitize Tòa án nhân dân prefix repetitions in variables
+    for k in list(safe_data.keys()):
+        val = safe_data[k]
+        if "toa_an" in k:
+            # Strip common prefixes case-insensitively with space or without
+            val_clean = re.sub(r'^(to[àà]n?\s+[aá]n\s+nh[ââ]n\s+d[ââ]n\s+)', '', val, flags=re.IGNORECASE).strip()
+            val_clean = re.sub(r'^(to[àà]n?\s+[aá]n\s+nh[ââ]n\s+d[ââ]n\s+)', '', val_clean, flags=re.IGNORECASE).strip()
+            safe_data[k] = val_clean
+
     doc = docx.Document(template_path)
 
     for p in doc.paragraphs:
@@ -252,6 +306,106 @@ def export_docx_from_template(template_path: str, data: Dict[str, Any], out_path
             for cell in row.cells:
                 for p in cell.paragraphs:
                     _replace_placeholders_in_paragraph(p, safe_data)
+
+    # Post-processing pass: Clean up redundant blank lines that contain dot leaders or tabs
+    def delete_paragraph(p_obj):
+        p_elem = p_obj._element
+        p_elem.getparent().remove(p_elem)
+        p_obj._p = p_obj._element = None
+
+    from docx.shared import Pt, Cm
+    paras = list(doc.paragraphs)
+    for p in paras:
+        if p._element is None:
+            continue
+        txt = p.text
+        
+        # 1. Clean up redundant empty dot lines
+        if ('\t' in txt or '.' in txt) and not re.search(r'[a-zA-Z0-9\u00C0-\u1EF9]', txt):
+            delete_paragraph(p)
+            continue
+
+        # 2. Restore Bold and Underline for "Họ và tên người đề nghị:"
+        if "Họ và tên người đề nghị:" in txt:
+            val = txt.replace("Họ và tên người đề nghị:", "").strip()
+            p.clear()
+            run_lbl = p.add_run("Họ và tên người đề nghị: ")
+            run_lbl.font.name = "Times New Roman"
+            run_lbl.font.size = Pt(13)
+            run_lbl.bold = True
+            run_lbl.underline = True
+            
+            run_val = p.add_run(val)
+            run_val.font.name = "Times New Roman"
+            run_val.font.size = Pt(13)
+            run_val.bold = False
+            run_val.underline = False
+
+        # 3. Split "Trình bày nội dung sự việc" heading from the filled content
+        elif "Trình bày nội dung sự việc:" in txt or "1. Trình bày nội dung sự việc:" in txt:
+            val = txt.replace("1. Trình bày nội dung sự việc:", "").replace("Trình bày nội dung sự việc:", "").strip()
+            p.clear()
+            
+            # Make the heading standalone and bold
+            run_lbl = p.add_run("1.  Trình bày nội dung sự việc")
+            run_lbl.font.name = "Times New Roman"
+            run_lbl.font.size = Pt(13)
+            run_lbl.bold = True
+            
+            p.paragraph_format.left_indent = None
+            p.paragraph_format.space_before = Pt(6)
+            p.paragraph_format.space_after = Pt(4)
+            
+            # Create a new paragraph immediately after this one for the content
+            p_elem = p._element
+            new_p_elem = docx.oxml.OxmlElement('w:p')
+            p_elem.addnext(new_p_elem)
+            new_p = docx.text.paragraph.Paragraph(new_p_elem, p._parent)
+            
+            new_p.style = "Normal"
+            new_p.paragraph_format.left_indent = Cm(1.27)
+            new_p.paragraph_format.space_after = Pt(6)
+            
+            run_val = new_p.add_run(val)
+            run_val.font.name = "Times New Roman"
+            run_val.font.size = Pt(13)
+            run_val.bold = False
+
+        # 4. Trim empty numbered list elements
+        elif re.match(r'^\d+\.\s*$', txt):
+            delete_paragraph(p)
+            continue
+
+    # 5. Global font formatting pass: unify everything to Times New Roman, Pt(13)
+    from docx.oxml.ns import qn
+    for p in doc.paragraphs:
+        if p._element is None:
+            continue
+        for run in p.runs:
+            run.font.name = "Times New Roman"
+            run.font.size = Pt(13)
+            r = run._element
+            rPr = r.get_or_add_rPr()
+            rFonts = rPr.get_or_add_rFonts()
+            rFonts.set(qn("w:ascii"), "Times New Roman")
+            rFonts.set(qn("w:hAnsi"), "Times New Roman")
+            rFonts.set(qn("w:cs"), "Times New Roman")
+
+    for table in doc.tables:
+        for row in table.rows:
+            for cell in row.cells:
+                for p in cell.paragraphs:
+                    if p._element is None:
+                        continue
+                    for run in p.runs:
+                        run.font.name = "Times New Roman"
+                        run.font.size = Pt(13)
+                        r = run._element
+                        rPr = r.get_or_add_rPr()
+                        rFonts = rPr.get_or_add_rFonts()
+                        rFonts.set(qn("w:ascii"), "Times New Roman")
+                        rFonts.set(qn("w:hAnsi"), "Times New Roman")
+                        rFonts.set(qn("w:cs"), "Times New Roman")
 
     doc.save(out_path)
 

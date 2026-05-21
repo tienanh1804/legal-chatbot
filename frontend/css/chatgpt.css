@@ -39,6 +39,10 @@ body.dark {
   box-sizing: border-box;
 }
 
+button, input, select, textarea, a {
+  font-family: inherit;
+}
+
 html,
 body {
   height: 100%;
@@ -48,8 +52,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI,
-    Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
@@ -720,23 +723,25 @@ body.dark .reference-box {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: calc(100% + 10px);
+  bottom: calc(100% + 12px);
   border: 1px solid var(--border);
-  background: var(--sidebar);
-  box-shadow: var(--shadow);
-  border-radius: 14px;
-  padding: 10px;
+  background: var(--panel);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  border-radius: 24px;
+  padding: 20px 16px;
   z-index: 20;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 12px;
+  min-width: 240px;
 }
 
 .account-dropdown-section {
-  font-size: 12px;
-  font-weight: 900;
+  font-size: 14px;
+  font-weight: 700;
   color: var(--muted);
-  padding: 2px 4px;
+  padding: 0 0 4px 8px;
+  margin-bottom: 4px;
 }
 
 .dropdown-link {
@@ -746,21 +751,51 @@ body.dark .reference-box {
   background: var(--panel);
   color: var(--text);
   cursor: pointer;
-  border-radius: 12px;
-  padding: 10px 10px;
-  font-weight: 900;
-  font-size: 12px;
-  text-decoration: none;
-  transition: transform 120ms ease, background 120ms ease;
+  border-radius: 20px;
+  padding: 14px 20px;
+  font-weight: 500;
+  font-size: 15px;
+  text-decoration: none !important;
+  font-family: 'Roboto', 'Segoe UI', Tahoma, sans-serif !important;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  outline: none;
+  user-select: none;
 }
 
 .dropdown-link:hover {
-  transform: translateY(-1px);
   background: var(--panel-2);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  color: var(--text);
 }
 
 .danger-btn {
-  border-color: rgba(239, 68, 68, 0.35);
+  color: #111827 !important;
+  border: 1px solid #fecaca !important;
+  background: #ffffff !important;
+}
+
+body.dark .danger-btn {
+  background: #0f172a !important;
+  border-color: #ef444455 !important;
+  color: #e5e7eb !important;
+}
+
+.danger-btn:hover {
+  background: #fff1f2 !important;
+  border-color: #fca5a5 !important;
+}
+
+body.dark .danger-btn:hover {
+  background: #1e1b4b !important;
+}
+
+.dropdown-link.danger-btn {
+  border: 1px solid #ffb3b3 !important;
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.03);
 }
 
 @media (max-width: 900px) {
@@ -972,3 +1007,219 @@ body.dark .chat-attachment-card {
   margin: 0 0 12px;
   color: var(--muted);
 }
+
+/* Settings Modal */
+.settings-panel {
+  position: relative;
+  z-index: 1;
+  width: min(500px, 100%);
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  padding-bottom: 12px;
+}
+
+.settings-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.settings-title-text {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.settings-close {
+  border: none;
+  background: transparent;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--muted);
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+
+.settings-close:hover {
+  background: var(--sidebar-hover);
+  color: var(--text);
+}
+
+.settings-content {
+  padding: 16px;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.settings-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.settings-section h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.danger-text {
+  color: #ef4444;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-group label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.form-group input {
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--text);
+  outline: none;
+  font-size: 14px;
+}
+
+.primary-btn {
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: none;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+}
+
+.primary-btn:hover {
+  opacity: 0.9;
+}
+
+/* Premium Procedure Menu Styles */
+.procedure-menu-box {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 14px;
+  width: 100%;
+}
+
+.procedure-cat-btn, .procedure-tmpl-btn, .procedure-back-btn {
+  width: 100%;
+  text-align: left;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+}
+
+.procedure-cat-btn:hover, .procedure-tmpl-btn:hover {
+  background: var(--panel-2);
+  border-color: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(37, 99, 235, 0.1);
+}
+
+.procedure-back-btn {
+  background: rgba(239, 68, 68, 0.05);
+  border-color: rgba(239, 68, 68, 0.2);
+  color: #ef4444;
+  justify-content: center;
+}
+
+.procedure-back-btn:hover {
+  background: rgba(239, 68, 68, 0.1);
+  border-color: #ef4444;
+  transform: translateY(-1px);
+}
+
+/* Premium Procedure Action Buttons */
+.procedure-download-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px !important;
+  margin-top: 14px !important;
+}
+
+.procedure-btn {
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+  padding: 8px 18px;
+  height: 38px;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 13px;
+  gap: 8px;
+  transition: all 150ms ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+}
+
+.procedure-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+}
+
+.procedure-btn.docx {
+  border-color: rgba(37, 99, 235, 0.35);
+  color: #2563eb;
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.procedure-btn.docx:hover {
+  background: rgba(37, 99, 235, 0.12);
+  border-color: #2563eb;
+}
+
+.procedure-btn.pdf {
+  border-color: rgba(220, 38, 38, 0.35);
+  color: #dc2626;
+  background: rgba(220, 38, 38, 0.05);
+}
+
+.procedure-btn.pdf:hover {
+  background: rgba(220, 38, 38, 0.12);
+  border-color: #dc2626;
+}
+
+.procedure-btn.blank {
+  border-color: rgba(75, 85, 99, 0.35);
+  color: #4b5563;
+  background: rgba(75, 85, 99, 0.05);
+}
+
+.procedure-btn.blank:hover {
+  background: rgba(75, 85, 99, 0.12);
+  border-color: #4b5563;
+}
+

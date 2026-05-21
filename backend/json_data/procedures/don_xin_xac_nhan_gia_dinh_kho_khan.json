@@ -1,0 +1,171 @@
+{
+    "id": "don_xin_xac_nhan_gia_dinh_kho_khan",
+    "title": "Đơn xin xác nhận hoàn cảnh khó khăn",
+    "description": "Đơn xin UBND cấp xã/phường xác nhận hoàn cảnh kinh tế gia đình khó khăn để phục vụ xin học bổng, miễn giảm học phí.",
+    "docx_template": "don_xin_xac_nhan_gia_dinh_kho_khan_template.docx",
+    "fields": [
+        {
+            "key": "ubnd_xa_phuong",
+            "label": "UBND xã/phường",
+            "question": "Kính gửi Ủy ban nhân dân xã/phường/thị trấn nào?",
+            "required": true
+        },
+        {
+            "key": "ho_ten",
+            "label": "Họ và tên của bạn",
+            "question": "Nhập Họ và tên đầy đủ của bạn:",
+            "required": true
+        },
+        {
+            "key": "ngay_sinh",
+            "label": "Ngày sinh",
+            "question": "Nhập ngày tháng năm sinh của bạn (dd/mm/yyyy):",
+            "required": true
+        },
+        {
+            "key": "que_quan",
+            "label": "Quê quán",
+            "question": "Nhập quê quán của bạn (Tỉnh/Thành phố):",
+            "required": true
+        },
+        {
+            "key": "dia_chi_tam_tru",
+            "label": "Địa chỉ cư trú",
+            "question": "Nhập địa chỉ cư trú hoặc địa chỉ tạm trú hiện tại của bạn:",
+            "required": true
+        },
+        {
+            "key": "nghe_nghiep",
+            "label": "Nghề nghiệp của bạn",
+            "question": "Nhập nghề nghiệp hiện tại của bạn (Ví dụ: Sinh viên):",
+            "required": true
+        },
+        {
+            "key": "hoan_canh_chi_tiet",
+            "label": "Chi tiết hoàn cảnh gia đình",
+            "question": "Mô tả chi tiết về hoàn cảnh khó khăn của gia đình bạn (Ví dụ: Thu nhập thấp, cha mẹ đau ốm thường xuyên...):",
+            "required": true
+        },
+        {
+            "key": "tuoi_cha",
+            "label": "Tuổi của cha",
+            "question": "Nhập tuổi của cha bạn (ghi năm mất và lý do nếu đã mất):",
+            "required": true
+        },
+        {
+            "key": "dia_chi_cha",
+            "label": "Địa chỉ hiện tại của cha",
+            "question": "Địa chỉ cư trú hiện tại của cha bạn:",
+            "required": true
+        },
+        {
+            "key": "nghe_nghiep_cha",
+            "label": "Nghề nghiệp của cha",
+            "question": "Nghề nghiệp của cha bạn:",
+            "required": true
+        },
+        {
+            "key": "tuoi_me",
+            "label": "Tuổi của mẹ",
+            "question": "Nhập tuổi của mẹ bạn (ghi năm mất và lý do nếu đã mất):",
+            "required": true
+        },
+        {
+            "key": "dia_chi_me",
+            "label": "Địa chỉ hiện tại của mẹ",
+            "question": "Địa chỉ cư trú hiện tại của mẹ bạn:",
+            "required": true
+        },
+        {
+            "key": "nghe_nghiep_me",
+            "label": "Nghề nghiệp của mẹ",
+            "question": "Nghề nghiệp của mẹ bạn:",
+            "required": true
+        },
+        {
+            "key": "hoan_canh_bo_me_khac",
+            "label": "Hoàn cảnh cha mẹ khác",
+            "question": "Trình bày hoàn cảnh khác của cha mẹ (Ví dụ: ly thân, ly hôn, bệnh tật, thương binh...):",
+            "required": false
+        },
+        {
+            "key": "so_anh_chi_em",
+            "label": "Số anh chị em",
+            "question": "Tổng số anh chị em trong gia đình bạn (kể cả bạn):",
+            "required": true
+        },
+        {
+            "key": "tuoi_lon_nhat",
+            "label": "Tuổi người lớn nhất",
+            "question": "Tuổi của người anh/chị lớn nhất trong gia đình:",
+            "required": true
+        },
+        {
+            "key": "tuoi_nho_nhat",
+            "label": "Tuổi người nhỏ nhất",
+            "question": "Tuổi của người em nhỏ nhất trong gia đình:",
+            "required": true
+        },
+        {
+            "key": "di_hoc_cap_1",
+            "label": "Số người đi học Cấp 1",
+            "question": "Số lượng người đang đi học Cấp 1 trong gia đình:",
+            "required": true
+        },
+        {
+            "key": "di_hoc_cap_2",
+            "label": "Số người đi học Cấp 2",
+            "question": "Số lượng người đang đi học Cấp 2 trong gia đình:",
+            "required": true
+        },
+        {
+            "key": "di_hoc_cap_3",
+            "label": "Số người đi học Cấp 3",
+            "question": "Số lượng người đang đi học Cấp 3 trong gia đình:",
+            "required": true
+        },
+        {
+            "key": "di_hoc_dai_hoc",
+            "label": "Số người học Đại học",
+            "question": "Số lượng người đang học Đại học trong gia đình:",
+            "required": true
+        },
+        {
+            "key": "dien_tich_dat",
+            "label": "Diện tích đất trồng",
+            "question": "Diện tích đất trồng trọt hoặc chăn nuôi của gia đình (m2) (nếu không có ghi 0):",
+            "required": true
+        },
+        {
+            "key": "gia_dinh_buon_ban",
+            "label": "Gia đình có kinh doanh",
+            "question": "Gia đình có buôn bán nhỏ hay làm nghề phụ nào khác không?",
+            "required": true
+        },
+        {
+            "key": "thu_nhap_gia_dinh",
+            "label": "Thu nhập của gia đình",
+            "question": "Nhập thu nhập bình quân của hộ gia đình (đồng/tháng):",
+            "required": true
+        },
+        {
+            "key": "thu_nhap_ban_than",
+            "label": "Thu nhập cá nhân",
+            "question": "Thu nhập của riêng bạn (đồng/tháng) (nếu có, không có ghi 0):",
+            "required": false
+        },
+        {
+            "key": "ly_do_xin_xac_nhan",
+            "label": "Lý do xin xác nhận",
+            "question": "Mục đích xin xác nhận này để làm gì? (Ví dụ: Để nộp hồ sơ xét miễn giảm học phí):",
+            "required": true
+        },
+        {
+            "key": "ngay_lam_don",
+            "label": "Ngày làm đơn",
+            "question": "Nhập địa điểm và ngày làm đơn (Ví dụ: Hà Nội, ngày 18 tháng 5 năm 2026):",
+            "required": true
+        }
+    ],
+    "output_template": "Bạn đã hoàn thành mẫu đơn: Đơn xin xác nhận hoàn cảnh khó khăn.\n\nVui lòng tải xuống file Word để chỉnh sửa chi tiết."
+}

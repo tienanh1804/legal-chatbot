@@ -137,12 +137,22 @@ def load_document_metadata():
         with open(METADATA_CSV_PATH, "r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                doc_id = row.get("DocumentID", "")
+                # Strip trailing semicolons from all keys (CSV formatting artifact)
+                clean_row = {k.rstrip(";").strip(): v for k, v in row.items() if k}
+                doc_id = clean_row.get("DocumentID", "")
                 if doc_id:
                     metadata[doc_id] = {
-                        "source": row.get("Source", ""),
-                        "content": row.get("Content", ""),
-                        "number": row.get("Number", ""),
+                        # Store with both the CSV column names AND the expected schema names
+                        "document_title": clean_row.get("Content", ""),
+                        "decision_number": clean_row.get("Number", ""),
+                        "source": clean_row.get("Source", ""),
+                        "agency": "",
+                        "context": "",
+                        "date": "",
+                        # Also keep raw fields
+                        "Content": clean_row.get("Content", ""),
+                        "Number": clean_row.get("Number", ""),
+                        "Source": clean_row.get("Source", ""),
                     }
 
         logger.info(
@@ -320,10 +330,10 @@ def query_documents(
                 documents = _last_hybrid_results["documents"]
 
                 # Load cached metadata (không được cache trong _last_hybrid_results)
-                doc_metadata = load_cached_metadata()
+                doc_metadata = load_document_metadata()
                 if not doc_metadata:
-                    logger.error("No cached metadata found")
-                    return []
+                    logger.warning("No cached metadata found, continuing with empty metadata")
+                    doc_metadata = {}
 
                 # Format results với top_k mới
                 if (
@@ -356,11 +366,12 @@ def query_documents(
                 logger.error("No cached embeddings found")
                 return []
 
-            # Load cached metadata
-            doc_metadata = load_cached_metadata()
+            # Load cached metadata (load_document_metadata is in this file)
+            doc_metadata = load_document_metadata()
+
             if not doc_metadata:
-                logger.error("No cached metadata found")
-                return []
+                logger.warning("No cached metadata found, continuing with empty metadata")
+                doc_metadata = {}
 
             logger.info(f"Loaded {len(document_embeddings)} document embeddings")
 
@@ -437,7 +448,8 @@ def query_documents(
             # Continue with Gemini API fallback instead of returning empty results
 
         documents = load_cached_documents()
-        doc_metadata = load_cached_metadata()
+        
+        doc_metadata = load_document_metadata()
 
         # Perform vector search if we have embeddings
         results = {}
@@ -737,7 +749,7 @@ Trả lời:
             if is_legal_query and answer_text:
                 lines = answer_text.strip().split("\n")
                 line_idx = 0
-                if lines and "Document IDs:" in lines[0]:
+                if lines and ("Document IDs:" in lines[0] or "**Document IDs:**" in lines[0]):
                     doc_ids_line = lines[0].replace("Document IDs:", "").strip()
                     referenced_doc_ids = [
                         doc_id.strip()
@@ -811,11 +823,8 @@ def rag_answer_gemini(
     # - "tóm tắt tài liệu", "phân tích file", "giải thích nội dung file", ...
     # In these cases we prefer to load MANY chunks from the selected/latest file.
     _USER_DOC_SUMMARY_INTENT = re.compile(
-        r"(t[oó]m\s*t[ắa]t|summar|t[óo]m\s*l[ạa]i|t[óo]m\s*t[ắa]t\s*(t[àa]i\s*li[ệe]u|v[ăa]n\s*b[ảa]n|file)|"
-        r"ph[âa]n\s*t[íi]ch\s*(t[àa]i\s*li[ệe]u|v[ăa]n\s*b[ảa]n|file)|"
-        r"gi[ảa]i\s*th[íi]ch\s*(n[ộo]i\s*dung|t[àa]i\s*li[ệe]u|file)|"
-        r"l[àa]m\s*r[õo]\s*(n[ộo]i\s*dung|t[àa]i\s*li[ệe]u|file)|"
-        r"file\s*v[ừa]\s*upload|file\s*m[ới]|t[àa]i\s*li[ệe]u\s*v[ừa]\s*t[ảa]i)",
+        r"(t[oó]m\s*t[ắa]t|summar|t[óo]m\s*l[ạa]i|ph[âa]n\s*t[íi]ch|gi[ảa]i\s*th[íi]ch|l[àa]m\s*r[õo])\s*(t[àa]i\s*li[ệe]u|v[ăa]n\s*b[ảa]n\s*n[àa]y|file)|"
+        r"(file\s*v[ừa]\s*upload|file\s*m[ới]|t[àa]i\s*li[ệe]u\s*v[ừa]\s*t[ảa]i)",
         re.IGNORECASE,
     )
 
@@ -934,7 +943,7 @@ def rag_answer_gemini(
                 except ImportError:
                     from backend.search.user_document_rag import get_recent_user_chunks
                 hits = get_recent_user_chunks(
-                    db, user_id, limit=80, document_ids=doc_filter
+                    db, user_id, limit=20, document_ids=doc_filter
                 )
             else:
                 hits = merge_semantic_and_recent_user_chunks(
@@ -1154,8 +1163,11 @@ def rag_answer_gemini(
     doc_ids = []  # Danh sách các document_id
 
     for doc in relevant_docs:
-        # Lấy document_id từ metadata
-        doc_id = doc["metadata"].get("source", "").replace("Document ID: ", "")
+        # Lấy document_id từ doc (đã được format_hybrid_results thêm vào) hoặc fallback
+        doc_id = doc.get("id", "")
+        if not doc_id:
+            doc_id = doc.get("metadata", {}).get("source", "").replace("Document ID: ", "")
+        
         logging.info(f"Document ID: {doc_id}")
 
         # Lấy ID ngắn gọn từ doc_id (chỉ lấy tên file không có phần mở rộng)
